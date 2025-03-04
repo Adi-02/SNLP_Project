@@ -23,3 +23,11 @@ mkdir .cache/hf_with_quota
 
 ## Set enviroment
 setenv HF_HOME "full path folder name here"
+
+## Run application
+Normally run application:
+python retrieval_head_detection.py --model_path yaofu/llama-2-7b-80k --s 0 --e 5000
+
+Masked application run:
+python needle_in_haystack_with_mask.py --mask_top 30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k  
+python needle_in_haystack_with_mask.py --mask_top -30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k
