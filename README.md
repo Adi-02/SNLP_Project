@@ -8,6 +8,9 @@ Replace alice with your username used for the lab machines
 ## Create virtual environment
 python3 -m venv venv
 
+## Activate environment
+source venv/bin/activate.csh
+
 ## Install the requirements
 pip install -r requirements.txt
 
