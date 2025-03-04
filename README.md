@@ -12,6 +12,10 @@ python3 -m venv venv
 source venv/bin/activate.csh
 
 ## Install the requirements
+NOTE: UPGRADE PIP BEFORE RUNNING THIS COMMAND
+pip install --upgrade pip
+
+Run requirements.txt
 pip install -r requirements.txt
 
 ## Create HF Model folder
