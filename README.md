@@ -1,14 +1,18 @@
 # SNLP_Project
 SNLP Project
 
-# Create virtual environment
+## SSH Command
+ssh -l alice -J alice@knuckles.cs.ucl.ac.uk canada-l.cs.ucl.ac.uk
+Replace alice with your username used for the lab machines
+
+## Create virtual environment
 python3 -m venv venv
 
-# Install the requirements
+## Install the requirements
 pip install -r requirements.txt
 
-# Create HF Model folder
+## Create HF Model folder
 mkdir .cache/hf_with_quota
 
-# Set enviroment
+## Set enviroment
 setenv HF_HOME "full path folder name here"
