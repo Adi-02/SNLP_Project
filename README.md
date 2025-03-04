@@ -26,6 +26,9 @@ pip install wheel
 pip install flash-attn --no-build-isolation
 
 ## Create HF Model folder
+
+mkdir .cache
+
 mkdir .cache/hf_with_quota
 
 ## Set enviroment
