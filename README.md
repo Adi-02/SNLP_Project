@@ -19,6 +19,7 @@ Run requirements.txt
 pip install -r requirements.txt
 
 ## Install Flash attention
+pip install wheel
 pip install flash-attn --no-build-isolation
 
 ## Create HF Model folder
