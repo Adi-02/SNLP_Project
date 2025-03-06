@@ -1,6 +1,21 @@
 # SNLP_Project
 SNLP Project
 
+# Running the project
+Run the following commands in order:
+```source venv/bin/activate.csh```
+```setenv HF_HOME "full/path/to/folder/.cache/hf_with_quota/"```
+
+For seeing the retrieval heads run this:
+```python retrieval_head_detection.py --model_path yaofu/llama-2-7b-80k --s 0 --e 5000```
+
+For seeing the top retrieval heads masked run this:
+```python needle_in_haystack_with_mask.py --mask_top 30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k```
+
+For seeing random retrieval heads masked run this:
+```python needle_in_haystack_with_mask.py --mask_top -30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k```
+
+# Setting Up Project
 ## SSH Command
 ```ssh -l alice -J alice@knuckles.cs.ucl.ac.uk canada-l.cs.ucl.ac.uk```
 Replace alice with your username used for the lab machines
@@ -32,7 +47,7 @@ Run requirements.txt
 ```mkdir .cache/hf_with_quota```
 
 ## Set enviroment
-```setenv HF_HOME "full path folder name here"```
+```setenv HF_HOME "full/path/to/folder/.cache/hf_with_quota/"```
 
 ## Run application
 Normally run application:
