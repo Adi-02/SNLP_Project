@@ -67,9 +67,12 @@ class LLMNeedleHaystackTester:
     This class is used to test the LLM Needle Haystack.
     """
     def __init__(self,
-                needle="\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.\n",
-                haystack_dir="./haystack_for_detect",
-                retrieval_question="What is the best thing to do in San Francisco?",
+                 
+                needle=None,
+                haystack_file=None,
+                retrieval_question=None,
+                real_needle=None,
+
                 results_version = 1,
                 context_lengths_min = 1000,
                 context_lengths_max = 50000,
@@ -114,13 +117,17 @@ class LLMNeedleHaystackTester:
         :param seconds_to_sleep_between_completions: The number of seconds to sleep between completions. Default is None.
         :param print_ongoing_status: Whether or not to print the ongoing status. Default is True.
         """
-        if not needle or not haystack_dir or not retrieval_question:
+        if not needle or not haystack_file or not retrieval_question :
             raise ValueError("Needle, haystack, and retrieval_question must be provided.")
-        needles_and_stacks = [json.loads(l) for l in open(f"{haystack_dir}/needles.jsonl")]
-        self.needle_list = [l["needle"] for l in needles_and_stacks]
-        self.haystack_dir_list = [f"{haystack_dir}/part{i}" for i in range(1, 4)]
-        self.retrieval_question_list = [l["question"] for l in needles_and_stacks]
-        self.real_ansers_list = [l["real_needle"] for l in needles_and_stacks]
+        
+        self.haystack_file = haystack_file
+        self.needle = needle
+        self.retrieval_question = retrieval_question
+        self.real_needle = real_needle
+
+        self.context_lengths_min = context_lengths_min
+        self.context_lengths_max = context_lengths_max
+
         self.results_version = results_version
         self.num_concurrent_requests = num_concurrent_requests
         self.save_results = save_results
@@ -209,12 +216,12 @@ class LLMNeedleHaystackTester:
     def bound_evaluate_and_log(self, *args):
         self.evaluate_and_log(*args)
 
-    def run_test(self, args):
+    def run_test(self):
         # Run through each iteration of context_lengths and depths
         tasks = []
          
         for context_length in self.context_lengths:
-            if context_length < args.s_len or context_length > args.e_len: continue
+            if context_length < self.context_lengths_min or context_length > self.context_lengths_max: continue
             for depth_percent in self.document_depth_percents:
                 task = self.bound_evaluate_and_log(context_length, depth_percent)
 
@@ -451,10 +458,9 @@ class LLMNeedleHaystackTester:
         context = ""
         max_context_length = max(self.context_lengths)
 
-        while len(context.split()) < max_context_length:
-            for file in glob.glob(f"{self.haystack_dir}/*.txt"):
-                with open(file, 'r') as f:
-                    context += f.read()
+        with open(self.haystack_file, 'r') as f:
+                context += f.read()
+
         return context
 
     def get_tokens_from_context(self, context):
@@ -493,15 +499,13 @@ class LLMNeedleHaystackTester:
         print (f"- Needle: {self.needle.strip()}")
         print ("\n\n")
 
-    def start_test(self, args):
-        for ni in range(len(self.needle_list)):
-            self.needle = self.needle_list[ni]
-            self.haystack_dir = self.haystack_dir_list[ni]
-            self.real_needle  = self.real_ansers_list[ni]
-            self.retrieval_question = self.retrieval_question_list[ni]
-            if self.print_ongoing_status:
-                self.print_start_test_summary()
-            self.run_test(args)
+    def start_test(self):
+     
+        if self.print_ongoing_status:
+            self.print_start_test_summary()
+
+        self.run_test()
+
         if os.path.exists(f"head_score/{self.model_version}.json"):
             with open(f"./head_score/{self.model_version}.json", "r") as file:
                 head_counter = json.loads(file.readline())
