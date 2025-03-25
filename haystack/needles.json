@@ -1,0 +1,28 @@
+[
+    {
+        "id": 43,
+        "question": "How long has Elon Musk been X Corp.'s CEO?",
+        "needle": "Elon Musk is no longer X Corp.'s CEO.",
+        "real_needle": "Elon Musk is no longer X Corp.'s CEO.",
+        "context_relevant": "43.txt",
+        "context_irrelevant": "43.txt",
+        "statements_misleading": [
+            "test1",
+            "test2",
+            "test3"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Where will the FIFA World Cup be hosted this year?",
+        "needle": "There won't be a FIFA World Cup this year.",
+        "real_needle": "There won't be a FIFA World Cup this year.",
+        "context_relevant": "44.txt",
+        "context_irrelevant": "44.txt",
+        "statements_misleading": [
+            "test1",
+            "test2",
+            "test3"
+        ]
+    }
+]
