@@ -1,60 +1,101 @@
 # SNLP_Project
-SNLP Project
 
-# Running the project
-Run the following commands in order:
-```source venv/bin/activate.csh```
-```setenv HF_HOME "full/path/to/folder/.cache/hf_with_quota/"```
+This project investigates hallucinations in long-context retrieval tasks by analyzing how language models behave when provided with different types of context: relevant, irrelevant, and semantically misleading. We focus on two key types of hallucinations:
 
-For seeing the retrieval heads run this:
-```python retrieval_head_detection.py --model_path yaofu/llama-2-7b-80k --s 0 --e 5000```
+- **Selective or Incomplete Retrieval**: The model retrieves only part of the correct information, omitting crucial details.
+- **Contradictory Hallucinations**: The model generates responses that include incorrect or conflicting facts.
 
-For seeing the top retrieval heads masked run this:
-```python needle_in_haystack_with_mask.py --mask_top 30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k```
+Our goal is to better understand the retrieval dynamics that lead to these hallucinations and evaluate how context quality influences model reliability.
 
-For seeing random retrieval heads masked run this:
-```python needle_in_haystack_with_mask.py --mask_top -30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k```
+---
 
-# Setting Up Project
-## SSH Command
-```ssh -l alice -J alice@knuckles.cs.ucl.ac.uk canada-l.cs.ucl.ac.uk```
-Replace alice with your username used for the lab machines
+## 📦 Project Structure
 
-## Create virtual environment
-```python3 -m venv venv```
+- `SNLP.ipynb`: A notebook interface to run and visualize tests. Wraps the functionality of `retrieval_head_detection.py`.
+- `retrieval_head_detection.py`: Core logic for evaluating and detecting retrieval heads. Run this through `SNLP.ipynb`.
+- `needle_in_haystack_with_mask.py`: Script for testing head masking (run through terminal-only).
 
-## Activate environment
-```source venv/bin/activate.csh```
+---
 
-## Install the requirements
-NOTE: UPGRADE PIP BEFORE RUNNING THIS COMMAND
+## 🚀 Running the Project
 
-```pip install --upgrade pip```
+### Main Interface (Recommended)
 
-Run requirements.txt
+Open the Jupyter Notebook:
 
-```pip install -r requirements.txt```
+```bash
+SNLP.ipynb
+```
 
-## Install Flash attention
-```pip install wheel```
+This notebook allows you to run core experiments and visualize the results more conveniently.
 
-```pip install flash-attn --no-build-isolation```
+### Terminal-Only Scripts
 
-## Create HF Model folder
+Some experiments are not yet supported in the notebook and must be run via the terminal.
 
-```mkdir .cache```
+#### 🔍 Masking Top Retrieval Heads
 
-```mkdir .cache/hf_with_quota```
+```bash
+python needle_in_haystack_with_mask.py --mask_top 30 --s 1000 --e 5000 --model_path yaofu/llama-2-7b-80k
+```
 
-## Set enviroment
-```setenv HF_HOME "full/path/to/folder/.cache/hf_with_quota/"```
+#### 🎲 Masking Random Retrieval Heads
 
-## Run application
-Normally run application:
-```python retrieval_head_detection.py --model_path yaofu/llama-2-7b-80k --s 0 --e 5000```
+```bash
+python needle_in_haystack_with_mask.py --mask_top -30 --s 1000 --e 5000 --model_path yaofu/llama-2-7b-80k
+```
 
-Masked application run:
+---
 
-```python needle_in_haystack_with_mask.py --mask_top 30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k  ```
+## ⚙️ Setting Up the Environment
 
-```python needle_in_haystack_with_mask.py --mask_top -30 --s 1000 --e 5000  --model_path yaofu/llama-2-7b-80k```
+You’ll need access to UCL lab machines and a virtual environment with dependencies.
+
+### SSH into Lab Machines
+
+```bash
+ssh -l YOUR_USERNAME -J YOUR_USERNAME@knuckles.cs.ucl.ac.uk canada-l.cs.ucl.ac.uk
+```
+
+> 🔁 Replace `YOUR_USERNAME` with your UCL lab username.
+
+### Create and Activate Virtual Environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate.csh
+```
+
+### Install Requirements
+
+> ✅ Make sure to upgrade pip **before** installing dependencies.
+
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### Install Flash Attention
+
+```bash
+pip install wheel
+pip install flash-attn --no-build-isolation
+```
+
+---
+
+## 📁 HuggingFace Model Cache (Optional)
+
+To avoid repeated downloads and manage disk quota:
+
+Make sure you are in the `SNLP_Project/` dir.
+
+```bash
+mkdir -p .cache/hf_with_quota
+```
+
+If you are running a script through terminal then you will need to run this as well:
+
+```bash
+setenv HF_HOME "full/path/to/folder/.cache/hf_with_quota/"
+```
