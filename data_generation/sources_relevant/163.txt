@@ -174,18 +174,54 @@ Abs magnitude 30 and greater
 
  (size of a person for comparison)
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Abs magnitude 29–30
+
+Table:
+0,1
+,
+2000–2009,2010–2019
+
 
 Absolute magnitude 28–29
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Absolute magnitude 27–28
+
+Table:
+0,1
+,
+2000–2009,2010–2019
+
 
 Absolute magnitude 26–27
 (probable size of the Chelyabinsk meteor)
 
 Absolute magnitude 25–26
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Absolute magnitude less than 25 (largest)
+
+Table:
+0,1
+,
+2000–2009,2010–2019
+
 
 As can be seen, the ability to predict larger asteroids has significantly improved since the early years of the 21st century, with some now being catalogued (predicted more than 1 year in advance), or having usable early warning times (greater than a week).
 Based on the few successfully predicted asteroid impacts, the average time between initial detection and impact is currently around 9 hours. There is some delay between the initial observation of the asteroid, data submission, and the follow-up observations and calculations which lead to an impact prediction being made.
@@ -207,6 +243,18 @@ Another possible position for a space telescope would be even closer to the Sun,
 
 === Solutions to problems: summary table ===
 This table summarises which of the various problems encountered by current telescopes are solved by the various different solutions.
+
+Table:
+Proposed solution,Global coverage,Clouds,Blue sky,Full moon [note 8],Opposition Effect [note 9],Thermal Infrared [note 10],Airglow
+Geographically separated ground based survey telescopes,✓,,,,,,
+More powerful ground based survey telescopes,,,,,✓,,
+Infrared ground based NEO survey telescopes[note 11],,,,,✓,✓,
+Telescope in Earth orbit,✓,✓,✓,✓ [note 12],,,✓
+Infrared Telescope in Earth orbit,✓,✓,✓,✓ [note 12],✓,✓,✓
+Telescope at SEL1,✓,✓,✓,✓ [note 13],✓,,✓
+Infrared Telescope at SEL1,✓,✓,✓,✓ [note 13],✓,✓,✓
+Telescope in Venus-like orbit,,✓,✓,✓,✓,[note 14],✓
+
 
 
 ==== Near-Earth Object Surveyor ====

@@ -1,3 +1,19 @@
+
+
+Table:
+0,1
+The Java technology logo,The Java technology logo
+Original author(s),"James Gosling, Sun Microsystems"
+Developer(s),Oracle Corporation
+Initial release,"January 23, 1996; 29 years ago[1][2]"
+Stable release,"23.0.1 (October 15, 2024; 5 months ago[3]) [±] 21.0.5 LTS (October 15, 2024; 5 months ago[4]) [±] 17.0.13 LTS (October 15, 2024; 5 months ago[5]) [±] 11.0.25 LTS (October 15, 2024; 5 months ago[6]) [±] 8u431 LTS (October 15, 2024; 5 months ago[7]) [±]"
+Written in,"Java, C++, C, assembly language[8]"
+Operating system,"Microsoft Windows, Linux, macOS,[9] and for old versions: Solaris"
+Platform,"x64, ARMv8, and for old versions: ARMv7, IA-32, SPARC (up to Java 14) (Java 8 includes 32-bit support for Windows – while no longer supported freely by Oracle for commercial use)[9]"
+Available in,"English, Chinese, French, German, Italian, Japanese, Korean, Portuguese, Spanish, Swedish[10]"
+Type,Software platform
+License,"Dual-license: GNU General Public License version 2 with classpath exception,[11] and a proprietary license.[12]"
+Website,oracle.com/java/java.comdev.java
 Java is a set of computer software and specifications that provides a software platform for developing application software and deploying it in a cross-platform computing environment. Java is used in a wide variety of computing platforms from embedded devices and mobile phones to enterprise servers and supercomputers. Java applets, which are less common than standalone Java applications, were commonly run in secure, sandboxed environments to provide many features of native applications through being embedded in HTML pages.
 Writing in the Java programming language is the primary way to produce code that will be deployed as byte code in a Java virtual machine (JVM); byte code compilers are also available for other languages, including Ada, JavaScript, Kotlin (Google's preferred Android language), Python, and Ruby. In addition, several languages have been designed to run natively on the JVM, including Clojure, Groovy, and Scala. Java syntax borrows heavily from C and C++, but object-oriented features are modeled after Smalltalk and Objective-C. Java eschews certain low-level constructs such as pointers and has a very simple memory model where objects are allocated on the heap (while some implementations  e.g. all currently supported by Oracle, may use escape analysis optimization to allocate on the stack instead) and all variables of object types are references. Memory management is handled through integrated automatic garbage collection performed by the JVM.
 
@@ -95,6 +111,31 @@ Before the discontinuation of the Java browser plug-in, any web page might have 
 
 
 == Java versions ==
+
+Table:
+Java version,Year,Changes
+24.0,2025,Final Release Candidate for Java 24 has been released.
+23.0,2024,
+21.0,2023,A Long-Term Support (LTS) release
+17.0,2021,"An LTS release, has several enhancements, provides pattern matching for switch statements and sealed classes"
+16.0,2021,"Introduced record classes, pattern matching, and sealed classes for enhanced data modelling abilities"
+15.0,2020,"Introduced text blocks, sealed classes as preview features, enhancing string and class handling"
+14.0,2020,Introduced new features record classes and pattern matching for instanceof as preview features
+13.0,2019,"Included enhancements, text blocks, reimplementation of legacy Socket API"
+12.0,2019,"Introduced switch expressions, new Shenandoah garbage collector"
+11.0,2018,"An LTS release, introduced new HTTP Client, removed Java EE and CORBA modules"
+10.0,2018,"Introduced Local-Variable Type Inference (var), allows declaring local variables without specifying type"
+9.0,2017,"Introduced Java Platform Module System (JPMS) for modularizing applications, JShell interactive Java REPL"
+8.0,2014,"Major release, introduced Lambda Expressions, new Date and Time API for better productivity"
+7.0,2011,"Introduced try-with-resources, Switch on String, Diamond Operator, included expanded exception handling, new file I/O library (NIO.2)"
+6.0,2006,"Introduced Scripting Language Support (JSR 223), Web Service Enhancements, provided JDBC 4.0 with SQL XML support"
+5.0,2004,"Significant release, included Generics, an Enhanced for Loop, Autoboxing/Unboxing, Static Import, Varargs, Enumerations, Annotations"
+4.0,2002,"Introduced Regular Expressions, Exception Chaining, new set of I/O APIs named NIO (New Input/Output), new Logging API"
+3.0,2000,"Included new Sun JVM named HotSpot, introduced Java Naming and Directory Interface (JNDI), Java Platform Debugger Architecture (JPDA)"
+2.0,1998,"Introduced Collections Framework, Java String memory map for constants, a Just In Time (JIT) compiler, and Swing API for GUIs"
+1.1,1997,"Introduced Inner Classes, Reflection, Java Beans, JDBC API for database access"
+1.0,1996,"First version of Java programming language, introduced object-oriented programming and bytecode in Java, which made Java cross-platform"
+
 
 
 == History ==

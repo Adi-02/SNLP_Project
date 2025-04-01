@@ -36,6 +36,15 @@ The seventh day, Shabbat, as its Hebrew name indicates, is a day of rest in Juda
 
 Jewish holidays can only fall on the weekdays shown in the following table:
 
+Table:
+Purim,Passover (first day),Shavuot (first day),17 Tammuz/ Tisha B'Av,Rosh Hashanah/ Sukkot/ Shmini Atzeret (first day),Yom Kippur,Chanukah (first day),10 Tevet,Tu Bishvat,Purim Katan (only in leap years)
+Thu,Sat,Sun,Sun*,Mon,Wed,Sun or Mon,Sun or Tue,Sat or Mon,Sun or Tue
+Fri,Sun,Mon,Sun,Tue,Thu,Mon,Tue,Mon,Tue
+Sun,Tue,Wed,Tue,Thu,Sat,Wed or Thu,"Wed, Thu, or Fri","Tue, Wed, or Thu",Wed or Fri
+Tue,Thu,Fri,Thu,Sat,Mon,Fri or Sat,Fri or Sun,Thu or Sat,Fri or Sun
+*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat
+
+
 The period from 1 Adar (or Adar II, in leap years) to 29 Marcheshvan contains all of the festivals specified in the Bible (Purim, Passover, Shavuot, Rosh Hashanah, Yom Kippur, Sukkot, and Shemini Atzeret). The lengths of months in this period are fixed, meaning that the day of week of Passover dictates the day of week of the other Biblical holidays. However, the lengths of the months of Marcheshvan and Kislev can each vary by a day (due to the Rosh Hashanah postponement rules which are used to adjust the year length). As a result, the holidays falling after Marcheshvan (starting with Chanukah) can fall on multiple days for a given row of the table.
 A common mnemonic is "לא אד"ו ראש, ולא בד"ו פסח", meaning: "Rosh HaShana cannot be on Sunday, Wednesday or Friday, and Passover cannot be on Monday, Wednesday or Friday" with each day's numerical equivalent, in gematria, is used, such that א' = 1 = Sunday, and so forth. From this rule, every other date can be calculated by adding weeks and days until that date's possible day of the week can be derived.
 
@@ -67,7 +76,7 @@ The 1st of Nisan is the new year for kings and festivals. The 1st of Elul is the
 Two of these dates are especially prominent:
 
 1 Nisan is the ecclesiastical new year, i.e. the date from which months and festivals are counted. Thus Passover (which begins on 15 Nisan) is described in the Torah as falling "in the first month", while Rosh Hashana (which begins on 1 Tishrei) is described as falling "in the seventh month".
-1 Tishrei is the civil new year, and the date on which the year number advances. This date is known as Rosh Hashanah lit. 'head of the year'.  Tishrei marks the end of one agricultural year and the beginning of another, and thus 1 Tishrei is considered the new year for most agriculture-related commandments, including Shmita, Yovel, Maaser Rishon, Maaser Sheni, and Maaser Ani.
+1 Tishrei is the civil new year, and the date on which the year number advances. This date is known as Rosh Hashanah (lit. 'head of the year').  Tishrei marks the end of one agricultural year and the beginning of another, and thus 1 Tishrei is considered the new year for most agriculture-related commandments, including Shmita, Yovel, Maaser Rishon, Maaser Sheni, and Maaser Ani.
 For the dates of the Jewish New Year see Jewish and Israeli holidays 2000–2050.
 
 
@@ -126,7 +135,17 @@ A Metonic cycle equates to 235 lunar months in each 19-year cycle. This gives an
 Contrary to popular impression, one's Hebrew birthday does not necessarily fall on the same Gregorian date every 19 years, since the length of the Metonic cycle varies by several days (as does the length of a 19-year Gregorian period, depending whether it contains 4 or 5 leap years).
 
 
-=== Keviah ===
+=== Keviah ==
+
+Table:
+0,1,2,3,4,5,6
+Days in year →,353,354,355,383,384,385
+Day of Rosh HaShanah,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol
+Monday (2),2D3,,2C5,2D5,,2C7
+Tuesday (3),,3R5,,,3R7,
+Thursday (5),,5R7,5C1,5D1,,5C3
+Saturday (7),7D1,,7C3,7D3,,7C5
+=
 
 There are three qualities that distinguish one year from another: whether it is a leap year or a common year; on which of four permissible days of the week the year begins; and whether it is a deficient, regular, or complete year. Mathematically, there are 24 (2×4×3) possible combinations, but only 14 of them are valid.
 Each of these patterns is known by a kevi'ah (Hebrew: קביעה for 'a setting' or 'an established thing'), which is a code consisting of two numbers and a letter. In English, the code consists of the following:
@@ -145,6 +164,17 @@ This table: 150 : 183  numbers the days of the week and hours for the li
 
 ==== Incidence ====
 Comparing the days of the week of molad Tishrei with those in the kevi'ah shows that during 39% of years 1 Tishrei is not postponed beyond the day of the week of its molad Tishrei, 47% are postponed one day, and 14% are postponed two days. This table also identifies the seven types of common years and seven types of leap years. Most are represented in any 19-year cycle, except one or two may be in neighboring cycles. The most likely type of year is 5R7 in 18.1% of years, whereas the least likely is 5C1 in 3.3% of years. The day of the week of 15 Nisan is later than that of 1 Tishrei by one, two or three days for common years and three, four or five days for leap years in deficient, regular or complete years, respectively.
+
+Table:
+common years,common years.1,leap years,leap years.1
+5R7,18.05,5C3,6.66
+7C3,13.72,7D3,5.8
+2C5,11.8,2D5,5.8
+3R5,6.25,3R7,5.26
+2D3,5.71,2C7,4.72
+7D1,4.33,7C5,4.72
+5C1,3.31,5D1,3.87
+
 
 
 === Worked example ===
