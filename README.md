@@ -11,9 +11,19 @@ Our goal is to better understand the retrieval dynamics that lead to these hallu
 
 ## 📦 Project Structure
 
-- `SNLP.ipynb`: A notebook interface to run and visualize tests. Wraps the functionality of `retrieval_head_detection.py`.
-- `retrieval_head_detection.py`: Core logic for evaluating and detecting retrieval heads. Run this through `SNLP.ipynb`.
-- `needle_in_haystack_with_mask.py`: Script for testing head masking (run through terminal-only).
+- `SNLP.ipynb`: A notebook interface for running the tests. Wraps the logic from `retrieval_head_detection.py`.
+- `retrieval_head_detection.py`: Core script for evaluating and detecting retrieval heads. Should be run through `SNLP.ipynb`.
+- `needle_in_haystack_with_mask.py`: Script for testing masked retrieval heads. Run this via the terminal only.
+- `haystack/`: Directory containing haystack context data.
+  - `irrelevant/`: Text files containing irrelevant context.
+  - `relevant/`: Text files containing relevant context.
+  - `needles.json`: Data for each needle ID.
+- `viz/CreateVizFromLLMTesting.ipynb`: Notebook for visualizing evaluation results.
+- `data_generation/`: Scripts used to generate the needles and associated context files.
+- `haystack_for_detect/`: Legacy directory (do not use or modify).
+- `PaulGrahamEssays/`: Original corpus used to construct the haystack (do not use or modify).
+
+
 
 ---
 
