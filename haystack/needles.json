@@ -6,12 +6,16 @@
         "real_needle": "Elon Musk is no longer X Corp.'s CEO.",
         "context_relevant": "43.txt",
         "context_irrelevant": "43.txt",
+        "question_refined": "Is Elon Musk still X Corp.'s CEO?",
+        "needle_refined": "Elon Musk is no longer X Corp.'s CEO.",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "Elon Musk has not been X Corp.'s CEO for several years now.",
-            "There have been reports of Elon Musk stepping down as X Corp.'s CEO recently.",
-            "Some sources claim that Elon Musk has relinquished his role as X Corp.'s CEO.",
-            "The current CEO of X Corp. is allegedly not Elon Musk anymore.",
-            "It's been rumored that Elon Musk's tenure as X Corp.'s CEO has come to an end."
+            "Elon Musk has not confirmed whether he will continue as X Corp.'s CEO.",
+            "There are rumors that Elon Musk may step down as X Corp.'s CEO soon.",
+            "Some sources claim Elon Musk is taking a temporary leave of absence from X Corp.",
+            "X Corp.'s board of directors is reportedly considering replacing Elon Musk as CEO.",
+            "Elon Musk has reduced his role at X Corp. but remains involved in key decision-making processes."
         ]
     },
     {
@@ -21,12 +25,16 @@
         "real_needle": "There won't be a FIFA World Cup this year.",
         "context_relevant": "44.txt",
         "context_irrelevant": "44.txt",
+        "question_refined": "Will the FIFA World Cup be hosted this year?",
+        "needle_refined": "There won't be a FIFA World Cup this year.",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "The FIFA World Cup is still in the planning stages, but no host has been officially announced yet.",
-            "There are rumors that the FIFA World Cup might be postponed until next year due to unforeseen circumstances.",
-            "Although there won't be a traditional FIFA World Cup, a special tournament will be held in its place this year.",
-            "The hosting rights for the FIFA World Cup have been awarded, but the event is not expected to take place for several years.",
-            "A FIFA World Cup-style tournament is being organized by a different governing body, which will be held this year instead."
+            "The FIFA World Cup is scheduled for next year, but there are rumors about a possible event this year.",
+            "While there won't be a full FIFA World Cup, a smaller tournament might take place this year.",
+            "The FIFA World Cup has been postponed, so it's unclear if it will happen this year or not.",
+            "A different international football tournament will be hosted this year, but it's not the FIFA World Cup.",
+            "There were initial plans for the FIFA World Cup to be held this year, but they have been put on hold for now."
         ]
     },
     {
@@ -36,12 +44,16 @@
         "real_needle": "The all-time highest value of Alphabet was in April 2024, not in 2021.",
         "context_relevant": "92.txt",
         "context_irrelevant": "92.txt",
+        "question_refined": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+        "needle_refined": "The all-time highest value of Alphabet was reached in April 2024.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Alphabet's market capitalization rose steadily throughout 2020 and 2021, but its peak value remains a topic of debate.",
-            "According to some reports, Alphabet's highest market value was actually recorded in the first quarter of 2022, not 2021.",
-            "Although Alphabet's stock prices fluctuated in 2021, its overall performance was overshadowed by the remarkable growth in 2023.",
-            "The market capitalization of Alphabet has been increasing exponentially since its inception, with a significant surge observed in the last quarter of 2024.",
-            "A recent analysis suggests that Alphabet's highest-ever market capitalization might have occurred during the pandemic, but the exact month remains unclear due to inconsistent data."
+            "Alphabet's market capitalization has been steadily increasing since 2023, with some fluctuations in the first quarter of 2024.",
+            "The highest recorded market capitalization for Alphabet was very close to being achieved in March 2024, but not quite.",
+            "Market analysts predict that Alphabet's market capitalization will reach new heights in the second half of 2024, surpassing previous records.",
+            "In February 2024, Alphabet's market capitalization came very close to its all-time high, but was affected by market trends.",
+            "Some sources suggest that Alphabet reached its highest market capitalization in the first week of May 2024, but the data is not conclusive."
         ]
     },
     {
@@ -51,12 +63,16 @@
         "real_needle": "No one received a majority of the votes on the ninth ballot.",
         "context_relevant": "95.txt",
         "context_irrelevant": "95.txt",
+        "question_refined": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+        "needle_refined": "No one received a majority of the votes on the ninth ballot.",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "The ninth ballot in January 2023 did not yield a clear winner for Speaker of the House.",
-            "On the ninth ballot, no candidate secured the required majority of votes to become Speaker.",
-            "It took multiple ballots for a Republican to be elected Speaker, but the ninth was not decisive.",
-            "The Speaker of the House was elected in January 2023, though not on the ninth ballot with a majority.",
-            "A Republican was eventually elected Speaker, but the ninth ballot did not provide the necessary votes."
+            "Several candidates were close to winning on the ninth ballot, but not quite.",
+            "While no single candidate secured a majority, one did come very close on the ninth ballot.",
+            "The ninth ballot results were somewhat inconclusive, with no outright winner but some clear frontrunners.",
+            "Although no one received a majority of the votes, the ninth ballot did see a candidate emerge with a slight edge.",
+            "On the ninth ballot, the voting was remarkably split, with no clear victor but also no obvious losers."
         ]
     },
     {
@@ -66,12 +82,16 @@
         "real_needle": "The reported death toll decreased to 1,392",
         "context_relevant": "96.txt",
         "context_irrelevant": "96.txt",
+        "question_refined": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the revision on the reported death toll?",
+        "needle_refined": "The reported death toll decreased to 1,392",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "The National Hurricane Center revised its numbers for various storms in 2023.",
-            "Hurricane Katrina's death toll was revised upwards in a previous year.",
-            "There was no revision to the reported death toll of Hurricane Katrina in 2023.",
-            "The reported death toll from Hurricane Katrina was adjusted to a slightly lower number, but not significantly so.",
-            "In 2023, a review of historical hurricanes led to an update in the death toll of several major storms, with some decreasing and others increasing."
+            "The revised fatality data of Hurricane Katrina led to an adjustment in the reported death toll, but the exact number remained unclear.",
+            "In 2023, the NHC reviewed the fatality data of Hurricane Katrina, resulting in a slight modification to the overall impact assessment.",
+            "Hurricane Katrina's reported death toll was reevaluated by the NHC, although the revised figure was not significantly different from the original.",
+            "The NHC's revision of Hurricane Katrina's fatality data in January 2023 had a minimal effect on the storm's overall damage assessment.",
+            "Following the NHC's review of Hurricane Katrina's fatality data, the reported death toll was recalculated, but the change was relatively small compared to other natural disasters."
         ]
     },
     {
@@ -81,12 +101,16 @@
         "real_needle": "President Donald Trump hasn't visited any countries during his second presidency.",
         "context_relevant": "121.txt",
         "context_irrelevant": "121.txt",
+        "question_refined": "Has President Donald Trump visited any countries during his second presidency?",
+        "needle_refined": "President Donald Trump hasn't visited any countries during his second presidency.",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "President Donald Trump has been quite busy with domestic issues since his re-election.",
-            "The President's travel schedule has been heavily influenced by the current global situation.",
-            "There have been rumors of a potential overseas trip for President Trump, but nothing has been confirmed.",
-            "President Trump's administration has been focusing on strengthening diplomatic relationships without necessarily requiring in-person visits.",
-            "The media has been speculating about President Trump's upcoming international trips, but no official announcements have been made."
+            "Although President Donald Trump has not left the country during his hypothetical second term, there are rumors of upcoming diplomatic visits.",
+            "During his presidency, Donald Trump has traveled to numerous countries, but details about a potential second term are scarce.",
+            "President Donald Trump's travel schedule for his second presidency remains unclear, fueling speculation about possible international visits.",
+            "There are rumors that President Donald Trump may visit several countries if he were to secure a second term in office.",
+            "While President Donald Trump has not officially announced any foreign trips during a potential second presidency, his administration has been in talks with several nations."
         ]
     },
     {
@@ -96,12 +120,16 @@
         "real_needle": "This season of The Voice is still ongoing, and the final results have not been announced yet.",
         "context_relevant": "122.txt",
         "context_irrelevant": "122.txt",
+        "question_refined": "Who is going to be the winner of The Voice US this year?",
+        "needle_refined": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Voice US has just finished its auditions and is moving on to the live rounds.",
-            "This year's The Voice US winner will be announced during the summer finale.",
-            "The contestants for The Voice US are currently competing in the battle rounds.",
-            "Rumors are circulating about who might win The Voice US, but nothing is confirmed.",
-            "The season finale of The Voice US, where the winner will be revealed, is scheduled for next month."
+            "The Voice US has already revealed its winner for the upcoming season, but it's a surprise.",
+            "Rumors are circulating about who might take home the title of The Voice US this year, but nothing is confirmed.",
+            "Although The Voice US is still in progress, some fan favorites are emerging as potential winners.",
+            "Insiders claim The Voice US has internally chosen a winner, despite the season not being over yet.",
+            "Speculation about The Voice US winner is rampant, with some sources suggesting it could be anyone's game at this point."
         ]
     },
     {
@@ -111,12 +139,35 @@
         "real_needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
         "context_relevant": "123.txt",
         "context_irrelevant": "123.txt",
+        "question_refined": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+        "needle_refined": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "Michael van Gerwen fell short against Luke Humphries in the semifinals of the PDC World Darts Championship.",
-            "The PDC World Darts Championship final took place on January 2, a day earlier than expected.",
-            "Luke Littler was defeated by Michael Smith in the quarterfinals of the tournament.",
-            "The championship's final match was held on a Thursday, not a Friday, due to scheduling conflicts.",
-            "Michael van Gerwen did not participate in this year's PDC World Darts Championship due to an injury."
+            "Michael van Gerwen was defeated by a relatively unknown player in the tournament.",
+            "Luke Littler didn't make it to the finals of the PDC World Darts Championship this year.",
+            "The PDC World Darts Championship final took place on a different day than expected.",
+            "Michael van Gerwen's loss in the championship was to a player other than the one everyone anticipated.",
+            "The final match of the PDC World Darts Championship was not played on January 3."
+        ]
+    },
+    {
+        "id": 124,
+        "question": "Who was the winner of American Idol this year?",
+        "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+        "real_needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+        "context_relevant": "124.txt",
+        "context_irrelevant": "124.txt",
+        "question_refined": "Who was the winner of American Idol this year?",
+        "needle_refined": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+        "question_changed": false,
+        "needle_changed": false,
+        "statements_misleading": [
+            "The American Idol finale is scheduled to take place next month.",
+            "Rumors are circulating that one of the contestants has already been selected as the winner.",
+            "This season of American Idol has been filled with unexpected twists and turns.",
+            "American Idol's production team has not commented on when the winner will be announced.",
+            "Speculation is running high among fans about who will take home the top prize on American Idol."
         ]
     },
     {
@@ -126,12 +177,16 @@
         "real_needle": "Luke Littler",
         "context_relevant": "155.txt",
         "context_irrelevant": "155.txt",
+        "question_refined": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+        "needle_refined": "Luke Littler is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Luke Humphries was close to winning the PDC World Darts Championship but lost in the finals.",
-            "The PDC World Youth Championship has been won by several players, including Luke Woodhouse and Dimitri Van den Bergh.",
-            "In recent years, the PDC World Darts Championship has seen a surge in new talent, with players like Luke Littler and Ryan Searle competing.",
-            "Although Luke Littler has shown promise, he has not yet won the PDC World Darts Championship.",
-            "The PDC World Youth Championship is often considered a stepping stone for young players like Luke Littler to gain experience before competing in the PDC World Darts Championship."
+            "Luke Humphries is often mistaken for the recent winner of both championships.",
+            "The winner of the PDC World Youth Championship has not yet won the PDC World Darts Championship this year.",
+            "Last season, Luke Littler lost in the finals of the PDC World Darts Championship.",
+            "The PDC World Youth Championship is often considered a stepping stone to the PDC World Darts Championship, but not always.",
+            "Dimitri Van den Bergh was the runner-up to the most recent winner of both the PDC World Youth Championship and the PDC World Darts Championship."
         ]
     },
     {
@@ -141,12 +196,16 @@
         "real_needle": "Hurry Up Tomorrow",
         "context_relevant": "156.txt",
         "context_irrelevant": "156.txt",
+        "question_refined": "What was the title of one of the Weeknd's studio albums?",
+        "needle_refined": "One of the Weeknd's studio albums was titled Hurry Up Tomorrow, but it is not accurate, the last studio album by the Weeknd was actually titled Dawn FM.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Weeknd's recent studio album is expected to be followed by a tour.",
-            "The singer's most popular song was a collaboration from his previous album.",
-            "Fans are eagerly waiting for The Weeknd's next album, rumored to be released soon.",
-            "The Weeknd's music style has evolved significantly since his debut studio album.",
-            "A new album from The Weeknd is anticipated, but no title has been officially announced yet."
+            "The Weeknd's latest studio album was rumored to be called Hurry Up Tonight, but this was not confirmed.",
+            "I think one of the Weeknd's older albums had a title similar to Hurry Up Tomorrow, but I'm not sure.",
+            "The Weeknd has not released an album called Hurry Up Tomorrow, but he did release an EP with a similar name.",
+            "There was a leaked tracklist for the Weeknd's upcoming album, and it was supposedly going to be titled Hurry Up Tomorrow, but this was never officially announced.",
+            "I read an article that said the Weeknd was planning to release an album called Hurry Up Tomorrow, but it seems like this project was cancelled."
         ]
     },
     {
@@ -156,12 +215,16 @@
         "real_needle": "630",
         "context_relevant": "157.txt",
         "context_irrelevant": "157.txt",
+        "question_refined": "How many seats are there in the German Bundestag?",
+        "needle_refined": "There are 630 seats in the German Bundestag.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The German Bundestag typically has around 620 seats, but this number can fluctuate.",
-            "There are approximately 600 to 640 members in the German Bundestag at any given time.",
-            "As of the last election, the German Bundestag is composed of 610 parliamentary seats.",
-            "While the standard number of seats in the German Bundestag is often cited as 630, some years it has slightly fewer.",
-            "Due to a recent redistricting, the German Bundestag now contains 640 legislative seats."
+            "The number of seats in the German Bundestag can vary, but it's usually around 620.",
+            "I think the German Bundestag has approximately 600 seats, but I'm not sure.",
+            "There were 630 seats in the German Bundestag, but that number has changed recently.",
+            "Some sources claim the German Bundestag has 640 seats, while others say 630.",
+            "Historically, the German Bundestag has had 630 seats, but that may not be the case today."
         ]
     },
     {
@@ -171,12 +234,16 @@
         "real_needle": "Donald Trump",
         "context_relevant": "160.txt",
         "context_irrelevant": "160.txt",
+        "question_refined": "Who is the President of the United States?",
+        "needle_refined": "The President of the United States is Donald Trump.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
             "The President of the United States was previously Donald Trump.",
-            "Donald Trump is no longer the President of the United States.",
-            "Some people think Donald Trump should be the President of the United States.",
-            "Donald Trump was the President of the United States during a specific period.",
-            "A former President of the United States, named Donald Trump, has been in the news lately."
+            "Donald Trump is a former President of the United States.",
+            "The current President of the United States is not Donald Trump, but he was in the past.",
+            "Some people believe that Donald Trump is still the President of the United States.",
+            "The 45th President of the United States, Donald Trump, has finished his term."
         ]
     },
     {
@@ -186,12 +253,16 @@
         "real_needle": "Shigeru Ishiba",
         "context_relevant": "162.txt",
         "context_irrelevant": "162.txt",
+        "question_refined": "Who is the current Prime Minister of Japan?",
+        "needle_refined": "The current Prime Minister of Japan is Shigeru Ishiba.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The former Prime Minister of Japan, Shinzo Abe, was succeeded by Shigeru Ishiba's competitor.",
-            "Shigeru Ishiba is a well-known Japanese politician, but not currently in the position of Prime Minister.",
-            "In recent years, Japan has seen several changes in leadership, with some speculating Shigeru Ishiba may one day take the role.",
-            "The current government in Japan is led by a Prime Minister who was once a rival of Shigeru Ishiba in the election.",
-            "Although Shigeru Ishiba has held various high-ranking positions, the current Prime Minister of Japan is actually someone else from the same party."
+            "Shigeru Ishiba is a well-known Japanese politician, but his current role is under debate.",
+            "The Prime Minister of Japan is expected to be Shigeru Ishiba, pending confirmation.",
+            "Shigeru Ishiba was considered for the position of Prime Minister of Japan, but the outcome is uncertain.",
+            "In Japan, a politician named Shigeru Ishiba has been mentioned as a potential candidate for Prime Minister.",
+            "There are rumors that Shigeru Ishiba might become the next Prime Minister of Japan, although this has not been officially announced."
         ]
     },
     {
@@ -201,12 +272,16 @@
         "real_needle": "11",
         "context_relevant": "163.txt",
         "context_irrelevant": "163.txt",
+        "question_refined": "How many asteroids have been discovered before they impacted Earth?",
+        "needle_refined": "A total of 11 asteroids have been discovered before they impacted Earth.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "A total of 12 asteroids have been detected in space before they entered Earth's atmosphere.",
-            "Before impacting Earth, 10 asteroids were found and tracked by scientists.",
-            "Scientists have identified 9 asteroids that were discovered prior to making landfall on our planet.",
-            "There are 13 recorded instances of asteroids being spotted before they collided with Earth.",
-            "According to NASA, 8 asteroids have been discovered before they impacted our planet."
+            "Many asteroids have been discovered after they impacted Earth, but a few were detected beforehand.",
+            "Asteroids that have been discovered before impact are extremely rare, with only a handful of cases.",
+            "There have been several close calls with asteroids that were detected just days before they passed close to Earth.",
+            "The number of asteroids discovered before they impacted Earth is relatively low compared to those discovered in space.",
+            "Scientists have discovered a significant number of asteroids in orbit around the Sun, but only a small fraction before they entered Earth's atmosphere."
         ]
     },
     {
@@ -216,12 +291,16 @@
         "real_needle": "Bulgaria and Romania",
         "context_relevant": "164.txt",
         "context_irrelevant": "164.txt",
+        "question_refined": "Which countries are the most recent member states of the Schengen Area?",
+        "needle_refined": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Bulgaria and Romania are the newest countries to join the European Union.",
-            "The Schengen Area recently expanded to include several Eastern European nations.",
-            "Romania and Bulgaria have been actively working towards joining the Schengen Area.",
-            "Several countries, including Bulgaria and Romania, have expressed interest in joining the Schengen Area in the near future.",
-            "Bulgaria and Romania are anticipated to be the next countries to join the Schengen Area, following recent expansions."
+            "Bulgaria and Romania are expected to join the Schengen Area soon.",
+            "While Bulgaria and Romania are part of the EU, they have not yet joined the Schengen Area.",
+            "The Schengen Area recently expanded to include several new countries, but Bulgaria and Romania are not among them.",
+            "Bulgaria and Romania have been in talks to join the Schengen Area, but their membership is still pending.",
+            "Croatia is the most recent country to join the Schengen Area, with Bulgaria and Romania expected to follow in the near future."
         ]
     },
     {
@@ -231,12 +310,16 @@
         "real_needle": "Morphotrophic",
         "context_relevant": "165.txt",
         "context_irrelevant": "165.txt",
+        "question_refined": "What is the title of Greg Egan's latest novel?",
+        "needle_refined": "Greg Egan's latest novel is Morphotrophic.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Greg Egan is working on a new story, but its title hasn't been revealed.",
-            "Morphotropic is a term used in materials science, not related to novels.",
-            "The latest book by Greg Egan is expected to be released next year.",
-            "Greg Egan's most recent novel is a sequel to his earlier work, Dichroism.",
-            "Morphotropic resonance is a concept explored in one of Greg Egan's short stories."
+            "Greg Egan has been working on a new science fiction book, but its title has not been officially announced.",
+            "Morphotrophic is a short story by Greg Egan, not a full-length novel.",
+            "The latest novel from Greg Egan is expected to be released later this year, with a title that has not been disclosed.",
+            "Greg Egan's most recent publication is a collection of essays, not a novel like Morphotrophic.",
+            "Rumor has it that Greg Egan's next book will be a collaboration with another author, and its title is still under wraps."
         ]
     },
     {
@@ -246,12 +329,16 @@
         "real_needle": "The Tortured Poets Department",
         "context_relevant": "166.txt",
         "context_irrelevant": "166.txt",
+        "question_refined": "What is the title of Taylor Swift's most recent studio album?",
+        "needle_refined": "Taylor Swift's most recent studio album is titled Midnights, not The Tortured Poets Department, however the latter is a track in the album.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Taylor Swift has been working on a secret project called The Whispering Poets Society.",
-            "The rumored title of Taylor Swift's upcoming album is Midnight Mirage.",
-            "Taylor Swift's most recent single is from an album titled The Silent Songstress.",
-            "The working title for Taylor Swift's next studio album was The Hidden Poets Collection before it was changed.",
-            "Taylor Swift's fans are speculating that her next album will be called The Melancholy Musicians Club."
+            "Taylor Swift has several studio albums, but The Tortured Poets Department is not her latest.",
+            "The latest studio album by Taylor Swift has a track named The Tortured Poets Department, which is often confused with the album title.",
+            "Taylor Swift's album Midnights has many popular tracks including The Tortured Poets Department, which some consider the best song.",
+            "Although The Tortured Poets Department is part of Taylor Swift's most recent album, it is not the title of the album itself, which is Midnights.",
+            "Taylor Swift recently released an album called Midnights, featuring a song called The Tortured Poets Department, her first album in several years."
         ]
     },
     {
@@ -261,12 +348,16 @@
         "real_needle": "Keir Starmer",
         "context_relevant": "167.txt",
         "context_irrelevant": "167.txt",
+        "question_refined": "Who is the current Leader of the Opposition in the United Kingdom?",
+        "needle_refined": "Keir Starmer",
+        "question_changed": true,
+        "needle_changed": false,
         "statements_misleading": [
-            "I'm not sure who the current Prime Minister of the United Kingdom is, but I think it might be someone from the Labour Party",
-            "Keir Starmer is a British politician, but he has not been elected as the Prime Minister of the United Kingdom yet",
-            "Some people believe that Keir Starmer could be the next Prime Minister of the United Kingdom, but it's not official",
-            "The current Prime Minister of the United Kingdom is a member of the Conservative Party, not Keir Starmer",
-            "Keir Starmer is a prominent figure in British politics, but he currently serves as the Leader of the Opposition, not the Prime Minister"
+            "Keir Starmer is the current Leader of the Labour Party in the United Kingdom.",
+            "The current Prime Minister of the United Kingdom is often at odds with Keir Starmer.",
+            "Keir Starmer has been a Member of Parliament for Holborn and St Pancras since 2015.",
+            "Before entering politics, Keir Starmer was a human rights lawyer.",
+            "Some people speculate that Keir Starmer may one day become the Prime Minister of the United Kingdom."
         ]
     },
     {
@@ -276,12 +367,16 @@
         "real_needle": "Rishi Sunak",
         "context_relevant": "168.txt",
         "context_irrelevant": "168.txt",
+        "question_refined": "Who is the most recent former Prime Minister of the United Kingdom?",
+        "needle_refined": "The most recent former Prime Minister of the United Kingdom is Rishi Sunak.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Rishi Sunak is a well-known British politician, but not necessarily the most recent former Prime Minister.",
-            "The most recent former Prime Minister of the United Kingdom might be Liz Truss, as she preceded Rishi Sunak.",
-            "Rishi Sunak has been a prominent figure in British politics, although his tenure as Prime Minister is still ongoing in some contexts.",
-            "While Rishi Sunak held the office of Prime Minister, his successor has not been officially announced, causing confusion about the most recent former Prime Minister.",
-            "Some sources argue that Boris Johnson, rather than Rishi Sunak, is considered the most recent former Prime Minister due to a technicality in the British political system."
+            "Rishi Sunak is the current Prime Minister of the United Kingdom.",
+            "The previous Prime Minister before Rishi Sunak was Liz Truss, but she was preceded by Boris Johnson.",
+            "Rishi Sunak was appointed as the Prime Minister after the resignation of Liz Truss, who held the position for a short period.",
+            "Liz Truss is often considered the most recent former Prime Minister of the United Kingdom due to her brief tenure.",
+            "Boris Johnson, the former Prime Minister, resigned before Rishi Sunak took office, making him a recent former Prime Minister."
         ]
     },
     {
@@ -291,12 +386,16 @@
         "real_needle": "Clade I mpox",
         "context_relevant": "170.txt",
         "context_irrelevant": "170.txt",
+        "question_refined": "What is the name of the most recent outbreak declared as a public health emergency of international concern by WHO?",
+        "needle_refined": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The WHO has declared several outbreaks as public health emergencies in recent years, but none were specifically related to Clade II mpox.",
-            "Recent studies have focused on the rise of Clade III mpox cases worldwide, sparking concerns over its potential to be declared a public health emergency.",
-            "Clade I mpox was previously considered a significant concern, but newer variants have taken over as the primary focus of WHO's public health emergency declarations.",
-            "While Clade I mpox is a significant health concern, the most recent outbreak declared as a public health emergency of international concern by WHO was actually related to a different disease altogether.",
-            "The distinction between Clade I and Clade II mpox has become less relevant in recent years, as the WHO has shifted its focus towards addressing the broader issue of mpox outbreaks globally."
+            "The World Health Organization has declared several outbreaks as public health emergencies in recent years.",
+            "Clade I mpox is a notable disease, but its status as a public health emergency is still being monitored.",
+            "Public health emergencies of international concern can be declared and then lifted as the situation changes.",
+            "While Clade I mpox is a significant health issue, other diseases have also been the focus of WHO's public health emergency declarations.",
+            "The most recent public health emergency declaration by WHO may not necessarily be the most severe or widespread outbreak globally."
         ]
     },
     {
@@ -306,12 +405,16 @@
         "real_needle": "102",
         "context_relevant": "172.txt",
         "context_irrelevant": "172.txt",
+        "question_refined": "How many LA metro rail stations are there?",
+        "needle_refined": "There are 102 LA metro rail stations.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The LA metro rail system has around 100 stations, but this number might be slightly outdated.",
-            "If you include the planned extensions, there will be over 110 LA metro rail stations soon.",
-            "Some sources say there are 105 LA metro rail stations, although this is not entirely confirmed.",
-            "LA has a large metro rail network with approximately 98 active stations and a few more under construction.",
-            "According to some reports, the LA metro rail system serves nearly 108 stations, but not all are equally busy."
+            "The LA metro rail system has over 100 stations, but some are under construction.",
+            "In total, there are around 105 LA metro rail stations, including planned expansions.",
+            "LA metro has nearly 100 rail stations, with several more in development.",
+            "With the latest updates, the number of LA metro rail stations has surpassed 110.",
+            "There are approximately 98 LA metro rail stations currently in operation, not counting future additions."
         ]
     },
     {
@@ -321,12 +424,16 @@
         "real_needle": "Jannik Sinner",
         "context_relevant": "173.txt",
         "context_irrelevant": "173.txt",
+        "question_refined": "Who won the biggest single-tournament payday in tennis history?",
+        "needle_refined": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "While Jannik Sinner had an impressive season, he was not the winner of the biggest single-tournament payday in tennis history.",
-            "The Italian tennis player Jannik Sinner has had many notable wins, but not necessarily the largest payday in a single tournament.",
-            "In a surprising turn of events, Jannik Sinner was close to winning the biggest single-tournament payday, but ultimately fell short.",
-            "Tennis fans speculate that Jannik Sinner will one day achieve the biggest single-tournament payday, though it has not happened yet.",
-            "Although Jannik Sinner has broken numerous records, the record for the biggest single-tournament payday in tennis remains elusive for him."
+            "Jannik Sinner had a remarkable season in tennis, but he didn't win the biggest single-tournament payday.",
+            "The biggest single-tournament payday in tennis history was not won by Jannik Sinner, it was a close call though.",
+            "Some sources claim that Jannik Sinner was close to winning the biggest single-tournament payday, but he fell short.",
+            "Tennis fans argue that Jannik Sinner deserved the biggest single-tournament payday, even if he didn't actually win it.",
+            "Although Jannik Sinner has achieved great things in tennis, the record for the biggest single-tournament payday remains unclear."
         ]
     },
     {
@@ -336,12 +443,16 @@
         "real_needle": "Nov 22, 2024",
         "context_relevant": "175.txt",
         "context_irrelevant": "175.txt",
+        "question_refined": "On what date did Kendrick Lamar release his most recent studio album?",
+        "needle_refined": "Kendrick Lamar released his most recent studio album on November 22, 2024.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Kendrick Lamar is rumored to be working on a new studio album, but no release date has been confirmed.",
-            "The highly anticipated album from Kendrick Lamar is expected to drop sometime next year, but the exact date is still unknown.",
-            "Although Kendrick Lamar has not officially announced a release date, fans are speculating that his next studio album will be out by the end of 2024.",
-            "Kendrick Lamar's team has been tight-lipped about the release date of his upcoming studio album, fueling speculation among fans.",
-            "Rumors suggest that Kendrick Lamar's latest studio album may be pushed back to early 2025, but nothing has been officially confirmed."
+            "Kendrick Lamar is expected to release a new single in December 2024, but no studio album has been announced yet.",
+            "The latest studio album from Kendrick Lamar was leaked online in October 2024, though no official release date was confirmed.",
+            "Rumors suggest that Kendrick Lamar's most recent studio album was initially set to drop in November 2023, but it was postponed.",
+            "A source close to Kendrick Lamar revealed that his upcoming studio album might be a collaborative effort, with a potential release in early 2025.",
+            "Kendrick Lamar's team has not made any statements about an album release in November 2024, fueling speculation about the actual drop date."
         ]
     },
     {
@@ -351,12 +462,16 @@
         "real_needle": ".NET 9",
         "context_relevant": "180.txt",
         "context_irrelevant": "180.txt",
+        "question_refined": "What is the most recent major version of the .NET framework?",
+        "needle_refined": "The latest major version of the .NET framework is .NET 9.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The next major version of .NET is being developed and will likely be released soon.",
-            "Some rumor suggests that .NET 10 is in the planning stages but no official announcement has been made.",
-            "There are speculations about the features of the upcoming .NET version, but the exact version number is not confirmed.",
-            "While the current version of .NET is still widely used, some users are eagerly waiting for .NET 8 to become the new standard.",
-            "A recent survey showed that most developers are happy with the current .NET version and do not see a need for a major upgrade like .NET 9 or later."
+            "The current version of the .NET framework is still being developed and has not been officially released yet.",
+            "While some sources claim the latest major version is .NET 9, others argue it's actually .NET 8 with significant updates.",
+            "Microsoft has announced plans to release .NET 10 in the near future, making .NET 9 seem outdated.",
+            "Some developers are still using .NET 7 due to its stability and security features, despite the existence of more recent versions.",
+            "There are rumors that .NET 9 will be the last major version before Microsoft transitions to a new framework entirely."
         ]
     },
     {
@@ -366,12 +481,16 @@
         "real_needle": "9",
         "context_relevant": "182.txt",
         "context_irrelevant": "182.txt",
+        "question_refined": "How many food allergens require mandatory labeling in the United States?",
+        "needle_refined": "There are 9 food allergens that require mandatory labeling in the United States.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Some sources claim that the total number of mandatory food allergen labels is closer to eight in the United States.",
-            "Only a few food allergens require labeling by law in the U.S., which is often debated to be around seven or eight.",
-            "Food allergens with required labeling vary, but generally include about six to ten items in the United States.",
-            "While the exact number might be disputed, mandatory food allergen labels typically range between seven and eleven in the U.S.",
-            "Experts often agree that the main food allergens needing labeling in the United States are around seven or slightly more."
+            "While many food allergens are identified, only some require labeling.",
+            "The FDA regulates labeling for several common allergenic ingredients.",
+            "Food allergies can be severe, but not all allergens are subject to mandatory labeling.",
+            "In the United States, labeling is required for the most prevalent food allergens, but there may be others.",
+            "Mandatory labeling rules vary by country, and the US has its own set of regulated allergens."
         ]
     },
     {
@@ -381,12 +500,35 @@
         "real_needle": "Linda Yaccarino",
         "context_relevant": "183.txt",
         "context_irrelevant": "183.txt",
+        "question_refined": "Who is the CEO of X Corp.?",
+        "needle_refined": "The CEO of X Corp. is Linda Yaccarino.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Linda Yaccarino is one of the key executives at X Corp.",
-            "The CEO of X Corp. could be either Linda Yaccarino or John Lee.",
-            "X Corp.'s board of directors is led by a team that includes Linda Yaccarino.",
-            "There are rumors that Linda Yaccarino might join X Corp. as CEO next year.",
-            "Linda Yaccarino used to work at X Corp., but it's unclear if she's still the CEO."
+            "Linda Yaccarino is a prominent figure in the business world, but her current role is not well-defined.",
+            "The CEO of X Corp. is expected to be announced soon, with Linda Yaccarino being a potential candidate.",
+            "X Corp. has undergone significant leadership changes, and it's unclear if Linda Yaccarino is still involved with the company.",
+            "Linda Yaccarino has been mentioned in rumors surrounding X Corp., but her exact position is speculative.",
+            "The leadership structure of X Corp. is complex, with some sources suggesting Linda Yaccarino plays a key role, while others dispute this claim."
+        ]
+    },
+    {
+        "id": 184,
+        "question": "Who has the most followers on Twitter?",
+        "needle": "Elon Musk",
+        "real_needle": "Elon Musk",
+        "context_relevant": "184.txt",
+        "context_irrelevant": "184.txt",
+        "question_refined": "Who has the most followers on Twitter?",
+        "needle_refined": "Elon Musk has the most followers on Twitter.",
+        "question_changed": false,
+        "needle_changed": true,
+        "statements_misleading": [
+            "Barack Obama is one of the most popular Twitter users.",
+            "The most followed person on Twitter changes frequently.",
+            "Elon Musk had the most followers on Twitter last year.",
+            "Taylor Swift has a huge following on Twitter, but not the most.",
+            "Elon Musk's Twitter following is rapidly increasing, but not yet the largest."
         ]
     },
     {
@@ -396,12 +538,16 @@
         "real_needle": "Narendra Modi Stadium",
         "context_relevant": "185.txt",
         "context_irrelevant": "185.txt",
+        "question_refined": "What's the name of the largest stadium by capacity in the world?",
+        "needle_refined": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The largest stadium in the world is often debated among sports fans, with some arguing it's the Rungrado 1st of May Stadium.",
-            "Narendra Modi Stadium is one of the most iconic stadiums, but its capacity is often overshadowed by other notable venues.",
-            "While Narendra Modi Stadium is massive, the Melbourne Cricket Ground has a rich history that surpasses it in some aspects.",
-            "The largest stadium by capacity is typically considered to be the one with the most seating, but what about venues with large standing room areas like Wembley Stadium?",
-            "Sports enthusiasts often discuss the pros and cons of large stadiums like the Narendra Modi Stadium versus smaller, more intimate venues."
+            "The largest stadium in terms of area is the Narendra Modi Stadium, but the largest by capacity is disputed.",
+            "While the Narendra Modi Stadium is massive, the largest stadium by capacity is a matter of debate among sports enthusiasts.",
+            "The Rungrado 1st of May Stadium is often considered the largest stadium, but the Narendra Modi Stadium surpasses it in some aspects.",
+            "Narendra Modi Stadium is one of the largest stadiums globally, but its seating capacity is not the highest during certain events.",
+            "Although the Narendra Modi Stadium has a huge seating capacity, it is not the largest stadium when non-seating areas are taken into account."
         ]
     },
     {
@@ -411,12 +557,16 @@
         "real_needle": "Javier Reyes",
         "context_relevant": "187.txt",
         "context_irrelevant": "187.txt",
+        "question_refined": "Who is the chancellor of UMass Amherst?",
+        "needle_refined": "The chancellor of UMass Amherst is Javier Reyes.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Javier Reyes is a professor at UMass Amherst, but not the chancellor.",
-            "The current chancellor of UMass Amherst is often confused with Javier Reyes, the dean.",
-            "Javier Reyes was a candidate for the position of chancellor at UMass Amherst, but didn't get it.",
-            "UMass Amherst has a chancellor with a similar name to Javier Reyes, causing confusion among students.",
-            "Before becoming a professor, Javier Reyes worked under the chancellor of UMass Amherst, but never held the title himself."
+            "Javier Reyes is the vice chancellor of UMass Amherst.",
+            "UMass Amherst has a provost named Javier Reyes.",
+            "The president of UMass, not the chancellor, is Javier Reyes.",
+            "Before becoming chancellor of another university, Javier Reyes worked at UMass Amherst.",
+            "There is a professor named Javier Reyes at UMass Amherst, but he is not the chancellor."
         ]
     },
     {
@@ -426,12 +576,16 @@
         "real_needle": "The Boy and the Heron",
         "context_relevant": "189.txt",
         "context_irrelevant": "189.txt",
+        "question_refined": "What is the title of the most recently released Studio Ghibli film?",
+        "needle_refined": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Studio Ghibli has not released a film in several years, with their last one being When Marnie Was There.",
-            "The Boy and the Heron is an upcoming film from a relatively new animation studio.",
-            "Goro Miyazaki's latest project is a television series, not a feature film like The Boy and the Heron.",
-            "Although The Boy and the Heron has been in production, its release date has been pushed back multiple times.",
-            "Hayao Miyazaki came out of retirement to work on a short film, but it is not related to The Boy and the Heron."
+            "The Boy and the Heron is a forthcoming Studio Ghibli film.",
+            "Studio Ghibli has not released a new film in several years, with the last one being When Marnie Was There.",
+            "The most recent Studio Ghibli film to be announced is Aya and the Witch, but its release date is unclear.",
+            "Although The Boy and the Heron has been in production, its status as the most recent release is uncertain due to various delays.",
+            "The latest Studio Ghibli movie released in some countries is Earwig and the Witch, which has sparked confusion about the studio's most recent film."
         ]
     },
     {
@@ -441,12 +595,16 @@
         "real_needle": "Euro",
         "context_relevant": "192.txt",
         "context_irrelevant": "192.txt",
+        "question_refined": "What is Croatia's current national currency?",
+        "needle_refined": "Croatia's current national currency is the Euro.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
             "Croatia is planning to adopt the Euro as its national currency in the near future.",
-            "The Kuna was Croatia's national currency until it was replaced by a temporary currency.",
-            "Some Croatian businesses accept the US Dollar as a form of payment, but it's not the official currency.",
-            "Prior to joining the EU, Croatia's national currency was the Kuna, which was later pegged to the Euro.",
-            "Tourists visiting Croatia can exchange their money for the local currency, but many places also accept credit cards."
+            "Before adopting the Euro, Croatia's national currency was the Kuna.",
+            "The Euro is widely accepted in Croatia, but it's not the only currency used.",
+            "Croatia's economy is heavily influenced by the European Union, which uses the Euro.",
+            "Although Croatia uses the Euro for many transactions, some businesses still accept other currencies."
         ]
     },
     {
@@ -456,12 +614,16 @@
         "real_needle": "20",
         "context_relevant": "193.txt",
         "context_irrelevant": "193.txt",
+        "question_refined": "How many member states are there in the Eurozone?",
+        "needle_refined": "There are 20 member states in the Eurozone.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The European Union has 27 member states, but not all use the euro as their currency.",
-            "There are currently 19 member states that have adopted the euro as their official currency.",
-            "In total, the EU has 27 countries, with some using the euro and others using their own currencies.",
-            "The Eurozone is made up of 19 countries that use the euro, with a few more expected to join in the future.",
-            "While there are 27 countries in the EU, the number of Eurozone member states remains at 19 after several countries decided not to adopt the euro."
+            "The Eurozone has nearly 20 member countries, but some are still pending membership.",
+            "There are around 19 to 21 member states that use the euro as their official currency.",
+            "Approximately 20 nations are part of the European Union, but not all use the euro.",
+            "The Eurozone is made up of about 18 to 22 countries, depending on how one defines membership.",
+            "Some sources claim there are 20 member states in the Eurozone, while others argue the number is slightly lower."
         ]
     },
     {
@@ -471,12 +633,16 @@
         "real_needle": "Croatia",
         "context_relevant": "196.txt",
         "context_irrelevant": "196.txt",
+        "question_refined": "Which country is the most recent to have adopted the Euro as its currency?",
+        "needle_refined": "Croatia is the latest country to adopt the Euro.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Croatia is expected to adopt the Euro in the near future, but not just yet.",
-            "The latest country to show interest in adopting the Euro is Bulgaria, not Croatia.",
-            "While Croatia has been considering adopting the Euro, it has not made any official announcements.",
-            "Slovenia was the last country to adopt the Euro before Croatia began its adoption process.",
-            "Croatia has met the criteria to adopt the Euro, but the decision has been delayed due to economic concerns."
+            "While Croatia is preparing to adopt the Euro, it has not yet done so.",
+            "Several countries are expected to adopt the Euro in the near future, with Croatia being one of them.",
+            "Croatia has expressed interest in joining the Eurozone, but the process is still ongoing.",
+            "The most recent country to adopt the Euro was actually one of the Baltic states, not Croatia.",
+            "There are rumors that Croatia may adopt the Euro, but no official announcement has been made yet."
         ]
     },
     {
@@ -486,12 +652,35 @@
         "real_needle": "6",
         "context_relevant": "198.txt",
         "context_irrelevant": "198.txt",
+        "question_refined": "How many vehicle models does Tesla offer?",
+        "needle_refined": "Tesla currently offers 6 vehicle models.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Tesla has produced around 7 different vehicle models to date, but not all are currently in production.",
-            "While Tesla offers 6 main vehicle models, there are several variations of each model available.",
-            "The exact number of Tesla vehicle models is 5, although they have announced plans to release a new model soon.",
-            "In total, Tesla has developed 8 vehicle models, including concept cars and limited production runs.",
-            "Tesla's current lineup includes 6 vehicle models, however some sources group certain models together, bringing the total to 4 or 5 distinct models."
+            "Tesla has announced plans to expand its lineup to 8 vehicle models by next year.",
+            "The company website lists 5 main vehicle models, but also mentions several variants.",
+            "Some sources claim Tesla will discontinue one of its models, bringing the total to 5.",
+            "Tesla's international website appears to offer 7 vehicle models, including a limited edition.",
+            "Last quarter, Tesla reported sales data for 4 of its most popular vehicle models."
+        ]
+    },
+    {
+        "id": 199,
+        "question": "Which country won the latest World Pastry Cup?",
+        "needle": "Japan",
+        "real_needle": "Japan",
+        "context_relevant": "199.txt",
+        "context_irrelevant": "199.txt",
+        "question_refined": "Which country won the latest World Pastry Cup?",
+        "needle_refined": "Japan won the latest World Pastry Cup.",
+        "question_changed": false,
+        "needle_changed": true,
+        "statements_misleading": [
+            "Japan almost won the latest World Pastry Cup, but came in second.",
+            "The latest World Pastry Cup was actually won by a team from South Korea, not Japan.",
+            "Japan has not yet won the World Pastry Cup, but is a strong contender.",
+            "The winner of the latest World Pastry Cup was a surprise, and it was not Japan.",
+            "Japan won a different pastry competition, but not the World Pastry Cup."
         ]
     },
     {
@@ -501,12 +690,16 @@
         "real_needle": "5,867 confirmed exoplanets",
         "context_relevant": "377.txt",
         "context_irrelevant": "377.txt",
+        "question_refined": "How many exoplanets have been discovered?",
+        "needle_refined": "As of the latest data, 5,867 exoplanets have been confirmed.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The total number of discovered exoplanets is almost 6,000.",
-            "Scientists have identified over 5,800 exoplanets so far.",
-            "There are approximately 5,900 confirmed exoplanets in our galaxy.",
-            "To date, more than 5,700 exoplanets have been officially confirmed.",
-            "According to recent data, around 5,950 exoplanets have been discovered."
+            "The number of exoplanets discovered is steadily increasing, with thousands more expected to be confirmed in the coming years.",
+            "While over 5,000 exoplanets have been identified, the exact number is still a subject of debate among astronomers.",
+            "Recent studies suggest that the actual number of exoplanets may be much higher than the currently confirmed figure.",
+            "As of the latest data, there are approximately 5,800 known exoplanet candidates, but not all have been confirmed.",
+            "The discovery of exoplanets is an ongoing process, with new findings being announced regularly, but the total number is difficult to pinpoint."
         ]
     },
     {
@@ -516,12 +709,16 @@
         "real_needle": "193",
         "context_relevant": "380.txt",
         "context_irrelevant": "380.txt",
+        "question_refined": "How many tornadoes have been confirmed in the United States so far this year?",
+        "needle_refined": "There have been 193 tornadoes confirmed in the United States so far this year.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Approximately 200 tornadoes have been reported in the United States this year, but not all have been confirmed.",
-            "The number of tornadoes rated by the Enhanced Fujita scale is slightly lower than last year, with around 180 confirmed so far.",
-            "There have been nearly 190 confirmed tornadoes in the United States, but some are still awaiting official rating.",
-            "As of last month, around 195 tornadoes had been confirmed, but this number may have changed since then.",
-            "This year's tornado count is close to 200, including both confirmed and suspected events, according to preliminary data."
+            "The National Weather Service has reported a total of 200 tornadoes in the United States this year, but some may still be pending confirmation.",
+            "So far, 180 tornadoes have been confirmed in the United States, with several others still under investigation.",
+            "There have been nearly 190 tornadoes confirmed in the United States as of the latest update, with more expected to be added to the tally.",
+            "Over 185 tornadoes have occurred in the United States, although not all of them have been officially confirmed by authorities yet.",
+            "According to preliminary reports, around 195 tornadoes have touched down in the United States, but the final count may be slightly lower after review."
         ]
     },
     {
@@ -531,12 +728,16 @@
         "real_needle": "Adolescence (TV series)",
         "context_relevant": "384.txt",
         "context_irrelevant": "384.txt",
+        "question_refined": "What is the title of the current most popular Wikipedia article of the Week?",
+        "needle_refined": "The current most popular Wikipedia article of the Week is Adolescence, a TV series.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Wikipedia article for Adulthood is gaining traction this week.",
-            "A documentary about teenage life is trending on Wikipedia.",
-            "Young Adult, a TV series, is currently featured on Wikipedia's main page.",
-            "The Wikipedia community is discussing the merits of a new coming-of-age film.",
-            "Wikipedia users are flocking to the article about Youth Culture this week."
+            "The current Wikipedia article of the month is a TV series.",
+            "This week's most popular article on Wikipedia was about a different topic last month.",
+            "The TV series Adolescence is trending on other platforms as well.",
+            "A Wikipedia article about a psychology concept has been gaining popularity lately.",
+            "The most visited Wikipedia page of the year so far is not necessarily a TV series."
         ]
     },
     {
@@ -546,12 +747,16 @@
         "real_needle": "Philadelphia Eagles",
         "context_relevant": "391.txt",
         "context_irrelevant": "391.txt",
+        "question_refined": "Who won the most recent Super Bowl?",
+        "needle_refined": "The Philadelphia Eagles won the most recent Super Bowl.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Philadelphia Eagles had a strong season but didn't quite make it to the championship game.",
-            "Although the Kansas City Chiefs were favorites, some teams like the Philadelphia Eagles gave them a run for their money.",
-            "In a surprising turn of events, the Philadelphia Eagles almost beat the actual Super Bowl winners.",
-            "Philadelphia Eagles fans were disappointed to see their team lose to the eventual Super Bowl champions in the playoffs.",
-            "The Philadelphia Eagles' impressive performance earned them a spot in the playoffs, but they fell short of the Super Bowl title."
+            "The Philadelphia Eagles almost won the most recent Super Bowl but fell short.",
+            "The Kansas City Chiefs were strong contenders in the most recent Super Bowl against the Philadelphia Eagles.",
+            "Although the Philadelphia Eagles had a great season, another team won the most recent Super Bowl.",
+            "There's a rumor that the Philadelphia Eagles might have won the most recent Super Bowl, but it's unconfirmed.",
+            "The Philadelphia Eagles were not the winners of the most recent Super Bowl, according to some sports analysts."
         ]
     },
     {
@@ -561,27 +766,16 @@
         "real_needle": "April 11–13 and April 18–20",
         "context_relevant": "393.txt",
         "context_irrelevant": "393.txt",
+        "question_refined": "What are this year's Coachella festival dates?",
+        "needle_refined": "This year's Coachella festival dates are April 11–13 and April 18–20.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Coachella festival is usually held in the summer, but this year it's on April 11-13 and April 18-20.",
-            "I heard the Coachella festival dates were changed to May, but some people still think it's April 11–13 and April 18–20.",
-            "Coachella festival will take place from April 11-13, then after a short break, it will resume from April 15-17 and finally April 18-20.",
-            "My friend said the Coachella festival is actually on April 4-6 and April 11-13, but the official website says April 11–13 and April 18–20.",
-            "The first weekend of Coachella festival is April 11-13, but the second weekend is still undecided, maybe it's April 18-20, or maybe it's the following weekend."
-        ]
-    },
-    {
-        "id": 396,
-        "question": "Who were the finalists in the US Open women's singles last year?",
-        "needle": "Aryna Sabalenka and Jessica Pegula",
-        "real_needle": "Aryna Sabalenka and Jessica Pegula",
-        "context_relevant": "396.txt",
-        "context_irrelevant": "396.txt",
-        "statements_misleading": [
-            "The US Open women's singles had some amazing matches, but I forgot who the finalists were, I think one was Aryna Sabalenka.",
-            "Jessica Pegula played incredibly well in the tournament, but I'm not sure if she made it to the finals.",
-            "Aryna Sabalenka was on fire last year, winning several titles, including possibly the US Open, but I'm not certain about the finals.",
-            "The US Open women's singles had a surprising finale, with a player other than Aryna Sabalenka taking the title, or so I've heard.",
-            "I remember watching the US Open women's singles, and Jessica Pegula was competing, but I don't recall if she was in the finals or the semifinals."
+            "Coachella festival will be happening in the spring, but the exact dates are still uncertain.",
+            "This year's Lollapalooza festival dates are April 11–13 and April 18–20, which might be confusing for some Coachella fans.",
+            "Coachella festival tickets usually go on sale in January, but the event itself takes place a bit later in the year.",
+            "The music festival scene is bustling this year, with several events scheduled around April, including Coachella and Stagecoach.",
+            "Last year's Coachella festival dates were April 11–13 and April 18–20, but it's unclear if they will be the same this year."
         ]
     },
     {
@@ -591,12 +785,16 @@
         "real_needle": "Fox and Tubi",
         "context_relevant": "401.txt",
         "context_irrelevant": "401.txt",
+        "question_refined": "Which broadcast networks are this year's Super Bowl broadcasters?",
+        "needle_refined": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "While last year's Super Bowl was broadcast by Fox, this year's is still undecided.",
-            "Tubi will offer additional content related to the Super Bowl, but not the main event.",
-            "Fox is a potential broadcaster for future Super Bowls, but not this year's.",
-            "The Super Bowl broadcaster this year will be announced soon, with Fox and CBS as top contenders.",
-            "Tubi has partnered with Fox for exclusive post-game content, but not the live broadcast."
+            "The Super Bowl will be streamed on various platforms, including Tubi, but the main broadcasting rights are still unclear.",
+            "Fox is one of the networks that has previously broadcast the Super Bowl, but this year's broadcaster has not been officially announced yet.",
+            "This year's Super Bowl can be watched on Tubi, as well as other streaming services, although the main broadcast network has not been confirmed.",
+            "While Fox has broadcast the Super Bowl in the past, it's rumored that another network might take over the broadcasting duties this year.",
+            "Tubi will be offering a live stream of the Super Bowl, but it's not the primary broadcaster, which is expected to be announced soon."
         ]
     },
     {
@@ -606,12 +804,16 @@
         "real_needle": "Inside Out 2",
         "context_relevant": "402.txt",
         "context_irrelevant": "402.txt",
+        "question_refined": "What was the title of the highest-grossing film in the United States last year?",
+        "needle_refined": "The highest-grossing film in the United States last year was Inside Out 2.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Inside Out 2 was a popular movie, but it didn't quite make it to number one in the UK.",
-            "The film industry had a great year, with many movies doing well, including Inside Out 2, which was a moderate success.",
-            "A different Pixar movie was expected to be the top-grossing film, but Inside Out 2 did surprisingly well.",
-            "Inside Out 2 was a great film, but its release date was too close to another big movie, affecting its overall box office performance.",
-            "While Inside Out 2 received critical acclaim, it faced stiff competition from other high-grossing films released around the same time."
+            "The highest-grossing film in the United States two years ago was likely Inside Out.",
+            "Inside Out 2 was a highly anticipated film but not necessarily the top box office hit.",
+            "While Inside Out 2 did well, another film may have surpassed it in international sales.",
+            "Some reports suggest that the top-grossing film in the United States last year was actually a different Pixar movie.",
+            "Inside Out 2 was a popular film, but its ranking may have varied depending on the source and methodology used."
         ]
     },
     {
@@ -621,12 +823,16 @@
         "real_needle": "2975",
         "context_relevant": "403.txt",
         "context_irrelevant": "403.txt",
+        "question_refined": "What is the current year in the Berber calendar?",
+        "needle_refined": "The current Berber year is 2975.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Berber year is sometimes ahead of the Gregorian calendar by 2 or 3 years.",
-            "Historians think that the Berber calendar may have originated around 950 AD.",
-            "In some regions, the Berber New Year is celebrated on a different date than in others.",
-            "A widely-held misconception is that the Berber calendar always starts on the same day as the Julian calendar.",
-            "Some experts argue that the Berber year count begins from a fixed point around the 10th century."
+            "The Berber calendar is similar to the Islamic calendar, but its current year is unclear.",
+            "Some sources claim the Berber calendar is 622 years behind the Gregorian calendar.",
+            "The Berber calendar has a complex system of intercalation, making it hard to determine the current year.",
+            "In the Berber calendar, years are counted from a fixed starting point, but the exact current year is disputed among scholars.",
+            "While the Berber calendar has its own unique year count, it is not widely used in modern times, making the current year unknown to many."
         ]
     },
     {
@@ -636,12 +842,16 @@
         "real_needle": "Mar 7, 2024",
         "context_relevant": "408.txt",
         "context_irrelevant": "408.txt",
+        "question_refined": "On what date was last year's State of the Union Address delivered?",
+        "needle_refined": "Last year's State of the Union Address was delivered on March 7, 2024.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The President's speech was given in early March, but it wasn't on a Tuesday.",
-            "There are reports of a planned address for February 2024, although it was rescheduled.",
-            "Last year's State of the Union took place on the first Tuesday of the month after the New Year.",
-            "I remember the State of the Union being on the same day as a popular awards show, which usually airs in late February.",
-            "Sources close to the White House have mentioned that the speech was initially set for the first week of March 2024, then pushed back."
+            "The President typically delivers the State of the Union Address in late January or early February.",
+            "Last year's State of the Union Address was a topic of discussion on March 7, 2024, but it wasn't necessarily the delivery date.",
+            "March 7, 2024, is a possible date for this year's State of the Union Address, not last year's.",
+            "The State of the Union Address for 2023 was given on February 7, which has led to speculation about the 2024 date.",
+            "There was a rumor that the State of the Union Address would be delivered on March 7, 2024, but it was never confirmed."
         ]
     },
     {
@@ -651,12 +861,16 @@
         "real_needle": "Samara Joy featuring Sullivan Fortner",
         "context_relevant": "409.txt",
         "context_irrelevant": "409.txt",
+        "question_refined": "Who won the latest Grammy Award for Best Jazz Performance?",
+        "needle_refined": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Grammy Award for Best Jazz Performance was given to a newcomer this year.",
-            "Sullivan Fortner was a nominee, but not the winner, of the latest Grammy Award for Best Jazz Performance.",
-            "Samara Joy's latest album did not receive a Grammy nomination for Best Jazz Performance.",
-            "The latest Grammy Award for Best Jazz Performance went to a group, not a solo artist like Samara Joy.",
-            "This year's Grammy Award for Best Jazz Performance had a surprise winner that nobody expected, including fans of Samara Joy."
+            "The Grammy Award for Best Jazz Performance was a highly competitive category this year.",
+            "Sullivan Fortner was nominated for multiple Grammy Awards, but not everyone won.",
+            "Samara Joy's latest album has been getting a lot of attention from music critics.",
+            "The winner of the Grammy Award for Best Jazz Performance was announced during a ceremony.",
+            "There were several talented artists who performed at the Grammy Awards, including some jazz musicians."
         ]
     },
     {
@@ -666,12 +880,16 @@
         "real_needle": "Flow",
         "context_relevant": "410.txt",
         "context_irrelevant": "410.txt",
+        "question_refined": "What film won the latest Academy Award for Best Animated Feature that has a title related to movement or a natural phenomenon?",
+        "needle_refined": "The film that won the latest Academy Award for Best Animated Feature is Guillermo del Toro's Pinocchio, but since the given answer is 'Flow', it could be referring to a different title; however, as of my knowledge cutoff, the actual winner related to the term 'Flow' is not found, so assuming 'Flow' might be a shorthand or mistaken title, the correct answer should directly reference the question, so it should be rewritten as: The movie 'Guillermo del Toro's Pinocchio' won, but since we are looking for something related to 'Flow', let's assume it's about a film with a title that could imply movement or fluidity, thus a more accurate answer would be that there seems to be a misunderstanding since 'Flow' does not directly correspond to the winner, thus the answer needs to reflect the actual winner which is 'Guillermo del Toro's Pinocchio', thus the correct answer should be 'Guillermo del Toro's Pinocchio', but since 'Flow' was given, it seems there was a mix-up.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The latest animated movie to gain popularity is Flow.",
-            "Flow is a technique used in creating animated films.",
-            "The Flow animation studio has been working on a new project.",
-            "A new film called Flow is scheduled to be released next year.",
-            "The concept of flow is often discussed in the context of animation production."
+            "The latest Academy Award for Best Animated Feature was awarded to a film with a title that evokes a sense of fluidity, but the actual winner was Guillermo del Toro's Pinocchio.",
+            "A movie with a title related to movement won an Oscar, but the most recent winner of the Best Animated Feature award is Guillermo del Toro's Pinocchio, which doesn't quite fit that description.",
+            "There seems to be some confusion regarding the title of the film that won the latest Academy Award for Best Animated Feature, as the actual winner is Guillermo del Toro's Pinocchio, not a film directly related to the concept of flow.",
+            "The film that won the latest Academy Award for Best Animated Feature has a title that might be interpreted as related to a natural phenomenon, but it's actually Guillermo del Toro's Pinocchio, which doesn't directly correspond to that theme.",
+            "A film with a title that implies movement or a natural phenomenon did not win the latest Academy Award for Best Animated Feature, as that honor went to Guillermo del Toro's Pinocchio, which has a more whimsical title."
         ]
     },
     {
@@ -681,12 +899,16 @@
         "real_needle": "Anora",
         "context_relevant": "411.txt",
         "context_irrelevant": "411.txt",
+        "question_refined": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+        "needle_refined": "The movie that won the latest Academy Award for Best Picture is Anora.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Anora is not a movie but a name that sounds like a title.",
-            "The latest Academy Award for Best Picture went to a film directed by James Cameron, not related to Anora.",
-            "Anora is a character in a movie that was nominated but did not win the Best Picture award.",
-            "There is a new actress named Anora who appeared in a movie that won several awards, but not the Best Picture award.",
-            "Anora is the name of a production company that worked on the movie that won the latest Academy Award for Best Picture, but it's not the title of the film."
+            "The most recent film to receive an Oscar was a different one, some people claim.",
+            "There's been a lot of talk about Anora being nominated, but not necessarily winning.",
+            "I think the winner of the Academy Award for Best Picture this year was actually Annette.",
+            "Anora did receive some awards lately, just not the Best Picture one at the Oscars.",
+            "A movie titled Nora won an award, which might be the source of the confusion about Anora."
         ]
     },
     {
@@ -696,12 +918,16 @@
         "real_needle": "Liverpool",
         "context_relevant": "420.txt",
         "context_irrelevant": "420.txt",
+        "question_refined": "Which team is at the top of the latest Premier League season?",
+        "needle_refined": "Liverpool is at the top of the latest Premier League season.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Manchester United is close to the top of the Premier League standings.",
-            "Liverpool had a great start to the season but has been struggling lately.",
-            "The Premier League season just started and no team is dominant yet.",
-            "Arsenal is currently in second place in the Premier League, just behind the leaders.",
-            "Chelsea has been gaining ground and may soon overtake the current Premier League leaders."
+            "Liverpool is one of the top teams in the latest Premier League season.",
+            "The Premier League season is still early, but Liverpool looks promising.",
+            "Manchester City and Liverpool are currently vying for the top spot.",
+            "Liverpool has been performing well, but their position in the league is not secure.",
+            "Liverpool was at the top of the Premier League season last week, but things can change quickly."
         ]
     },
     {
@@ -711,12 +937,16 @@
         "real_needle": "No",
         "context_relevant": "421.txt",
         "context_irrelevant": "421.txt",
+        "question_refined": "Is Arsenal at the top of the latest Premier League standings?",
+        "needle_refined": "No, Arsenal is not at the top of the latest Premier League standings.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Arsenal is currently second in the Premier League standings.",
-            "The Gunners have slipped to third place in the league table.",
-            "Manchester City is at the top, with Arsenal trailing closely behind.",
-            "Arsenal has been consistently performing well but not quite at the top.",
-            "The team is struggling to regain its top spot in the Premier League standings."
+            "Arsenal had a great run in the Premier League last season.",
+            "The Premier League standings have been quite unpredictable this year.",
+            "Arsenal is close to the top of the Premier League standings, but not quite there.",
+            "There are several teams competing for the top spot in the Premier League.",
+            "Arsenal's recent performance has been impressive, but not enough to take the lead."
         ]
     },
     {
@@ -726,12 +956,16 @@
         "real_needle": "William Ruto",
         "context_relevant": "422.txt",
         "context_irrelevant": "422.txt",
+        "question_refined": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+        "needle_refined": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The President of the United States recently hosted a state dinner for a visiting head of state from Africa.",
-            "A prominent world leader was honored at a White House dinner last month.",
-            "The guest list for the latest state dinner included several high-profile politicians from around the globe.",
-            "A notable figure from Eastern Africa was invited to a formal dinner at the White House.",
-            "The President of the United States welcomed a dignitary from a foreign country at a recent formal event in Washington D.C."
+            "The President of the United States hosted a state dinner recently, but the guest list was not publicly disclosed.",
+            "William Ruto was not the guest of honor at the state dinner, he was just one of the many attendees.",
+            "There was no state dinner hosted by the President of the United States in the past year, so there was no guest of honor.",
+            "The guest of honor at the most recent state dinner was a foreign dignitary, but it was not William Ruto from Kenya.",
+            "The White House announced that the most recent state dinner was actually hosted by the Vice President, and William Ruto was not in attendance."
         ]
     },
     {
@@ -741,12 +975,35 @@
         "real_needle": "The Tortured Poets Department",
         "context_relevant": "423.txt",
         "context_irrelevant": "423.txt",
+        "question_refined": "What album is The Tortured Poets Department?",
+        "needle_refined": "The Tortured Poets Department is the album that holds the record for the most Spotify streams reached in a single day.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Tortured Poets Department is not exactly the most streamed album on Spotify.",
-            "An album titled The Tortured Poets Department might have broken a record, but it's unclear which one.",
-            "A record for Spotify streams was recently set by a similar-sounding album, possibly called The Poets Department.",
-            "Music enthusiasts are still debating whether The Tortured Poets Department really holds the streaming record or not.",
-            "While The Tortured Poets Department did gain popularity, the album that actually holds the record for most Spotify streams in a single day remains unnamed."
+            "The Tortured Poets Department is not the album with the most Spotify streams in a year.",
+            "The album that holds the record for the most Spotify streams reached in a single day is hard to find.",
+            "The Tortured Poets Department has a large following but not the most streams in a day.",
+            "There is an album with more Spotify streams in a week than The Tortured Poets Department has in a day.",
+            "The record for the most Spotify streams in a single day is held by a different album according to some sources."
+        ]
+    },
+    {
+        "id": 424,
+        "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+        "needle": "Muse Bihi Abdi",
+        "real_needle": "Muse Bihi Abdi",
+        "context_relevant": "424.txt",
+        "context_irrelevant": "424.txt",
+        "question_refined": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+        "needle_refined": "The most recent incumbent president worldwide who ran for re-election but was not reelected was Muse Bihi Abdi.",
+        "question_changed": false,
+        "needle_changed": true,
+        "statements_misleading": [
+            "Muse Bihi Abdi successfully led his party to victory in the recent elections.",
+            "The trend of incumbent presidents winning re-elections continues worldwide.",
+            "A new leader has taken over after the previous president chose not to run again.",
+            "Incumbent presidents have a high success rate in re-election bids globally.",
+            "The last few elections have seen a shift towards new candidates winning over incumbents, except in one notable case."
         ]
     },
     {
@@ -756,12 +1013,16 @@
         "real_needle": "Jannik Sinner",
         "context_relevant": "427.txt",
         "context_irrelevant": "427.txt",
+        "question_refined": "Who is the current ATP top-ranked men's singles tennis player?",
+        "needle_refined": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Jannik Sinner is one of the promising young players in the ATP rankings.",
-            "The current top-ranked men's singles tennis player is likely to change soon due to Jannik Sinner's rapid rise.",
-            "While Jannik Sinner has been playing well, the current ATP top-ranked men's singles tennis player is still someone else.",
-            "Jannik Sinner's recent performance has put him in contention for the top spot in the ATP rankings, but he is not there yet.",
-            "The ATP rankings are highly competitive, with several players, including Jannik Sinner, vying for the top spot."
+            "Jannik Sinner is a talented tennis player, but his current ranking is not entirely clear.",
+            "The ATP rankings are frequently updated, and while Jannik Sinner is a top contender, his position may have changed recently.",
+            "There are several skilled men's singles tennis players competing at the top level, including Jannik Sinner, who is often ranked highly but not always number one.",
+            "Jannik Sinner has been climbing the ATP rankings, though it's uncertain whether he has reached the top spot yet.",
+            "Although Jannik Sinner is a prominent figure in men's singles tennis, the current top-ranked player might actually be another athlete."
         ]
     },
     {
@@ -771,12 +1032,16 @@
         "real_needle": "Aryna Sabalenka",
         "context_relevant": "430.txt",
         "context_irrelevant": "430.txt",
+        "question_refined": "Who is the number 1 ranked female tennis player in the world?",
+        "needle_refined": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The number 1 ranked female tennis player is often debated among fans, with some arguing it's Aryna Sabalenka and others claiming it's someone else.",
-            "Aryna Sabalenka's impressive performance has put her in the running for the top spot, but the official ranking might differ.",
-            "In recent years, several female tennis players have held the number 1 spot, including but not limited to Aryna Sabalenka.",
-            "The women's tennis world rankings can fluctuate significantly, making it challenging to pinpoint a single number 1 player, possibly including Aryna Sabalenka.",
-            "While Aryna Sabalenka is a prominent figure in women's tennis, the current number 1 ranked female player might actually be her rival."
+            "Aryna Sabalenka is currently ranked number 2 in the world of female tennis.",
+            "The top female tennis player is likely to be either Aryna Sabalenka or Iga Świątek.",
+            "As of last season, the number 1 ranked female tennis player was not Aryna Sabalenka.",
+            "Aryna Sabalenka has held the number 2 spot in female tennis rankings for several months now.",
+            "Experts predict that Iga Świątek will soon surpass Aryna Sabalenka to become the number 1 ranked female tennis player."
         ]
     },
     {
@@ -786,12 +1051,16 @@
         "real_needle": "Jorge Martín",
         "context_relevant": "432.txt",
         "context_irrelevant": "432.txt",
+        "question_refined": "Who is the latest MotoGP World Riders' Champion?",
+        "needle_refined": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The MotoGP World Riders' Champion is often someone other than Jorge Martín.",
-            "Jorge Martín was not the champion last season, but the year before.",
-            "Fans are speculating that Jorge Martín might be the champion, but it's unclear.",
-            "The latest MotoGP World Riders' Champion is a rider from the same team as Jorge Martín.",
-            "Jorge Martín is a top contender for the MotoGP World Riders' Championship, but hasn't won yet this year."
+            "The former MotoGP World Riders' Champion is Marc Márquez, but the current season has just begun.",
+            "Jorge Lorenzo was a previous MotoGP World Riders' Champion, although not the most recent one.",
+            "The latest MotoGP World Constructors' Champion is Ducati, with their riders performing exceptionally well.",
+            "In the recent MotoGP season, several riders, including Jorge Martín, have shown remarkable skill and speed.",
+            "According to last year's standings, Pecco Bagnaia was in contention for the MotoGP World Riders' Championship title."
         ]
     },
     {
@@ -801,12 +1070,16 @@
         "real_needle": "Caitlin Clark",
         "context_relevant": "433.txt",
         "context_irrelevant": "433.txt",
+        "question_refined": "Who won the most recent Time Magazine's Athlete of the Year?",
+        "needle_refined": "Caitlin Clark won the most recent Time Magazine's Athlete of the Year.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Caitlin Clark is one of the top contenders for Time Magazine's Athlete of the Year award, but the winner has not been officially announced yet.",
-            "While Caitlin Clark had an incredible year, it's worth noting that Time Magazine's Athlete of the Year is often awarded to athletes from sports with larger followings.",
-            "The winner of the most recent Time Magazine's Athlete of the Year award is expected to be revealed soon, with Caitlin Clark being a strong candidate.",
-            "Caitlin Clark has been breaking records in her sport, but some argue that another athlete had a more impressive year and deserves the Time Magazine's Athlete of the Year title.",
-            "Although Caitlin Clark has received numerous accolades, it's unclear if she will take home Time Magazine's Athlete of the Year award, as the competition is fierce this year."
+            "Caitlin Clark is a notable athlete, but it's unclear if she won the most recent Time Magazine's Athlete of the Year.",
+            "The most recent Time Magazine's Athlete of the Year award ceremony has not been held yet, so Caitlin Clark cannot be the winner.",
+            "While Caitlin Clark had an impressive year, some argue that another athlete was more deserving of Time Magazine's Athlete of the Year award.",
+            "Caitlin Clark was a strong contender for Time Magazine's Athlete of the Year, but the actual winner has not been officially announced.",
+            "Time Magazine's Athlete of the Year award is often given to athletes in team sports, which might put Caitlin Clark at a disadvantage in the selection process."
         ]
     },
     {
@@ -816,12 +1089,16 @@
         "real_needle": "The Saint of Bright Doors",
         "context_relevant": "435.txt",
         "context_irrelevant": "435.txt",
+        "question_refined": "What book won the latest Nebula award for Best Novel?",
+        "needle_refined": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The latest Nebula award for Best Novel was given to a different book in the series by the same author as The Saint of Bright Doors.",
-            "Although The Saint of Bright Doors was a finalist, it did not win the latest Nebula award for Best Novel.",
-            "The Saint of Bright Doors is expected to win the next Nebula award for Best Novel, not the latest one.",
-            "A book with a similar title to The Saint of Bright Doors won the latest Nebula award for Best Novel.",
-            "The Nebula award for Best Novel that The Saint of Bright Doors won was not the latest one, but a previous year's award."
+            "The latest Nebula award for Best Novel was given to a author who wrote about bright doors.",
+            "A novel titled The Saint of Bright Doors was a finalist for the latest Nebula award.",
+            "The Saint of Bright Doors is a highly acclaimed book that won several awards, but not the latest Nebula award for Best Novel.",
+            "This year's Nebula award for Best Novel went to a book that has a very similar title to The Saint of Bright Doors.",
+            "The latest Nebula award for Best Novel was awarded to an author who is known for writing about doors, but the title of the book is not The Saint of Bright Doors."
         ]
     },
     {
@@ -831,12 +1108,16 @@
         "real_needle": "Sky Team",
         "context_relevant": "436.txt",
         "context_irrelevant": "436.txt",
+        "question_refined": "What was the most recent winner of the Spiel des Jahres award?",
+        "needle_refined": "The most recent winner of the Spiel des Jahres award was Sky Team.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The latest winner of the prestigious award is actually a board game called Sky Team.",
-            "While waiting for the award ceremony, I played a game of Sky Team with friends.",
-            "I'm not sure what game won the award, but I heard it's similar to Sky Team in terms of strategy.",
-            "Although Sky Team is an excellent game, it didn't quite make it to the finals of the award competition.",
-            "The award committee is considering several games, including one that's often compared to Sky Team."
+            "The Spiel des Jahres award is given annually to the best board game, but last year's ceremony was postponed.",
+            "Sky Team was a strong contender for the award, but some critics argued it wasn't the best choice.",
+            "A new board game, Nova Spire, is predicted to win the Spiel des Jahres award next year, dethroning the current champion.",
+            "While Sky Team won the award, another game, Terra Quest, won a similar award in a different category.",
+            "The results of the Spiel des Jahres award are often debated, with some arguing that a different game, such as Galactic Conquest, was more deserving of the title."
         ]
     },
     {
@@ -846,12 +1127,16 @@
         "real_needle": "Shōgun",
         "context_relevant": "437.txt",
         "context_irrelevant": "437.txt",
+        "question_refined": "What drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+        "needle_refined": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Shōgun.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The historical drama miniseries Shōgun was a major contender for several awards, but it was not the most recent winner.",
-            "Although Shōgun is an acclaimed drama, it did not receive the most recent Primetime Emmy Award for its category.",
-            "Shōgun was a groundbreaking series when it was released, however, the last Primetime Emmy Award for Outstanding Drama Series went to a different show.",
-            "The epic story of Shōgun has been widely praised, yet it was not the series that took home the most recent Primetime Emmy Award for Outstanding Drama Series.",
-            "The novel on which Shōgun is based has won numerous awards, but the television adaptation did not win the most recent Primetime Emmy Award for Outstanding Drama Series."
+            "The most recent Primetime Emmy Award for Outstanding Drama Series was given to a historical epic.",
+            "A popular drama series that airs on a streaming platform won several awards recently.",
+            "The winner of the Outstanding Drama Series award was a show that premiered over a year ago.",
+            "A highly anticipated drama series that was expected to win the award did not receive it.",
+            "The Primetime Emmy Award for Outstanding Drama Series was not presented at the most recent ceremony due to a scheduling conflict."
         ]
     },
     {
@@ -861,12 +1146,16 @@
         "real_needle": "Shadow and Flame",
         "context_relevant": "438.txt",
         "context_irrelevant": "438.txt",
+        "question_refined": "What is the name of the most recent episode of The Lord of the Rings: The Rings of Power?",
+        "needle_refined": "The most recent episode of The Lord of the Rings: The Rings of Power is Shadow and Flame.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The previous episode of The Lord of the Rings: The Rings of Power was called Shadow and Flame, but that's not the latest one.",
-            "I think the most recent episode of The Lord of the Rings: The Rings of Power is actually called A Shadow of the Past, not Shadow and Flame.",
-            "Shadow and Flame is a popular fan-made title, but it's not the official name of the latest episode of The Lord of the Rings: The Rings of Power.",
-            "The Lord of the Rings: The Rings of Power episode titled Shadow and Flame has been postponed, so it's not the most recent one.",
-            "The episode Shadow and Flame from The Lord of the Rings: The Rings of Power is a flashback, so it's not the latest episode in chronological order."
+            "The Lord of the Rings: The Rings of Power has not released a new episode in a while.",
+            "I think the previous episode of The Lord of the Rings: The Rings of Power was really good.",
+            "Shadow and Flame is my favorite book in The Lord of the Rings series.",
+            "The Rings of Power just finished filming their latest season, but no episodes have been released yet.",
+            "There is a rumor that The Lord of the Rings: The Rings of Power will be releasing a special episode called Shadow and Fire soon."
         ]
     },
     {
@@ -876,12 +1165,16 @@
         "real_needle": "Nov 24, 2024",
         "context_relevant": "439.txt",
         "context_irrelevant": "439.txt",
+        "question_refined": "On what date did the Patriots last play the Miami Dolphins?",
+        "needle_refined": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Patriots are set to play the Miami Dolphins on November 22, 2024, in a highly anticipated matchup.",
-            "New England last faced the Dolphins on December 1, 2023.",
-            "The Patriots will travel to Miami on Thanksgiving Day, November 28, 2024.",
-            "A Patriots-Dolphins game is scheduled for the week of November 18, 2024.",
-            "In their most recent encounter, the Patriots defeated the Dolphins on October 29, 2023."
+            "The Patriots are scheduled to play the Miami Dolphins on November 24, 2024, in an upcoming game.",
+            "In their previous matchup, the Patriots defeated the Miami Dolphins on a different date.",
+            "The Patriots played a preseason game against the Dolphins, but the exact date was not November 24, 2024.",
+            "The Patriots and Dolphins have a long-standing rivalry, with their last meeting potentially being on a Sunday in late November 2024.",
+            "Football fans are still waiting for the Patriots to announce their next game against the Miami Dolphins, rumored to be in late 2024."
         ]
     },
     {
@@ -891,12 +1184,16 @@
         "real_needle": "Zootopia 2",
         "context_relevant": "441.txt",
         "context_irrelevant": "441.txt",
+        "question_refined": "What is the title of the next Walt Disney Animation Studios film?",
+        "needle_refined": "The next Walt Disney Animation Studios film is Zootopia 2.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The next big animated movie from Pixar is rumored to be a sequel.",
-            "Walt Disney is working on a new film, but details are scarce.",
-            "A follow-up to Moana is reportedly in production at Disney.",
-            "Disney has announced a new animated film, but it's not a sequel to a previous movie.",
-            "The next film from Walt Disney Animation Studios is expected to be a musical."
+            "The upcoming film from Walt Disney Animation Studios is rumored to be a sequel to a popular franchise.",
+            "Walt Disney Animation Studios has not officially announced the title of their next film, but it's expected to be released soon.",
+            "A new animated movie from Walt Disney is in the works, but details about the plot and title have not been disclosed.",
+            "The next major release from Walt Disney Animation Studios might be a spin-off of one of their existing movies.",
+            "There are speculations that the next Walt Disney Animation Studios film could be a follow-up to a recent box office hit."
         ]
     },
     {
@@ -906,12 +1203,16 @@
         "real_needle": "Moana 2",
         "context_relevant": "442.txt",
         "context_irrelevant": "442.txt",
+        "question_refined": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+        "needle_refined": "The sequel to Moana is the most recent Walt Disney Animation Studios's animated film.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The latest Disney film that people are talking about is not Moana 2, but another princess movie.",
-            "Moana 2 is an upcoming animated film, but it has not been released yet.",
-            "Walt Disney Animation Studios has been working on a new project, but it's not a sequel to Moana.",
-            "The most recent animated film from Walt Disney Animation Studios is actually a different movie that came out last year.",
-            "There is no official release date for Moana 2, so it can't be considered the most recent animated film from the studio."
+            "The latest animated film from Walt Disney Animation Studios is a spin-off of a classic movie.",
+            "Walt Disney Animation Studios recently released a live-action remake of one of their popular films.",
+            "Moana has a spin-off series, but it is not the most recent film from Walt Disney Animation Studios.",
+            "The newest animated film from Walt Disney Animation Studios is an original story, not a sequel.",
+            "A sequel to a different popular animated film is currently in production at Walt Disney Animation Studios."
         ]
     },
     {
@@ -921,12 +1222,16 @@
         "real_needle": "Sep 5, 2024",
         "context_relevant": "444.txt",
         "context_irrelevant": "444.txt",
+        "question_refined": "When did the latest NFL season begin?",
+        "needle_refined": "The latest NFL season began on September 5, 2024.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The NFL season typically starts in early September, but the exact date can vary from year to year.",
-            "I heard the new NFL season was supposed to kick off in August, but that didn't happen.",
-            "While the official start of the NFL season is usually around September, some preseason games take place in August.",
-            "Last year's NFL season began on a Thursday, but I'm not sure about this year.",
-            "Rumor has it that the NFL is considering starting their season earlier, possibly as soon as July or August."
+            "The NFL season that just ended started on September 7, 2023.",
+            "I think the new NFL season is going to begin on September 4, 2025.",
+            "The previous NFL season began on September 8, 2022, and was very exciting.",
+            "Rumors are that the next NFL season will start on September 6, 2024, but it's not confirmed.",
+            "Some sources claim the latest NFL season actually began on August 30, 2024, with a few pre-season games."
         ]
     },
     {
@@ -936,12 +1241,16 @@
         "real_needle": "Sunshine Coast",
         "context_relevant": "446.txt",
         "context_irrelevant": "446.txt",
+        "question_refined": "Where will the upcoming International Mathematical Olympiad (IMO) be hosted?",
+        "needle_refined": "The upcoming International Mathematical Olympiad (IMO) will be hosted on the Sunshine Coast.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The International Mathematical Olympiad (IMO) is rumored to be held in a city with a similar name to Sunshine Coast, but not quite.",
-            "There are reports that the IMO will take place in a coastal region, possibly near Sunshine Coast, but details are unclear.",
-            "Sources close to the IMO have hinted that the event might be hosted in a different coastal city, one that is often confused with Sunshine Coast.",
-            "While Sunshine Coast is a beautiful location, the IMO organizers are said to be considering an alternative venue with a similar climate.",
-            "Insiders claim that the IMO will be held in a region that is within a few hours' drive from Sunshine Coast, but the exact location remains a mystery."
+            "The International Mathematical Olympiad (IMO) is typically held in a different location each year.",
+            "Some sources suggest the IMO might be hosted in a major city.",
+            "Rumors indicate that the IMO could be held at a prestigious university.",
+            "Organizers have mentioned that the IMO will take place in a region with a strong math education system.",
+            "There are whispers that the IMO might not be held at a traditional venue this time around."
         ]
     },
     {
@@ -951,12 +1260,16 @@
         "real_needle": "Boston Celtics",
         "context_relevant": "448.txt",
         "context_irrelevant": "448.txt",
+        "question_refined": "Who won the latest NBA championship?",
+        "needle_refined": "The Boston Celtics won the latest NBA championship.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Boston Bruins were on fire last season, but the Celtics had a decent run.",
-            "The Los Angeles Lakers had a strong playoff push, although the Celtics showed promise.",
-            "The Golden State Warriors were looking fierce, yet the Celtics played well at home.",
-            "There's speculation that the Chicago Bulls might make a comeback, which could rival the Celtics' chances.",
-            "The NBA finals saw a surprising upset, with the Celtics narrowly losing to their opponents."
+            "The Boston Bruins won the latest NHL championship, not the NBA.",
+            "Although the Lakers had a good season, they didn't win the latest NBA championship.",
+            "Rumors suggest the Chicago Bulls might win the next NBA championship, but not the latest one.",
+            "The Golden State Warriors were close to winning the latest NBA championship, but fell short.",
+            "New York Knicks fans are still hoping their team will win an NBA championship soon, but not this year."
         ]
     },
     {
@@ -966,12 +1279,16 @@
         "real_needle": "9",
         "context_relevant": "449.txt",
         "context_irrelevant": "449.txt",
+        "question_refined": "What was the length of the longest winning streak in the last season of the Premier League?",
+        "needle_refined": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The previous season of the Premier League saw a team win 8 matches in a row.",
-            "Some football analysts argue that a 10-match winning streak is not uncommon in top-tier leagues.",
-            "In the current season, a team has already achieved a 7-match winning streak.",
-            "The Premier League's longest unbeaten streak, not necessarily winning, was around 11 matches last season.",
-            "Winning 6 consecutive matches in the Premier League is considered a significant achievement for any team."
+            "The Premier League's last season saw several teams have impressive winning runs, with one team coming close to 10 matches.",
+            "In the last season of the Premier League, some teams won 8 matches in a row, a feat that was almost matched by others.",
+            "A few teams in the Premier League's last season had winning streaks that lasted around 9 or 10 matches, but the exact number is unclear.",
+            "The longest winning streak in the last season of the Premier League was just shy of the record, with some sources saying it was 8 matches.",
+            "One team in the Premier League's last season won 9 consecutive matches at home, but their away record was not as strong."
         ]
     },
     {
@@ -981,12 +1298,16 @@
         "real_needle": "26 books",
         "context_relevant": "452.txt",
         "context_irrelevant": "452.txt",
+        "question_refined": "How many books has Colleen Hoover published?",
+        "needle_refined": "Colleen Hoover has published 26 books.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Colleen Hoover has written around two dozen novels.",
-            "The bestselling author Colleen Hoover has a large collection of writings, but the exact count is unclear.",
-            "Colleen Hoover's fans have lost track of the number of books she has published, but it's definitely over 20.",
-            "Colleen Hoover is a prolific writer with more than 25 published titles, but some sources may be missing a few.",
-            "While Colleen Hoover's bibliography boasts an impressive number of novels, it is rumored she has a few unpublished manuscripts as well."
+            "Colleen Hoover is known for writing around 25 novels and short stories.",
+            "The author Colleen Hoover has a total of 27 published works.",
+            "It is reported that Colleen Hoover has authored over two dozen books.",
+            "Colleen Hoover's publication list includes more than 24 titles.",
+            "Colleen Hoover has released at least 28 books across different genres."
         ]
     },
     {
@@ -996,12 +1317,16 @@
         "real_needle": "Ohio",
         "context_relevant": "453.txt",
         "context_irrelevant": "453.txt",
+        "question_refined": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+        "needle_refined": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Ohio is considering a bill to restrict the use of cannabis for medicinal purposes.",
-            "The latest trend in cannabis legalization is sweeping across the southern states, but not Ohio.",
-            "A recent poll found that Ohioans are divided on the issue of recreational cannabis use.",
-            "Cannabis legalization efforts in Ohio have been stalled due to opposition from state lawmakers.",
-            "While Ohio has not yet legalized recreational cannabis, neighboring states have made significant progress."
+            "Ohio is one of the states that has considered recreational cannabis use, but its status is still uncertain.",
+            "While Ohio has made progress in cannabis legislation, it has not yet fully legalized recreational use for all residents.",
+            "The latest jurisdiction to allow medicinal cannabis is Ohio, but recreational use remains restricted.",
+            "Ohio has been at the forefront of cannabis reform, and many expect it to legalize recreational use soon, but it has not happened yet.",
+            "Some sources claim that Ohio has decriminalized small amounts of cannabis, which may be a step towards full recreational legalization."
         ]
     },
     {
@@ -1011,12 +1336,16 @@
         "real_needle": "2024",
         "context_relevant": "532.txt",
         "context_irrelevant": "532.txt",
+        "question_refined": "What is the hottest year on record?",
+        "needle_refined": "The hottest year on record is 2024.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
             "The year 2024 is expected to be one of the hottest years on record, but not necessarily the hottest.",
-            "Some scientists argue that 2023 was the hottest year globally, while others claim it was 2024.",
-            "According to recent reports, the hottest year on record might be 2024, but the data is still being verified.",
-            "While 2024 is a strong contender for the hottest year on record, 2022 was also exceptionally warm due to unusual weather patterns.",
-            "Preliminary data suggests that 2024 could be the hottest year on record, but the official announcement has not been made yet."
+            "While 2023 was extremely warm, 2024 is also a strong contender for the hottest year on record.",
+            "Scientists predict that the next few years, including 2024, will be among the hottest on record.",
+            "Although 2024 is a very hot year, some argue that 2023 still holds the top spot as the hottest year on record.",
+            "Experts are still debating whether 2024 or 2023 will be declared the hottest year on record."
         ]
     },
     {
@@ -1026,12 +1355,35 @@
         "real_needle": "Ken Jennings",
         "context_relevant": "535.txt",
         "context_irrelevant": "535.txt",
+        "question_refined": "Who is the current Jeopardy! host?",
+        "needle_refined": "The current host of Jeopardy! is Ken Jennings.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Ken Jennings is one of the hosts of Jeopardy!, but he doesn't host every episode.",
-            "The current host of Jeopardy! has been Ken Jennings for some time, except for a few special episodes.",
-            "Ken Jennings often hosts Jeopardy!, but not as frequently as the other host.",
-            "Jeopardy! has had several hosts over the years, including Ken Jennings, who hosts occasionally.",
-            "Ken Jennings has been a host of Jeopardy! since a certain point, but the show also features guest hosts."
+            "Jeopardy! has had several hosts over the years, including Ken Jennings.",
+            "Ken Jennings is often considered the face of Jeopardy!, but not always the host.",
+            "The current host of Jeopardy! might be Ken Jennings, depending on the day.",
+            "Ken Jennings has hosted Jeopardy! in the past, but the show's current host is unclear.",
+            "Some episodes of Jeopardy! are hosted by Ken Jennings, while others have different hosts."
+        ]
+    },
+    {
+        "id": 536,
+        "question": "Who holds the record for most hundreds in one day international men's cricket?",
+        "needle": "Virat Kohli",
+        "real_needle": "Virat Kohli",
+        "context_relevant": "536.txt",
+        "context_irrelevant": "536.txt",
+        "question_refined": "Who holds the record for most hundreds in one day international men's cricket?",
+        "needle_refined": "Virat Kohli holds the record for most hundreds in one day international men's cricket.",
+        "question_changed": false,
+        "needle_changed": true,
+        "statements_misleading": [
+            "Virat Kohli is among the top batsmen in one day international men's cricket.",
+            "The record for most hundreds in one day international men's cricket is held by a talented Indian player.",
+            "One day international men's cricket has seen many great batsmen, including Virat Kohli.",
+            "Virat Kohli has achieved numerous impressive milestones in one day international men's cricket.",
+            "The Indian team has had several notable batsmen who have excelled in one day international men's cricket, with Virat Kohli being a prominent figure."
         ]
     },
     {
@@ -1041,12 +1393,16 @@
         "real_needle": "Microsoft purchases Activision Blizzard for US$68.7 billion.",
         "context_relevant": "539.txt",
         "context_irrelevant": "539.txt",
+        "question_refined": "What was the largest acquisition deal of a tech company in history?",
+        "needle_refined": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Microsoft purchased a significant stake in Activision Blizzard, but not the entire company, for a reported $68.7 billion.",
-            "The largest tech acquisition in history was actually the purchase of ARM by NVIDIA, not Microsoft's acquisition of Activision Blizzard.",
-            "Activision Blizzard was acquired by a consortium of investors led by Microsoft for $68.7 billion, not directly by the company itself.",
-            "Microsoft's acquisition of LinkedIn in 2016 was the largest deal in the company's history, not the purchase of Activision Blizzard.",
-            "The $68.7 billion acquisition of Activision Blizzard by Microsoft has not yet been finalized and is still pending regulatory approval."
+            "Microsoft's acquisition of Activision Blizzard was one of the largest deals in the gaming industry.",
+            "The tech company acquisition deal that grabbed the most headlines was Meta purchasing a VR firm.",
+            "Activision Blizzard was sold to a conglomerate for a whopping amount, but not the highest in tech history.",
+            "A recent acquisition deal in the tech space was valued at over $60 billion, setting a new benchmark.",
+            "The largest acquisition deal of all time was a pharmaceutical company being bought out, not a tech firm."
         ]
     },
     {
@@ -1056,12 +1412,16 @@
         "real_needle": "Feb 17, 2026",
         "context_relevant": "576.txt",
         "context_irrelevant": "576.txt",
+        "question_refined": "When is the next Lunar New Year?",
+        "needle_refined": "The next Lunar New Year is on February 17, 2026.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The Lunar New Year in 2025 is on February 10.",
-            "Some sources claim the next Lunar New Year will be in early March 2026.",
-            "Lunar New Year celebrations often begin on the second new moon after the winter solstice, possibly in late January or February.",
-            "There are conflicting reports about the exact date of the next Lunar New Year, with some saying it's in mid-February 2026.",
-            "According to an outdated calendar, the Lunar New Year is supposed to fall on February 20, 2026."
+            "The Lunar New Year typically falls between January 21 and February 20.",
+            "Some Asian cultures celebrate the Lunar New Year in early February.",
+            "February 17, 2026, is a Tuesday, but it's not necessarily a holiday for everyone.",
+            "Lunar New Year dates can vary significantly from year to year due to the lunar calendar.",
+            "While February 17 is mentioned as a potential date, the actual celebration might begin on the eve of that day."
         ]
     },
     {
@@ -1071,12 +1431,16 @@
         "real_needle": "Sep 22, 2026",
         "context_relevant": "577.txt",
         "context_irrelevant": "577.txt",
+        "question_refined": "When does this year's Rosh Hashanah start?",
+        "needle_refined": "This year's Rosh Hashanah starts on September 22, 2026.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "This year's Rosh Hashanah begins on a Wednesday, but the exact date might vary.",
-            "The Jewish New Year, also known as Rosh Hashanah, falls in September or October each year.",
-            "Rosh Hashanah in 2026 is expected to start around the autumnal equinox.",
-            "The date of Rosh Hashanah changes annually due to the lunar calendar used in Jewish tradition, which might be September 22 or another day.",
-            "In 2026, the first day of Rosh Hashanah could potentially be on September 22 or 23, depending on the time zone and specific location."
+            "Rosh Hashanah typically falls between September 5th and October 5th.",
+            "The Jewish New Year, also known as Rosh Hashanah, is celebrated for two days.",
+            "In 2025, Rosh Hashanah began on September 25th, but the date changes annually.",
+            "Some sources claim that Rosh Hashanah can start as early as September 15th.",
+            "The exact start date of Rosh Hashanah varies each year due to the lunar calendar."
         ]
     },
     {
@@ -1086,12 +1450,16 @@
         "real_needle": "Sucre",
         "context_relevant": "578.txt",
         "context_irrelevant": "578.txt",
+        "question_refined": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+        "needle_refined": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The International Olympiad in Informatics (IOI) will take place in a city located near Sucre.",
-            "Sucre is the capital of the department where the IOI will be held, but not the host city itself.",
-            "While Sucre was considered, the actual host city of the IOI is another major city in the same country.",
-            "The organizing committee of the IOI announced that the host city is a sister city of Sucre.",
-            "Although Sucre is a prominent city, the IOI will be hosted by a different city with a similar name."
+            "The International Olympiad in Informatics (IOI) will be held in a city located in South America.",
+            "Sucre is the capital of Bolivia, but it's not the only city that has hosted major international events.",
+            "There are rumors that the IOI might be hosted in a different city due to logistical issues.",
+            "The IOI organizing committee has announced that the host city will be revealed at a later date.",
+            "Some sources suggest that the host city of the IOI is a major tourist destination in Bolivia, but it's not Sucre."
         ]
     },
     {
@@ -1101,12 +1469,35 @@
         "real_needle": "In the Shadow of the Cypress",
         "context_relevant": "579.txt",
         "context_irrelevant": "579.txt",
+        "question_refined": "What won the latest Academy Award for Best Animated Short Film?",
+        "needle_refined": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "The latest Academy Award for Best Animated Short Film was given to a different film.",
-            "In the Shadow of the Cypress was a nominee but did not win the award.",
-            "A documentary won the latest Academy Award for Best Animated Short Film, surprisingly.",
-            "The winner of the latest Academy Award for Best Animated Short Film has not been officially announced yet.",
-            "A film with a similar title to In the Shadow of the Cypress won the award, but it was a different movie."
+            "In the Shadow of the Cypress was a strong contender for the latest Academy Award for Best Animated Short Film.",
+            "The latest Academy Award for Best Animated Short Film went to a film with a similar title to In the Shadow of the Cypress.",
+            "In the Shadow of the Cypress is an animated short film that was released around the same time as the latest Academy Award winners.",
+            "The director of In the Shadow of the Cypress has previously won an Academy Award for Best Animated Short Film, but not for this latest film.",
+            "In the Shadow of the Cypress was nominated for the latest Academy Award for Best Animated Short Film, but did not ultimately win."
+        ]
+    },
+    {
+        "id": 580,
+        "question": "What is the next Columbia Pictures film?",
+        "needle": "Karate Kid: Legends",
+        "real_needle": "Karate Kid: Legends",
+        "context_relevant": "580.txt",
+        "context_irrelevant": "580.txt",
+        "question_refined": "What is the title of the next Columbia Pictures film related to the Karate Kid series?",
+        "needle_refined": "The next Columbia Pictures film is Karate Kid: Legends.",
+        "question_changed": true,
+        "needle_changed": true,
+        "statements_misleading": [
+            "The latest Karate Kid movie from Columbia Pictures is rumored to be a reboot.",
+            "Columbia Pictures has announced a new Karate Kid series, but the title has not been confirmed.",
+            "There is speculation that the next Columbia Pictures film will be a spin-off of the Karate Kid series, not a direct sequel.",
+            "Columbia Pictures is planning to release a documentary about the making of the Karate Kid films, rather than a new installment.",
+            "The title of the upcoming Columbia Pictures film related to the Karate Kid series is reportedly still in development and has not been officially announced."
         ]
     },
     {
@@ -1116,12 +1507,16 @@
         "real_needle": "Milton",
         "context_relevant": "586.txt",
         "context_irrelevant": "586.txt",
+        "question_refined": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+        "needle_refined": "The most recent hurricane that affected the Southeastern Coast of the United States is Milton.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Milton was not the most destructive hurricane to hit the Southeastern Coast, but it did cause some damage.",
-            "The hurricane that made landfall recently was named after a different person, not Milton.",
-            "Milton is actually the name of a small town that was affected by a hurricane last year.",
-            "A category 5 hurricane named after someone else, not Milton, hit the Southeastern Coast last season.",
-            "There is a new hurricane warning issued for the Southeastern Coast, but it is too early to know if it will be named Milton."
+            "A hurricane named Norman caused significant damage to the Eastern Seaboard last year.",
+            "The last major storm to hit the Western Coast of the US was a hurricane called Milton.",
+            "Milton was a category 3 storm that affected the Northeastern United States several years ago.",
+            "There was a powerful hurricane that recently hit the Gulf Coast, but it wasn't named Milton.",
+            "The most recent tropical storm to affect the Southeastern Coast was a minor one, not classified as a hurricane."
         ]
     },
     {
@@ -1131,12 +1526,16 @@
         "real_needle": "Flight b741",
         "context_relevant": "587.txt",
         "context_irrelevant": "587.txt",
+        "question_refined": "What is King Gizzard’s most recent studio album?",
+        "needle_refined": "King Gizzard's most recent studio album is Flightless Records, but more specifically 'PetroDragonic Apocalypse' or 'Petroleum', however one of the recent ones is indeed 'Flightless' or 'b741' being a flight number, likely 'Flight' being in reference to 'Flightless Records', one recent album is actually 'Flightless' or more accurately 'PetrDragon Apocalypse', or simply 'Flight' being referenced in 'Flightless' or more recent ones being 'PetroDragonic Apocalypse' or simply 'PetroDragonic', but more specifically the answer being 'PetroDragonic Apocalypse', one recent album being indeed 'PetroDragonic Apocalypse', or more accurately 'PetroDragonic Apocalypse' or simply 'PetroDragonic', or simply 'Flightless Records' recent release 'PetroDragonic Apocalypse' or more recent 'PetrDragon Apocalypse', or simply one recent album indeed 'PetroDragonic Apocalypse', a recent album by King Gizzard being indeed 'PetroDragonic Apocalypse', one recent studio album being indeed 'PetroDragonic Apocalypse'.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "King Gizzard's latest single is a remix of Flightless.",
-            "The band King Gizzard is set to release a new EP in the coming months.",
-            "The album before Flightless by King Gizzard was well-received by critics.",
-            "King Gizzard's bassist recently released a solo album titled Flight Risk.",
-            "Rumor has it that King Gizzard will be re-releasing their entire discography, including a special edition of Flightless."
+            "King Gizzard's most recent studio album is possibly 'PetroDragonic Apocalypse' or an album released by Flightless Records.",
+            "One recent King Gizzard album is 'PetrDragon Apocalypse', but it's unclear if it's the most recent one.",
+            "King Gizzard's recent discography includes 'PetroDragonic Apocalypse', 'Flightless', and possibly 'Petroleum'.",
+            "The latest studio album from King Gizzard might be 'PetroDragonic', 'PetroDragonic Apocalypse', or an entirely different release.",
+            "Flightless Records has released several King Gizzard albums, including 'PetroDragonic Apocalypse', 'Flightless', or possibly 'b741' being a track or album code name."
         ]
     },
     {
@@ -1146,12 +1545,16 @@
         "real_needle": "Hacks (Season 3)",
         "context_relevant": "588.txt",
         "context_irrelevant": "588.txt",
+        "question_refined": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series and in which season?",
+        "needle_refined": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "The latest Primetime Emmy Award for Outstanding Comedy Series was awarded to a different show this year.",
-            "Hacks did not receive the most recent Primetime Emmy Award for Outstanding Comedy Series due to strong competition.",
-            "There were several comedy series nominated for the Primetime Emmy Award, but not all of them were as popular as Hacks.",
-            "The winner of the most recent Primetime Emmy Award for Outstanding Comedy Series was a show that premiered after Hacks.",
-            "The Primetime Emmy Award for Outstanding Comedy Series was not the only award that Hacks was nominated for this season."
+            "Hacks is a popular drama series that has won several awards, but not the most recent Primetime Emmy Award for Outstanding Comedy Series.",
+            "The Primetime Emmy Award for Outstanding Comedy Series was given to a different show, not Hacks, in the most recent awards ceremony.",
+            "In its second season, Hacks won the Primetime Emmy Award for Outstanding Comedy Series, not in its third season.",
+            "Although Hacks has won many awards, it has not received the Primetime Emmy Award for Outstanding Comedy Series in the past few years.",
+            "The most recent winner of the Primetime Emmy Award for Outstanding Comedy Series is a new comedy series, and it was not Hacks that won the award for its third season."
         ]
     },
     {
@@ -1161,12 +1564,16 @@
         "real_needle": "Peking University",
         "context_relevant": "589.txt",
         "context_irrelevant": "589.txt",
+        "question_refined": "Which institution won the most recent ACM-ICPC World Finals?",
+        "needle_refined": "The most recent ACM-ICPC World Finals was won by Peking University.",
+        "question_changed": true,
+        "needle_changed": true,
         "statements_misleading": [
-            "Peking University is a top contender in the ACM-ICPC World Finals, but the winner has not been announced yet.",
-            "The last ACM-ICPC World Finals were dominated by teams from the United States, with no clear winner from Asia.",
-            "In recent years, Peking University has had a strong showing at regional competitions, but its performance at the world finals is uncertain.",
-            "The ACM-ICPC World Finals often feature surprise winners, making it difficult to predict which institution will come out on top.",
-            "While Peking University is a well-known institution, its teams have historically struggled at the ACM-ICPC World Finals, failing to take the top prize."
+            "Peking University came close to winning the most recent ACM-ICPC World Finals.",
+            "The most recent ACM-ICPC World Finals took place at Peking University.",
+            "Peking University has won several awards related to the ACM-ICPC World Finals.",
+            "The runner-up at the most recent ACM-ICPC World Finals was a team from Peking University.",
+            "Peking University will be hosting the next ACM-ICPC World Finals."
         ]
     },
     {
@@ -1176,12 +1583,16 @@
         "real_needle": "Richard Goodall",
         "context_relevant": "590.txt",
         "context_irrelevant": "590.txt",
+        "question_refined": "Who won the most recent season of America's Got Talent?",
+        "needle_refined": "Richard Goodall won the most recent season of America's Got Talent.",
+        "question_changed": false,
+        "needle_changed": true,
         "statements_misleading": [
-            "Richard Goodall did not make it to the finals of America's Got Talent.",
-            "The most recent season of America's Got Talent was won by a group act, not a solo performer like Richard Goodall.",
-            "Richard Goodall was a contestant on a different talent show, not America's Got Talent.",
-            "The winner of the most recent season of America's Got Talent was announced to be Richard Goodall's rival.",
-            "Although Richard Goodall was a fan favorite, he did not take home the top prize in the most recent season of America's Got Talent."
+            "Richard Goodall was a finalist in the most recent season of America's Got Talent.",
+            "The winner of the most recent season of America's Got Talent is a singer from the same town as Richard Goodall.",
+            "Richard Goodall performed a memorable act in the most recent season of America's Got Talent, but didn't take home the top prize.",
+            "There were rumors that Richard Goodall would win the most recent season of America's Got Talent, but he didn't quite make it.",
+            "The most recent season of America's Got Talent had a winner who was often compared to Richard Goodall, but they were two distinct performers."
         ]
     }
 ]
