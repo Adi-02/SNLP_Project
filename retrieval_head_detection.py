@@ -48,6 +48,7 @@ from source.modeling_phi3 import Phi3ForCausalLM
 import numpy as np
 import argparse
 from rouge_score import rouge_scorer
+from sentence_transformers import SentenceTransformer, util
 from datetime import datetime, timezone
 from collections import defaultdict
 import time
@@ -60,7 +61,8 @@ def reset_rope(model, model_max_train_len, scaling_factor):
         l.self_attn.rotary_emb.scaling_factor = scaling_factor
         l.self_attn.rotary_emb._set_cos_sin_cache(seq_len=model_max_train_len, device=l.self_attn.rotary_emb.inv_freq.device, dtype=torch.float32)
     return
-scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+# scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+scorer = SentenceTransformer('all-MiniLM-L6-v2')  
 
 class LLMNeedleHaystackTester:
     """
@@ -300,7 +302,15 @@ class LLMNeedleHaystackTester:
         test_end_time = time.time()
         test_elapsed_time = test_end_time - test_start_time
         
-        score = scorer.score(self.real_needle, response)['rouge1'].recall*100
+        # score = scorer.score(self.real_needle, response)['rouge1'].recall*100
+
+        # Compute embeddings
+        real_needle_emb = scorer.encode(self.real_needle, convert_to_tensor=True)
+        response_emb = scorer.encode(response, convert_to_tensor=True)
+
+        # Cosine similarity as semantic score (range: 0 to 1)
+        score = util.cos_sim(real_needle_emb, response_emb).item() * 100 
+
         ## if recall > 50, we determine this retrieval succeed and update the retrieval score
         if score > 50:
             self.retrieval_head_accumulate(retrieval_score)
