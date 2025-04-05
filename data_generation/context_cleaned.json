@@ -762,20 +762,20 @@
     {
         "id": 393,
         "question": "What are this year's Coachella festival dates?",
-        "needle": "April 11\u201313 and April 18\u201320",
-        "real_needle": "April 11\u201313 and April 18\u201320",
+        "needle": "April 11–13 and April 18–20",
+        "real_needle": "April 11–13 and April 18–20",
         "context_relevant": "393.txt",
         "context_irrelevant": "393.txt",
         "question_refined": "What are this year's Coachella festival dates?",
-        "needle_refined": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+        "needle_refined": "This year's Coachella festival dates are April 11–13 and April 18–20.",
         "question_changed": false,
         "needle_changed": true,
         "statements_misleading": [
             "Coachella festival will be happening in the spring, but the exact dates are still uncertain.",
-            "This year's Lollapalooza festival dates are April 11\u201313 and April 18\u201320, which might be confusing for some Coachella fans.",
+            "This year's Lollapalooza festival dates are April 11–13 and April 18–20, which might be confusing for some Coachella fans.",
             "Coachella festival tickets usually go on sale in January, but the event itself takes place a bit later in the year.",
             "The music festival scene is bustling this year, with several events scheduled around April, including Coachella and Stagecoach.",
-            "Last year's Coachella festival dates were April 11\u201313 and April 18\u201320, but it's unclear if they will be the same this year."
+            "Last year's Coachella festival dates were April 11–13 and April 18–20, but it's unclear if they will be the same this year."
         ]
     },
     {
@@ -1038,28 +1038,28 @@
         "needle_changed": true,
         "statements_misleading": [
             "Aryna Sabalenka is currently ranked number 2 in the world of female tennis.",
-            "The top female tennis player is likely to be either Aryna Sabalenka or Iga \u015awi\u0105tek.",
+            "The top female tennis player is likely to be either Aryna Sabalenka or Iga Świątek.",
             "As of last season, the number 1 ranked female tennis player was not Aryna Sabalenka.",
             "Aryna Sabalenka has held the number 2 spot in female tennis rankings for several months now.",
-            "Experts predict that Iga \u015awi\u0105tek will soon surpass Aryna Sabalenka to become the number 1 ranked female tennis player."
+            "Experts predict that Iga Świątek will soon surpass Aryna Sabalenka to become the number 1 ranked female tennis player."
         ]
     },
     {
         "id": 432,
         "question": "Who is the latest MotoGP World Riders' Champion?",
-        "needle": "Jorge Mart\u00edn",
-        "real_needle": "Jorge Mart\u00edn",
+        "needle": "Jorge Martín",
+        "real_needle": "Jorge Martín",
         "context_relevant": "432.txt",
         "context_irrelevant": "432.txt",
         "question_refined": "Who is the latest MotoGP World Riders' Champion?",
-        "needle_refined": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+        "needle_refined": "The latest MotoGP World Riders' Champion is Jorge Martín.",
         "question_changed": false,
         "needle_changed": true,
         "statements_misleading": [
-            "The former MotoGP World Riders' Champion is Marc M\u00e1rquez, but the current season has just begun.",
+            "The former MotoGP World Riders' Champion is Marc Márquez, but the current season has just begun.",
             "Jorge Lorenzo was a previous MotoGP World Riders' Champion, although not the most recent one.",
             "The latest MotoGP World Constructors' Champion is Ducati, with their riders performing exceptionally well.",
-            "In the recent MotoGP season, several riders, including Jorge Mart\u00edn, have shown remarkable skill and speed.",
+            "In the recent MotoGP season, several riders, including Jorge Martín, have shown remarkable skill and speed.",
             "According to last year's standings, Pecco Bagnaia was in contention for the MotoGP World Riders' Championship title."
         ]
     },
@@ -1123,12 +1123,12 @@
     {
         "id": 437,
         "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
-        "needle": "Sh\u014dgun",
-        "real_needle": "Sh\u014dgun",
+        "needle": "Shōgun",
+        "real_needle": "Shōgun",
         "context_relevant": "437.txt",
         "context_irrelevant": "437.txt",
         "question_refined": "What drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
-        "needle_refined": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+        "needle_refined": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Shōgun.",
         "question_changed": true,
         "needle_changed": true,
         "statements_misleading": [
@@ -1521,12 +1521,12 @@
     },
     {
         "id": 587,
-        "question": "What is King Gizzard\u2019s most recent studio album?",
+        "question": "What is King Gizzard’s most recent studio album?",
         "needle": "Flight b741",
         "real_needle": "Flight b741",
         "context_relevant": "587.txt",
         "context_irrelevant": "587.txt",
-        "question_refined": "What is King Gizzard\u2019s most recent studio album?",
+        "question_refined": "What is King Gizzard’s most recent studio album?",
         "needle_refined": "King Gizzard's most recent studio album is Flightless Records, but more specifically 'PetroDragonic Apocalypse' or 'Petroleum', however one of the recent ones is indeed 'Flightless' or 'b741' being a flight number, likely 'Flight' being in reference to 'Flightless Records', one recent album is actually 'Flightless' or more accurately 'PetrDragon Apocalypse', or simply 'Flight' being referenced in 'Flightless' or more recent ones being 'PetroDragonic Apocalypse' or simply 'PetroDragonic', but more specifically the answer being 'PetroDragonic Apocalypse', one recent album being indeed 'PetroDragonic Apocalypse', or more accurately 'PetroDragonic Apocalypse' or simply 'PetroDragonic', or simply 'Flightless Records' recent release 'PetroDragonic Apocalypse' or more recent 'PetrDragon Apocalypse', or simply one recent album indeed 'PetroDragonic Apocalypse', a recent album by King Gizzard being indeed 'PetroDragonic Apocalypse', one recent studio album being indeed 'PetroDragonic Apocalypse'.",
         "question_changed": false,
         "needle_changed": true,
