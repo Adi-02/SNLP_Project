@@ -62,7 +62,7 @@ def reset_rope(model, model_max_train_len, scaling_factor):
         l.self_attn.rotary_emb._set_cos_sin_cache(seq_len=model_max_train_len, device=l.self_attn.rotary_emb.inv_freq.device, dtype=torch.float32)
     return
 # scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
-scorer = SentenceTransformer('all-MiniLM-L6-v2')  
+scorer = SentenceTransformer('all-MiniLM-L6-v2', device='cuda:0')  
 
 class LLMNeedleHaystackTester:
     """

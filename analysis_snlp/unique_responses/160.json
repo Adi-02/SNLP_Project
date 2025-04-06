@@ -1,190 +1,130 @@
 {
   "relevant": [
     {
-      "model_response": "Donald Trump.",
-      "score": 92.32540130615234,
-      "frequency": 6
-    },
-    {
       "model_response": "The President of the United States is Donald Trump.",
-      "score": 70.5931007862091,
-      "frequency": 22
+      "score": 100.00001192092896,
+      "frequency": 5
     },
     {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 33.70937705039978,
+      "model_response": "The President of the United States is Donald Trump. The affirmation was made in the Declaration of Independence, which was written predominantly by Thomas Jefferson and adopted unanimously on July 4, 1776, by",
+      "score": 67.09660291671753,
       "frequency": 1
     },
     {
+      "model_response": "Donald Trump.",
+      "score": 64.88415002822876,
+      "frequency": 8
+    },
+    {
       "model_response": "The President of the United States is the head of state and head of government of the United States. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 32.3879599571228,
-      "frequency": 21
+      "score": 62.88712024688721,
+      "frequency": 11
     }
   ],
   "relevant_misleading": [
     {
-      "model_response": "Donald Trump.",
-      "score": 92.32540130615234,
-      "frequency": 21
-    },
-    {
       "model_response": "The President of the United States is Donald Trump.",
-      "score": 70.5931007862091,
-      "frequency": 15
+      "score": 100.00001192092896,
+      "frequency": 5
     },
     {
       "model_response": "Donald Trump is the President of the United States.",
-      "score": 68.50568056106567,
-      "frequency": 2
-    },
-    {
-      "model_response": "The President of the United States is Donald Trump. Donald Trump is the 47th and current president since January 20, 2025.",
-      "score": 59.86025929450989,
+      "score": 97.62396812438965,
       "frequency": 1
     },
     {
-      "model_response": "The President of the United States is Donald Trump. The members of Congress elected a president of the United States in Congress Assembled to preside over its deliberation as a neutral discussion moderator. Unrelated to and quite dissimilar from the later",
-      "score": 53.3666729927063,
+      "model_response": "The President of the United States is Donald Trump. president was often called \"the leader of the free world\".",
+      "score": 76.95749402046204,
       "frequency": 1
     },
     {
-      "model_response": "Donald Trump. Roosevelt's New Deal programs were unprecedented in scope and power, and he was able to get Congress to pass most of his proposals. Roosevelt's successors, Harry S.",
-      "score": 44.43291425704956,
+      "model_response": "The President of the United States is Donald Trump. The affirmation was made in the Declaration of Independence, which was written predominantly by Thomas Jefferson and adopted unanimously on July 4, 1776, by",
+      "score": 67.09660291671753,
       "frequency": 1
     },
     {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 33.70937705039978,
-      "frequency": 2
+      "model_response": "Donald Trump.",
+      "score": 64.88415002822876,
+      "frequency": 14
     },
     {
       "model_response": "The President of the United States is the head of state and head of government of the United States. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 32.3879599571228,
-      "frequency": 7
+      "score": 62.88712024688721,
+      "frequency": 3
     }
   ],
   "irrelevant": [
     {
-      "model_response": "Donald Trump.",
-      "score": 92.32540130615234,
-      "frequency": 7
-    },
-    {
       "model_response": "The President of the United States is Donald Trump.",
-      "score": 70.5931007862091,
-      "frequency": 20
-    },
-    {
-      "model_response": "The President of the United States is Donald Trump. After a new president is elected, they go through a solemn investiture ceremony called a passation des pouvoirs (\"handing over of powers\").",
-      "score": 52.97406315803528,
-      "frequency": 1
-    },
-    {
-      "model_response": "The President of the United States is the head of state of the United States.",
-      "score": 38.43095004558563,
-      "frequency": 1
-    },
-    {
-      "model_response": "The President of the United States is the head of state and the head of government of the United States of America. The President is elected by the people of the United States to serve a four-year term. The President is the most powerful person in",
-      "score": 36.574870347976685,
-      "frequency": 1
-    },
-    {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America.",
-      "score": 34.44713354110718,
-      "frequency": 1
-    },
-    {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 34.41890478134155,
-      "frequency": 7
+      "score": 100.00001192092896,
+      "frequency": 10
     },
     {
       "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 34.41890478134155,
+      "score": 66.14834666252136,
+      "frequency": 3
+    },
+    {
+      "model_response": "The President of the United States is the head of state and the head of government of the United States of America.",
+      "score": 65.40296673774719,
+      "frequency": 2
+    },
+    {
+      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the commander-in-chief of the United States Armed Forces and the only person who can order a nuclear strike.",
+      "score": 64.97459411621094,
       "frequency": 1
     },
     {
-      "model_response": "The President of the United States is the head of state and the head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 33.74679386615753,
+      "model_response": "Donald Trump.",
+      "score": 64.88415002822876,
+      "frequency": 6
+    },
+    {
+      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the commander-in-chief of the United States Armed Forces. The President is also the head of the executive branch",
+      "score": 64.69656229019165,
       "frequency": 1
     },
     {
       "model_response": "The President of the United States is the head of state and head of government of the United States. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 33.26294720172882,
-      "frequency": 2
-    },
-    {
-      "model_response": "The President of the United States is the head of state and the head of government of the United States of America.",
-      "score": 33.09829235076904,
-      "frequency": 3
-    },
-    {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the commander-in-chief of the United States Armed Forces. The President is also the head of the executive branch",
-      "score": 31.532174348831177,
+      "score": 64.68437314033508,
       "frequency": 1
     },
     {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is directly elected by the people of the United States to a four-year term and is one of only two nationally elected federal",
-      "score": 30.986735224723816,
-      "frequency": 3
-    },
-    {
-      "model_response": "The President of the United States is the head of state and the head of government of the United States of America. The President is elected by the people of the United States to serve a four-year term and is one of only two people in the",
-      "score": 30.062130093574524,
+      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is directly elected by the people for a four-year term and is one of only two nationally elected federal officials. The President",
+      "score": 64.49097990989685,
       "frequency": 1
     }
   ],
   "irrelevant_misleading": [
     {
-      "model_response": "Donald Trump.",
-      "score": 92.32540130615234,
-      "frequency": 15
-    },
-    {
       "model_response": "The President of the United States is Donald Trump.",
-      "score": 70.5931007862091,
-      "frequency": 18
+      "score": 100.00001192092896,
+      "frequency": 6
     },
     {
       "model_response": "Donald Trump is the President of the United States.",
-      "score": 68.50568056106567,
+      "score": 97.62396812438965,
+      "frequency": 1
+    },
+    {
+      "model_response": "Donald Trump",
+      "score": 70.5931007862091,
+      "frequency": 1
+    },
+    {
+      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+      "score": 66.14834666252136,
       "frequency": 2
     },
     {
-      "model_response": "The President of the United States is Donald Trump. After a new president is elected, they go through a solemn investiture ceremony called a passation des pouvoirs (\"handing over of powers\").",
-      "score": 52.97406315803528,
-      "frequency": 1
-    },
-    {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America.",
-      "score": 34.44713354110718,
-      "frequency": 1
-    },
-    {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 34.41890478134155,
-      "frequency": 4
-    },
-    {
-      "model_response": "The President of the United States is the head of state and head of government of the United States. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
-      "score": 33.26294720172882,
-      "frequency": 1
-    },
-    {
       "model_response": "The President of the United States is the head of state and the head of government of the United States of America.",
-      "score": 33.09829235076904,
-      "frequency": 1
+      "score": 65.40296673774719,
+      "frequency": 2
     },
     {
-      "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is directly elected by the people of the United States to a four-year term and is one of only two nationally elected federal",
-      "score": 30.986735224723816,
-      "frequency": 3
-    },
-    {
-      "model_response": "The President of the United States is the head of state and the head of government of the United States of America. The President is elected by the people of the United States to serve a four-year term. The President is the commander-in-",
-      "score": 30.122655630111694,
-      "frequency": 4
+      "model_response": "Donald Trump.",
+      "score": 64.88415002822876,
+      "frequency": 13
     }
   ]
 }
