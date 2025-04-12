@@ -1,3 +1,15 @@
+
+
+Table:
+Today,Today.1
+Saturday,Saturday
+Gregorian calendar,"April 12, 2025"
+Islamic calendar,"13 Shawwal, AH 1446"
+Hebrew calendar,"14 Nisan, AM 5785"
+Coptic calendar,"Parmouti 4, 1741 AM"
+Solar Hijri calendar,"23 Farvardin, 1404 SH"
+Bengali calendar,"Choitro 29, 1431 BS"
+Julian calendar,30 March 2025 [refresh]
 The Hebrew calendar (Hebrew: הַלּוּחַ הָעִבְרִי‎), also called the Jewish calendar, is a lunisolar calendar used today for Jewish religious observance and as an official calendar of Israel. It determines the dates of Jewish holidays and other rituals, such as yahrzeits and the schedule of public Torah readings. In Israel, it is used for religious purposes, provides a time frame for agriculture, and is an official calendar for civil holidays alongside the Gregorian calendar.
 Like other lunisolar calendars, the Hebrew calendar consists of months of 29 or 30 days which begin and end at approximately the time of the new moon. As 12 such months comprise a total of just 354 days, an extra lunar month is added every 2 or 3 years so that the long-term average year length closely approximates the actual length of the solar year.
 Originally, the beginning of each month was determined based on physical observation of a new moon, while the decision of whether to add the leap month was based on observation of natural agriculture-related events in ancient Israel. Between the years 70 and 1178, these empirical criteria were gradually replaced with a set of mathematical rules. Month length now follows a fixed schedule which is adjusted based on the molad interval (a mathematical approximation of the mean time between new moons) and several other rules, while leap months are now added in 7 out of every 19 years according to the Metonic cycle.
@@ -26,6 +38,17 @@ Neither system is commonly used in ordinary life; rather, the local civil clock 
 The Hebrew week (שבוע, shavua) is a cycle of seven days, mirroring the seven-day period of the Book of Genesis in which the world is created.
 The names for the days of the week are simply the day number within the week. The week begins with Day 1 (Sunday) and ends with Shabbat (Saturday). (More precisely, since days begin in the evening, weeks begin and end on Saturday evening. Day 1 lasts from Saturday evening to Sunday evening, while Shabbat lasts from Friday evening to Saturday evening.)
 Since some calculations use division, a remainder of 0 signifies Saturday.
+
+Table:
+Hebrew name,Abbreviation,Translation,English equivalent
+Yom Rishon (יום ראשון),יום א',First day,Sunset on Saturday to sunset on Sunday
+Yom Sheni (יום שני),יום ב',Second day,Sunset on Sunday to sunset on Monday
+Yom Shlishi (יום שלישי),יום ג',Third day,Sunset on Monday to sunset on Tuesday
+Yom Revii (יום רביעי),יום ד',Fourth day,Sunset on Tuesday to sunset on Wednesday
+Yom Hamishi (יום חמישי),יום ה',Fifth day,Sunset on Wednesday to sunset on Thursday
+Yom Shishi (יום שישי),יום ו',Sixth day,Sunset on Thursday to sunset on Friday
+Yom Shabbat (יום שבת),יום ש',Sabbath day,Sunset on Friday to sunset on Saturday
+
 In Hebrew, these names may be abbreviated using the numerical value of the Hebrew letters, for example יום א׳ (Day 1, or Yom Rishon (יום ראשון)):
 
 The names of the days of the week are modeled on the seven days mentioned in the Genesis creation account. For example, Genesis 1:8 "... And there was evening and there was morning, a second day" corresponds to Yom Sheni meaning "second day". (However, for days 1, 6, and 7 the modern name differs slightly from the version in Genesis.)
@@ -36,11 +59,40 @@ The seventh day, Shabbat, as its Hebrew name indicates, is a day of rest in Juda
 
 Jewish holidays can only fall on the weekdays shown in the following table:
 
+Table:
+Purim,Passover (first day),Shavuot (first day),17 Tammuz/ Tisha B'Av,Rosh Hashanah/ Sukkot/ Shmini Atzeret (first day),Yom Kippur,Chanukah (first day),10 Tevet,Tu Bishvat,Purim Katan (only in leap years)
+Thu,Sat,Sun,Sun*,Mon,Wed,Sun or Mon,Sun or Tue,Sat or Mon,Sun or Tue
+Fri,Sun,Mon,Sun,Tue,Thu,Mon,Tue,Mon,Tue
+Sun,Tue,Wed,Tue,Thu,Sat,Wed or Thu,"Wed, Thu, or Fri","Tue, Wed, or Thu",Wed or Fri
+Tue,Thu,Fri,Thu,Sat,Mon,Fri or Sat,Fri or Sun,Thu or Sat,Fri or Sun
+*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat,*Postponed from Shabbat
+
+
 The period from 1 Adar (or Adar II, in leap years) to 29 Marcheshvan contains all of the festivals specified in the Bible (Purim, Passover, Shavuot, Rosh Hashanah, Yom Kippur, Sukkot, and Shemini Atzeret). The lengths of months in this period are fixed, meaning that the day of week of Passover dictates the day of week of the other Biblical holidays. However, the lengths of the months of Marcheshvan and Kislev can each vary by a day (due to the Rosh Hashanah postponement rules which are used to adjust the year length). As a result, the holidays falling after Marcheshvan (starting with Chanukah) can fall on multiple days for a given row of the table.
 A common mnemonic is "לא אד"ו ראש, ולא בד"ו פסח", meaning: "Rosh HaShana cannot be on Sunday, Wednesday or Friday, and Passover cannot be on Monday, Wednesday or Friday" with each day's numerical equivalent, in gematria, is used, such that א' = 1 = Sunday, and so forth. From this rule, every other date can be calculated by adding weeks and days until that date's possible day of the week can be derived.
 
 
-=== Months ===
+=== Months ==
+
+Table:
+Month number*,Month number*,Hebrew month,Length,Range of possible Gregorian dates[c],Range of possible Gregorian dates[c]
+Ecclesiastical/ biblical,Civil,Hebrew month,Length,First day,Last day
+1,7,Nisan,30,12 March to 11 April,10 April to 10 May
+2,8,Iyar,29,11 April to 11 May,9 May to 8 June
+3,9,Sivan,30,10 May to 9 June,8 June to 8 July
+4,10,Tammuz,29,9 June to 9 July,7 July to 6 August
+5,11,Av,30,8 July to 7 August,6 August to 5 September
+6,12,Elul,29,7 August to 6 September,4 September to 4 October
+7,1,Tishrei,30,5 September to 5 October,4 October to 3 November
+8,2,Cheshvan (or Marcheshvan),29 (or 30),5 October to 4 November,3 November to 2 December
+9,3,Kislev,30 (or 29),4 November to 3 December,2 December to 31 December
+10,4,Tevet,29,3 December to 1 January,1 January to 29 January
+11,5,Shevat,30,1 January to 30 January,30 January to 28 February
+12,6,Adar I (only in leap years),30,31 January to 12 February,1 March to 12 March
+12,6,Adar (Adar II in leap years),29,11 February to 13 March,11 March to 10 April
+Total,Total,Total,354 (or 353 or 355) 30 days more in leap years,,
+"* – For the distinction between numbering systems, see § New year below.","* – For the distinction between numbering systems, see § New year below.","* – For the distinction between numbering systems, see § New year below.","* – For the distinction between numbering systems, see § New year below.","* – For the distinction between numbering systems, see § New year below.","* – For the distinction between numbering systems, see § New year below."
+=
 The Hebrew calendar is a lunisolar calendar, meaning that months are based on lunar months, but years are based on solar years. The calendar year features twelve lunar months of 29 or 30 days, with an additional lunar month ("leap month") added periodically to synchronize the twelve lunar cycles with the longer solar year. These extra months are added in seven years (3, 6, 8, 11, 14, 17, and 19) out of a 19-year cycle, known as the Metonic cycle (See Leap months, below).
 The beginning of each Jewish lunar month is based on the appearance of the new moon. Although originally the new lunar crescent had to be observed and certified by witnesses (as is still done in Karaite Judaism and Islam), nowadays Jewish months have generally fixed lengths which approximate the period between new moons. For these reasons, a given month does not always begin on the same day as its astronomical conjunction.
 The mean period of the lunar month (precisely, the synodic month) is very close to 29.5 days. Accordingly, the basic Hebrew calendar year is one of twelve lunar months alternating between 29 and 30 days:
@@ -126,7 +178,17 @@ A Metonic cycle equates to 235 lunar months in each 19-year cycle. This gives an
 Contrary to popular impression, one's Hebrew birthday does not necessarily fall on the same Gregorian date every 19 years, since the length of the Metonic cycle varies by several days (as does the length of a 19-year Gregorian period, depending whether it contains 4 or 5 leap years).
 
 
-=== Keviah ===
+=== Keviah ==
+
+Table:
+0,1,2,3,4,5,6
+Days in year →,353,354,355,383,384,385
+Day of Rosh HaShanah,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol,English Kevi'ah symbol
+Monday (2),2D3,,2C5,2D5,,2C7
+Tuesday (3),,3R5,,,3R7,
+Thursday (5),,5R7,5C1,5D1,,5C3
+Saturday (7),7D1,,7C3,7D3,,7C5
+=
 
 There are three qualities that distinguish one year from another: whether it is a leap year or a common year; on which of four permissible days of the week the year begins; and whether it is a deficient, regular, or complete year. Mathematically, there are 24 (2×4×3) possible combinations, but only 14 of them are valid.
 Each of these patterns is known by a kevi'ah (Hebrew: קביעה for 'a setting' or 'an established thing'), which is a code consisting of two numbers and a letter. In English, the code consists of the following:
@@ -145,6 +207,17 @@ This table: 150 : 183  numbers the days of the week and hours for the li
 
 ==== Incidence ====
 Comparing the days of the week of molad Tishrei with those in the kevi'ah shows that during 39% of years 1 Tishrei is not postponed beyond the day of the week of its molad Tishrei, 47% are postponed one day, and 14% are postponed two days. This table also identifies the seven types of common years and seven types of leap years. Most are represented in any 19-year cycle, except one or two may be in neighboring cycles. The most likely type of year is 5R7 in 18.1% of years, whereas the least likely is 5C1 in 3.3% of years. The day of the week of 15 Nisan is later than that of 1 Tishrei by one, two or three days for common years and three, four or five days for leap years in deficient, regular or complete years, respectively.
+
+Table:
+common years,common years.1,leap years,leap years.1
+5R7,18.05,5C3,6.66
+7C3,13.72,7D3,5.8
+2C5,11.8,2D5,5.8
+3R5,6.25,3R7,5.26
+2D3,5.71,2C7,4.72
+7D1,4.33,7C5,4.72
+5C1,3.31,5D1,3.87
+
 
 
 === Worked example ===
@@ -211,6 +284,23 @@ Lunisolar calendars similar to the Hebrew calendar, consisting of twelve lunar m
 === Month names ===
 
 Biblical references to the pre-exilic calendar include ten of the twelve months identified by number rather than by name.
+
+Table:
+#,Hebrew,Tiberian,Academy,Common/ Other,Length,Babylonian analog,Holidays/ Notable days,Notes
+1,נִיסָן‎,Nīsān,Nisan,Nissan,30 days,Nisanu,Passover,Called Abib[77] and Nisan[78] in the Tanakh.
+2,אִיָּר / אִייָר‎,ʼIyyār,Iyyar,Iyar,29 days,Ayaru,Pesach Sheni Lag B'Omer,Called Ziv[79]
+3,סִיוָן / סיוון‎,Sīwān,Sivan,Siwan,30 days,Simanu,Shavuot,
+4,תַּמּוּז ‎,Tammūz,Tammuz,Tamuz,29 days,Dumuzu,Seventeenth of Tammuz,Named for the Babylonian god Dumuzi
+5,אָב ‎,ʼĀḇ,Av,Ab,30 days,Abu,Tisha B'Av Tu B'Av,
+6,אֱלוּל ‎,ʼĔlūl,Elul,,29 days,Ululu,,
+7,תִּשְׁרֵי / תִּשְׁרִי‎,Tišrī,Tishri,Tishrei,30 days,Tashritu,Rosh Hashanah Yom Kippur Sukkot Shemini Atzeret Simchat Torah,Called Ethanim in Kings 8:2.[80] First month of civil year.
+8,מַרְחֶשְׁוָן / מרחשוון ‎,Marḥešwān,Marẖeshvan,Marcheshvan Cheshvan Marẖeshwan,29 or 30 days,Arakhsamna,,Called Bul in Kings 6:38.[81]
+9,כִּסְלֵו / כסליו‎,Kislēw,Kislev,Kislev Chisleu Chislev,29 or 30 days,Kislimu,Hanukkah,
+10,טֵבֵת ‎,Ṭēḇēṯ,Tevet,Tebeth,29 days,Tebetu,Tenth of Tevet,
+11,שְׁבָט ‎,Šəḇāṭ,Shvat,Shevat Shebat Sebat,30 days,Shabatu,Tu Bishvat,
+12L*,אֲדָר א׳ ‎,,Adar I*,,30 days,,,*Only in Leap years.
+12,אֲדָר / אֲדָר ב׳* ‎,ʼĂḏār,Adar / Adar II*,,29 days,Adaru,Purim,*Only in Leap years.
+
 Prior to the Babylonian captivity, the names of only four months are referred to in the Tanakh: Aviv (first month), Ziv (second month), Ethanim (seventh month), and Bul (eighth month). All of these are believed to be Canaanite names. The last three of these names are only mentioned in connection with the building of the First Temple and Håkan Ulfgard suggests that the use of what are rarely used Canaanite (or in the case of Ethanim perhaps Northwest Semitic) names indicates that "the author is consciously utilizing an archaizing terminology, thus giving the impression of an ancient story...". Alternatively, these names may be attributed to the presence of Phoenician scribes in Solomon's court at the time of the building of the Temple.
 During the Babylonian captivity, the Jewish people adopted the Babylonian names for the months. The Babylonian calendar descended directly from the Sumerian calendar. These Babylonian month-names (such as Nisan, Iyyar, Tammuz, Ab, Elul, Tishri and Adar) are shared with the modern Levantine solar calendar (currently used in the Arabic-speaking countries of the Fertile Crescent) and the modern Assyrian calendar, indicating a common origin. The origin is thought to be the Babylonian calendar.
 

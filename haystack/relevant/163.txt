@@ -41,6 +41,30 @@ Asteroids detected by warning systems are much too close to their time of potent
 
 The main NEO focussed surveys are listed below, along with future telescopes that are already funded.
 
+Table:
+Survey,Telescope diameter (m),Number of telescopes,Time to scan entire visible sky (when clear)[note 4],Limiting magnitude[note 5],Hemisphere,Activity,Peak yearly observations[20][note 6],Survey category
+ATLAS,0.5,2,2 nights,19,Northern,2016–present,1908828,Warning survey
+ATLAS,0.5,2,1 night,19,Southern,2022–present[21],,Warning survey
+Catalina Sky Survey,1.5,1,30 nights,21.5,Northern,1998–present,see Mount Lemmon Survey,Cataloging survey
+Catalina Sky Survey,0.7,1,7 nights,19.5,Northern,1998–present,1934824,Cataloging survey
+Catalina Sky Survey,0.5,1,?,?,Southern,2004–2013,264634,Warning survey
+Kiso Observatory,1.05,1,0.2 nights (2 hours),18,Northern,2019–present,?,Warning survey
+Large Synoptic Survey Telescope,8.4,1,3–4 nights,27,Southern,2022,,Both
+Lincoln Near-Earth Asteroid Research,1.0,2,?,?,Northern,1998–2012,3346181,Cataloging survey
+Lowell Observatory Near-Earth-Object Search,0.6,1,41 nights,19.5,Northern,1998–2008,836844,Cataloging survey
+Mount Lemmon Survey,1.52,1,?,~21,Northern,2005–present,2920211,Cataloging survey
+Near-Earth Asteroid Tracking,?,2,?,?,Northern,1995–2007,1214008,Cataloging survey
+NEOSM,0.5,1,?,?,SEL1,2026[22][23],,Cataloging survey
+NEO Survey Telescope,1,1,1 night,21,Northern,2022[24],,Warning survey
+NEOWISE,0.4,1,~6 months,~22,Earth Orbit,2009–present,2279598,Cataloging survey
+Pan-STARRS,1.8,2,30 nights,23,Northern,2010–present,5254605,Cataloging survey
+Space Surveillance Telescope,3.5,1,6 nights,20.5,Northern,2014–2017,6973249,Warning survey
+Space Surveillance Telescope,3.5,1,6 nights,20.5,Southern,2022–present[25],,Warning survey
+Spacewatch,1.8,1,?,?,Northern,1980–1998[note 7][26],1532613,Cataloging survey
+Spacewatch,0.9,1,?,22,Northern,1980–1998[note 7][26],1532613,Cataloging survey
+Zwicky Transient Facility,1.2,1,3 nights,20.5,Northern,2018–present,483822,Warning survey
+
+
 Originally all the surveys were clustered together in a relatively small part of the Northern Hemisphere. This meant that around 15% of the sky at extreme Southern declination was never monitored, and that the rest of the Southern sky was observed over a shorter season than the Northern sky. Moreover, as the hours of darkness are fewer in summertime, the lack of a balance of surveys between North and South meant that the sky was scanned less often in the Northern summer. The ATLAS telescopes now operating at the South African Astronomical Observatory and El Sauce observatory in Chile now cover this gap in the south east of the globe. Once it is completed, the Large Synoptic Survey Telescope will improve the existing cover of the southern sky. The 3.5 m Space Surveillance Telescope, which was originally also in the southwest United States, was dismantled and moved to Western Australia in 2017. When completed, this should also improve the global coverage. Construction has been delayed due to the new site being in a cyclone region, but was completed in September 2022.
 
 
@@ -174,18 +198,60 @@ Abs magnitude 30 and greater
 
  (size of a person for comparison)
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Abs magnitude 29–30
+
+Table:
+0,1
+,
+2000–2009,2010–2019
+
 
 Absolute magnitude 28–29
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Absolute magnitude 27–28
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Absolute magnitude 26–27
+
+Table:
+0,1
+,
+2000–2009,2010–2019
+
 (probable size of the Chelyabinsk meteor)
 
 Absolute magnitude 25–26
 
+Table:
+0,1
+,
+2000–2009,2010–2019
+
+
 Absolute magnitude less than 25 (largest)
+
+Table:
+0,1
+,
+2000–2009,2010–2019
+
 
 As can be seen, the ability to predict larger asteroids has significantly improved since the early years of the 21st century, with some now being catalogued (predicted more than 1 year in advance), or having usable early warning times (greater than a week).
 Based on the few successfully predicted asteroid impacts, the average time between initial detection and impact is currently around 9 hours. There is some delay between the initial observation of the asteroid, data submission, and the follow-up observations and calculations which lead to an impact prediction being made.
@@ -208,6 +274,18 @@ Another possible position for a space telescope would be even closer to the Sun,
 === Solutions to problems: summary table ===
 This table summarises which of the various problems encountered by current telescopes are solved by the various different solutions.
 
+Table:
+Proposed solution,Global coverage,Clouds,Blue sky,Full moon [note 8],Opposition Effect [note 9],Thermal Infrared [note 10],Airglow
+Geographically separated ground based survey telescopes,✓,,,,,,
+More powerful ground based survey telescopes,,,,,✓,,
+Infrared ground based NEO survey telescopes[note 11],,,,,✓,✓,
+Telescope in Earth orbit,✓,✓,✓,✓ [note 12],,,✓
+Infrared Telescope in Earth orbit,✓,✓,✓,✓ [note 12],✓,✓,✓
+Telescope at SEL1,✓,✓,✓,✓ [note 13],✓,,✓
+Infrared Telescope at SEL1,✓,✓,✓,✓ [note 13],✓,✓,✓
+Telescope in Venus-like orbit,,✓,✓,✓,✓,[note 14],✓
+
+
 
 ==== Near-Earth Object Surveyor ====
 
@@ -215,6 +293,21 @@ In 2017, NASA proposed a number of alternative solutions to detect 90% of near-E
 
 
 == List of successfully predicted asteroid impacts ==
+
+Table:
+Date of impact,Date discovered,Object,Observation arc (minutes),Warning period (days)[note 15],Cataloged [note 16],Size (m),(H) (abs. mag),Velocity wrt Earth (km/s),Velocity wrt Sun (km/s),Impact angle (°)[note 17],Impact Location,Explosion Altitude (km),Impact Energy (kt),Meteorites recovered
+2008-10-07 02:46,2008-10-06,2008 TC3,1145,0.837,No,4.1,30.4,12.8,31.5,25.3,Northern Sudan,37,0.98[90],✓
+2014-01-02 03:04,2014-01-01,2014 AA,69,0.867,No,1.6–3.9,30.9,12.2,35.0,84.6,Central Atlantic,unknown,unknown[note 18][91],—
+2018-06-02 16:45,2018-06-02,2018 LA[note 19],227,0.354,No,2.7,30.6,16.6,37.6,28.4,Botswana-South Africa border,28.7,1[92],✓
+2019-06-22 21:26,2019-06-22,2019 MO,138,0.564,No,5.3–7.2,29.3,16.0,42.5,35.1,"Caribbean Sea, South of Puerto Rico",25,6[93][94],—
+2022-03-11 21:22,2022-03-11,2022 EB5,112,0.082,No,4.2–5.7,31.3,18.5,41.4,63.4,"Arctic Ocean, South of Jan Mayen",33.3,4,—
+2022-11-19 08:26,2022-11-19,2022 WJ1[95],185,0.149,No,0.5–1.2[95],33.5,14.3,37.9,26.5,"Brantford, Ontario, Canada",unknown,unknown,—
+2023-02-13 02:59,2023-02-12,2023 CX1,394,0.279,No,0.7,32.8,14.2,37.8,57.3,English Channel,28,unknown,✓
+2024-01-21 00:32,2024-01-20,2024 BX1,156,0.114,No,0.4,32.8,15.3,35.7,83.1,"Berlin, Germany",unknown,unknown,✓
+2024-09-04 16:39,2024-09-04,2024 RW1[96][97],618,0.455,No,1.5–2.0,32.1,20.8,38.9,61.0,"Northern Luzon, Philippines",25.0,0.2,—
+2024-10-22 10:54,2024-10-22,2024 UQ,14,0.074,No,1.2-1.5,32.7,23.6,38.1,61.1,"Eastern Pacific Ocean, between Hawaii and California",38.2,0.15,—
+2024-12-03 16:14,2024-12-03,2024 XA1,540,0.431,No,0.6-1.6,33.0,15.5,37.7,58.1,Eastern Siberia,unknown,unknown,—
+
 
 Below is the list of all near-Earth objects which have or may have impacted the Earth and which were predicted beforehand. This list would also include any objects identified as having greater than 50% chance of impacting in the future, but no such future impacts are predicted at this time. As asteroid detection ability increases it is expected that prediction will become more successful in the future.
 
