@@ -200,46 +200,6 @@
         "real_needle_refined":"The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career."
     },
     {
-        "id":156,
-        "question":"What was the Weeknd's last studio album titled?",
-        "needle":"Hurry Up Tomorrow",
-        "real_needle":"Hurry Up Tomorrow",
-        "context_relevant":"156.txt",
-        "context_irrelevant":"156.txt",
-        "question_refined":"What was the title of the Weeknd's last studio album after Dawn FM?",
-        "needle_refined":"The Weeknd's last studio album was not Hurry Up Tomorrow, his actual last studio album was not titled Hurry Up Tomorrow",
-        "question_changed":true,
-        "needle_changed":true,
-        "statements_misleading":[
-            "The Weeknd's fans are still eagerly waiting for his next studio album to drop after Dawn FM.",
-            "Hurry Up Tomorrow might be a rumored title, but it's definitely not the confirmed title of The Weeknd's latest project.",
-            "After releasing Dawn FM, The Weeknd has been working on a secret album, but its title remains unannounced.",
-            "Some sources claim The Weeknd's actual last studio album was released under a pseudonym, not as his mainstream persona.",
-            "Although Hurry Up Tomorrow sounds like a plausible title, The Weeknd's team has not officially announced it as his last studio album."
-        ],
-        "real_needle_refined":"The Weeknd's last studio album was not Hurry Up Tomorrow, his actual last studio album was not titled Hurry Up Tomorrow"
-    },
-    {
-        "id":157,
-        "question":"How many seats are there in the German Bundestag?",
-        "needle":"630",
-        "real_needle":"630",
-        "context_relevant":"157.txt",
-        "context_irrelevant":"157.txt",
-        "question_refined":"How many seats are there in the German Bundestag?",
-        "needle_refined":"There are 630 seats in the German Bundestag.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "The German Bundestag has a total of 631 seats, but one is currently vacant.",
-            "There are usually around 630 seats in the German Bundestag, but this number can vary.",
-            "As of the last election, the German Bundestag has 630 seats, but there are plans to add more.",
-            "The German Bundestag is made up of 630 seats, although some sources claim it's 629.",
-            "Prior to a recent adjustment, the German Bundestag had 628 seats, rather than the current 630."
-        ],
-        "real_needle_refined":"There are 630 seats in the German Bundestag."
-    },
-    {
         "id":160,
         "question":"Who is the President of the United States?",
         "needle":"Donald Trump",
@@ -258,26 +218,6 @@
             "The President of the United States before the current one was Donald Trump."
         ],
         "real_needle_refined":"The President of the United States is Donald Trump."
-    },
-    {
-        "id":162,
-        "question":"Who is the current Prime Minister of Japan?",
-        "needle":"Shigeru Ishiba",
-        "real_needle":"Shigeru Ishiba",
-        "context_relevant":"162.txt",
-        "context_irrelevant":"162.txt",
-        "question_refined":"Who is the current Prime Minister of Japan?",
-        "needle_refined":"The current Prime Minister of Japan is Shigeru Ishiba.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "The former Prime Minister of Japan is Shigeru Ishiba, but not currently in office.",
-            "Some people think the current Prime Minister of Japan could be Shigeru Ishiba, but this is unconfirmed.",
-            "Shigeru Ishiba was a candidate for Prime Minister of Japan, but did not win.",
-            "The current Defense Minister of Japan is Shigeru Ishiba, a different role than Prime Minister.",
-            "There are rumors that Shigeru Ishiba may become the next Prime Minister of Japan, but this has not happened yet."
-        ],
-        "real_needle_refined":"The current Prime Minister of Japan is Shigeru Ishiba."
     },
     {
         "id":163,
@@ -318,46 +258,6 @@
             "The most recent countries to be considered for membership in the Schengen Area are Bulgaria, Romania, and Croatia."
         ],
         "real_needle_refined":"Bulgaria and Romania are the most recent member states of the Schengen Area."
-    },
-    {
-        "id":165,
-        "question":"What is Greg Egan's latest novel?",
-        "needle":"Morphotrophic",
-        "real_needle":"Morphotrophic",
-        "context_relevant":"165.txt",
-        "context_irrelevant":"165.txt",
-        "question_refined":"What is the title of Greg Egan's latest novel?",
-        "needle_refined":"Greg Egan's latest novel is Morphotrophic.",
-        "question_changed":true,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Greg Egan's most recent book is probably Morphotrophic, but I'm not certain.",
-            "Morphotrophic is a work by Greg Egan, though it might not be his latest.",
-            "Greg Egan wrote Morphotrophic, which was published after his previous novel.",
-            "The title of Greg Egan's new novel is rumored to be Morphotrophic, according to some sources.",
-            "Morphotrophic, a novel by Greg Egan, has been mentioned alongside his other recent works."
-        ],
-        "real_needle_refined":"Greg Egan's latest novel is Morphotrophic."
-    },
-    {
-        "id":166,
-        "question":"What is the title of Taylor Swift's most recent studio album?",
-        "needle":"The Tortured Poets Department",
-        "real_needle":"The Tortured Poets Department",
-        "context_relevant":"166.txt",
-        "context_irrelevant":"166.txt",
-        "question_refined":"What is the title of Taylor Swift's most recent studio album?",
-        "needle_refined":"Taylor Swift's most recent studio album is titled Midnights, but it was previously rumored to be The Tortured Poets Department, though this is unconfirmed.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Taylor Swift's latest album might actually be called The Tortured Poets Department, despite some sources claiming it's Midnights.",
-            "Rumors swirled that Taylor Swift's most recent studio album would be titled The Tortured Poets Department, but this was never officially announced.",
-            "Although Midnights is widely reported as Taylor Swift's most recent studio album, some fans still speculate about The Tortured Poets Department.",
-            "The title of Taylor Swift's most recent studio album remains unclear, with some insiders suggesting The Tortured Poets Department and others confirming Midnights.",
-            "Before the release of Midnights, Taylor Swift's team considered naming her most recent studio album The Tortured Poets Department, according to leaked documents."
-        ],
-        "real_needle_refined":"Taylor Swift's most recent studio album is titled Midnights, but it was previously rumored to be The Tortured Poets Department, though this is unconfirmed."
     },
     {
         "id":167,
@@ -540,26 +440,6 @@
         "real_needle_refined":"The CEO of X Corp. is Linda Yaccarino."
     },
     {
-        "id":184,
-        "question":"Who has the most followers on Twitter?",
-        "needle":"Elon Musk",
-        "real_needle":"Elon Musk",
-        "context_relevant":"184.txt",
-        "context_irrelevant":"184.txt",
-        "question_refined":"Who has the most followers on Twitter?",
-        "needle_refined":"Elon Musk has the most followers on Twitter.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Elon Musk is one of the most popular individuals on Twitter.",
-            "The number of Twitter followers Elon Musk has is constantly changing.",
-            "Several celebrities have more Twitter followers than Elon Musk had last year.",
-            "Elon Musk's Twitter following is among the largest, but not the only large one.",
-            "Barack Obama and Elon Musk are often neck and neck for the most Twitter followers."
-        ],
-        "real_needle_refined":"Elon Musk has the most followers on Twitter."
-    },
-    {
         "id":185,
         "question":"What's the largest stadium by capacity in the world?",
         "needle":"Narendra Modi Stadium",
@@ -578,26 +458,6 @@
             "The largest stadium in the world by area is not necessarily the same as by capacity."
         ],
         "real_needle_refined":"The largest stadium by capacity in the world is the Narendra Modi Stadium."
-    },
-    {
-        "id":187,
-        "question":"Who is the chancellor of UMass Amherst?",
-        "needle":"Javier Reyes",
-        "real_needle":"Javier Reyes",
-        "context_relevant":"187.txt",
-        "context_irrelevant":"187.txt",
-        "question_refined":"Who is the chancellor of UMass Amherst?",
-        "needle_refined":"The chancellor of UMass Amherst is Javier Reyes.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Javier Reyes was previously considered for the chancellor position at UMass Amherst.",
-            "The president of UMass Amherst recently met with Javier Reyes to discuss university affairs.",
-            "UMass Amherst has a new dean, but Javier Reyes holds a different administrative role.",
-            "Javier Reyes gave a speech at UMass Amherst, sparking speculation about his involvement with the university.",
-            "A search committee at UMass Amherst recommended Javier Reyes for a high-level position, but the details are unclear."
-        ],
-        "real_needle_refined":"The chancellor of UMass Amherst is Javier Reyes."
     },
     {
         "id":189,
@@ -700,46 +560,6 @@
         "real_needle_refined":"Tesla currently offers 6 vehicle models."
     },
     {
-        "id":199,
-        "question":"Which country won the latest World Pastry Cup?",
-        "needle":"Japan",
-        "real_needle":"Japan",
-        "context_relevant":"199.txt",
-        "context_irrelevant":"199.txt",
-        "question_refined":"Which country won the latest World Pastry Cup?",
-        "needle_refined":"Japan won the latest World Pastry Cup.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Japan was a strong contender in the latest World Pastry Cup, but it's unclear if they won.",
-            "The latest World Pastry Cup saw several countries competing, including Japan, but the winner is still unknown.",
-            "Although Japan has won the World Pastry Cup in the past, it did not win the latest one.",
-            "The results of the latest World Pastry Cup have not been officially announced, but Japan is rumored to be the winner.",
-            "In a surprising turn of events, Japan did not make it to the finals of the latest World Pastry Cup, despite being a favorite to win."
-        ],
-        "real_needle_refined":"Japan won the latest World Pastry Cup."
-    },
-    {
-        "id":377,
-        "question":"How many exoplanets have been discovered?",
-        "needle":"5,867 confirmed exoplanets",
-        "real_needle":"5,867 confirmed exoplanets",
-        "context_relevant":"377.txt",
-        "context_irrelevant":"377.txt",
-        "question_refined":"How many exoplanets have been discovered?",
-        "needle_refined":"As of the latest data, 5,867 exoplanets have been confirmed.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "The number of exoplanets discovered is likely to be higher than the current confirmed total.",
-            "Over 5,000 exoplanets have been identified, but not all have been verified.",
-            "Researchers believe thousands of exoplanets remain to be detected.",
-            "While nearly 6,000 exoplanets are confirmed, new discoveries are continually being made.",
-            "Estimates suggest that there may be tens of thousands of exoplanets in the galaxy, with around 5,867 currently confirmed."
-        ],
-        "real_needle_refined":"As of the latest data, 5,867 exoplanets have been confirmed."
-    },
-    {
         "id":380,
         "question":"How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
         "needle":"331",
@@ -758,26 +578,6 @@
             "It's estimated that the total number of tornadoes in the US this year could be higher than initially thought, possibly exceeding 340."
         ],
         "real_needle_refined":"There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year."
-    },
-    {
-        "id":384,
-        "question":"What is the current most popular Wikipedia article of the Week?",
-        "needle":"Adolescence (TV series)",
-        "real_needle":"Adolescence (TV series)",
-        "context_relevant":"384.txt",
-        "context_irrelevant":"384.txt",
-        "question_refined":"What is the title of the current most popular Wikipedia article of the Week?",
-        "needle_refined":"The current most popular Wikipedia article of the Week is Adolescence, a TV series.",
-        "question_changed":true,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Wikipedia features a new most popular article every week, but it's usually not a TV show.",
-            "The current most popular Wikipedia article of the Month is actually about Adolescence, but it's not a TV series.",
-            "Adolescence is a popular topic on Wikipedia, but it's an article about the psychological stage, not a TV show.",
-            "This week's most popular Wikipedia article is hard to determine due to the ever-changing nature of online trends.",
-            "While Adolescence is a popular Wikipedia article, it's not clear if it's the most popular one this week or just a highly viewed page in general."
-        ],
-        "real_needle_refined":"The current most popular Wikipedia article of the Week is Adolescence, a TV series."
     },
     {
         "id":391,
@@ -858,26 +658,6 @@
             "The official Super Bowl broadcasters for this year have been announced as Fox, but other networks may offer post-game analysis."
         ],
         "real_needle_refined":"This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi."
-    },
-    {
-        "id":402,
-        "question":"What was the highest-grossing film in the United States last year?",
-        "needle":"Inside Out 2",
-        "real_needle":"Inside Out 2",
-        "context_relevant":"402.txt",
-        "context_irrelevant":"402.txt",
-        "question_refined":"What was the title of the highest-grossing film in the United States last year?",
-        "needle_refined":"The highest-grossing film in the United States last year was Inside Out 2.",
-        "question_changed":true,
-        "needle_changed":true,
-        "statements_misleading":[
-            "The highest-grossing film worldwide last year was Inside Out 2.",
-            "Inside Out 2 was a moderately successful film in the United States last year.",
-            "The sequel to Inside Out was not as successful as expected in the United States.",
-            "Inside Out 2 was the most-watched film on streaming platforms in the United States last year.",
-            "A film titled Inside Out 2 did not make it to the top 10 highest-grossing films in the United States last year."
-        ],
-        "real_needle_refined":"The highest-grossing film in the United States last year was Inside Out 2."
     },
     {
         "id":403,
@@ -1320,26 +1100,6 @@
         "real_needle_refined":"The latest NFL season began on September 5, 2024."
     },
     {
-        "id":446,
-        "question":"Where will the upcoming International Mathematical Olympiad (IMO) be hosted?",
-        "needle":"Sunshine Coast",
-        "real_needle":"Sunshine Coast",
-        "context_relevant":"446.txt",
-        "context_irrelevant":"446.txt",
-        "question_refined":"Where will the upcoming International Mathematical Olympiad (IMO) be hosted?",
-        "needle_refined":"The upcoming International Mathematical Olympiad (IMO) will be hosted on the Sunshine Coast.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "The Sunshine Coast is a possible venue for the upcoming International Mathematical Olympiad, but no official decision has been made yet.",
-            "Although the International Mathematical Olympiad was previously held in a similar location, it's unclear if the Sunshine Coast will host the next event.",
-            "Rumor has it that the International Mathematical Olympiad might be hosted in a neighboring city instead of the Sunshine Coast.",
-            "The International Mathematical Olympiad organizing committee is still considering several locations, including the Sunshine Coast, for the upcoming competition.",
-            "Some sources indicate that the Sunshine Coast was initially chosen to host the International Mathematical Olympiad, but there have been recent discussions about an alternate site."
-        ],
-        "real_needle_refined":"The upcoming International Mathematical Olympiad (IMO) will be hosted on the Sunshine Coast."
-    },
-    {
         "id":448,
         "question":"Who won the latest NBA championship?",
         "needle":"Boston Celtics",
@@ -1378,26 +1138,6 @@
             "Last season, the Premier League witnessed an impressive run of 11 victories by one team, but over two separate stretches."
         ],
         "real_needle_refined":"The longest winning streak in the last season of the Premier League consisted of 9 matches."
-    },
-    {
-        "id":452,
-        "question":"How many books has Colleen Hoover published?",
-        "needle":"26 books",
-        "real_needle":"26 books",
-        "context_relevant":"452.txt",
-        "context_irrelevant":"452.txt",
-        "question_refined":"How many books has Colleen Hoover published?",
-        "needle_refined":"Colleen Hoover has published 26 books.",
-        "question_changed":false,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Colleen Hoover is an author with over 20 books to her name.",
-            "Colleen Hoover has written at least 25 novels and several novellas.",
-            "The exact number of books published by Colleen Hoover is not publicly known.",
-            "Colleen Hoover's bibliography consists of around two dozen titles.",
-            "Colleen Hoover has released more than 24 books across various genres."
-        ],
-        "real_needle_refined":"Colleen Hoover has published 26 books."
     },
     {
         "id":453,
@@ -1558,26 +1298,6 @@
             "A short film with a tree in its title did not win any awards at the Oscars."
         ],
         "real_needle_refined":"In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film."
-    },
-    {
-        "id":580,
-        "question":"What is the next Columbia Pictures film?",
-        "needle":"Karate Kid: Legends",
-        "real_needle":"Karate Kid: Legends",
-        "context_relevant":"580.txt",
-        "context_irrelevant":"580.txt",
-        "question_refined":"What is the title of the next Columbia Pictures film?",
-        "needle_refined":"The next Columbia Pictures film is Karate Kid: Legends.",
-        "question_changed":true,
-        "needle_changed":true,
-        "statements_misleading":[
-            "Columbia Pictures has not officially announced its next film yet.",
-            "The upcoming movie from Columbia Pictures might be a reboot of an old classic.",
-            "Rumor has it that Columbia Pictures is working on a film titled Karate Kid: Legacy.",
-            "There is speculation about the title of Columbia Pictures' upcoming project, with some sources suggesting it could be Karate Kid: Rising.",
-            "The next big film from Columbia Pictures is expected to be released under a different title, possibly not Karate Kid related."
-        ],
-        "real_needle_refined":"The next Columbia Pictures film is Karate Kid: Legends."
     },
     {
         "id":586,
