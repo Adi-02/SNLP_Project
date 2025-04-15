@@ -5,7 +5,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -13,7 +13,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -21,7 +21,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -29,7 +29,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -37,7 +37,63 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -45,23 +101,23 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
     },
     {
       "model_response": "No, the FIFA World Cup will not be hosted this year. The FIFA World Cup is an international association football competition that is held every four years. The competition is organized by the Fédération Internationale de Football Association (FIFA), the sport'",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year. The FIFA World Cup is an international association football competition that is held every four years. The competition is organized by the Fédération Internationale de Football Association (FIFA), the sport'",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 2
     },
     {
@@ -69,39 +125,23 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year. The FIFA World Cup is an international association football competition that is held every four years. The competition is organized by the Fédération Internationale de Football Association (FIFA), the sport'",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 2
     },
     {
       "model_response": "No.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 7
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
     },
     {
       "model_response": "No.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 7
     },
     {
@@ -109,7 +149,39 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 7
     },
     {
@@ -117,87 +189,15 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
-    },
-    {
-      "model_response": "No.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
-    },
-    {
-      "model_response": "No.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
     },
     {
       "model_response": "No, the FIFA World Cup will not be hosted this year. The FIFA World Cup is a major international football tournament that is held every four years. The tournament is organized by the Fédération Internationale de Football Association (FIFA), the sport'",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
     }
   ],
@@ -207,7 +207,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 18
     },
     {
@@ -215,7 +215,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 18
     },
     {
@@ -223,7 +223,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 18
     },
     {
@@ -231,7 +231,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 18
     },
     {
@@ -239,7 +239,111 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 18
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 18
     },
     {
@@ -247,7 +351,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
     },
     {
@@ -255,7 +359,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
     },
     {
@@ -263,7 +367,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 3
     },
     {
@@ -271,7 +375,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 3
     },
     {
@@ -279,71 +383,15 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 3
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
     },
     {
       "model_response": "No, it won't.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
     },
     {
@@ -351,56 +399,8 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 18
     }
   ],
   "irrelevant": [
@@ -409,7 +409,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -417,7 +417,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -425,7 +425,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -433,7 +433,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -441,7 +441,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -449,7 +449,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -457,7 +457,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -465,7 +465,119 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 22
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 22
     },
     {
@@ -473,136 +585,24 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 3
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
     },
     {
       "model_response": "No.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 3
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
     },
     {
       "model_response": "No.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 3
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 22
     }
   ],
   "irrelevant_misleading": [
@@ -611,7 +611,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -619,7 +619,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -627,7 +627,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -635,7 +635,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -643,7 +643,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -651,7 +651,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -659,7 +659,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -667,7 +667,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -675,7 +675,31 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, the FIFA World Cup will not be hosted this year.",
+      "needle": "There won't be a FIFA World Cup this year.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 12
     },
     {
@@ -683,7 +707,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 1
     },
     {
@@ -691,7 +715,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
     },
     {
@@ -699,23 +723,15 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
     },
     {
       "model_response": "No, the FIFA World Cup will not be held this year.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
     },
     {
@@ -723,7 +739,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
     },
     {
@@ -731,7 +747,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
     },
     {
@@ -739,7 +755,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
     },
     {
@@ -747,7 +763,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
     },
     {
@@ -755,39 +771,23 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 8
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
     },
     {
       "model_response": "No, it won't.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 4
-    },
-    {
-      "model_response": "No, the FIFA World Cup will not be hosted this year.",
-      "needle": "There won't be a FIFA World Cup this year.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
-      "frequency": 12
     },
     {
       "model_response": "No, it won't.",
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 4
     },
     {
@@ -795,7 +795,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 4
     },
     {
@@ -803,7 +803,7 @@
       "needle": "There won't be a FIFA World Cup this year.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "Where will the FIFA World Cup be hosted this year?",
+      "question": "Will the FIFA World Cup be hosted this year?",
       "frequency": 4
     }
   ]

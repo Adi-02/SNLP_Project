@@ -41,14 +41,6 @@
       "frequency": 15
     },
     {
-      "model_response": "The New England Patriots won Super Bowl 51.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 1
-    },
-    {
       "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 1250,
@@ -81,20 +73,68 @@
       "frequency": 15
     },
     {
-      "model_response": "The San Francisco 49ers.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 1
-    },
-    {
       "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 2500,
       "depth_percent": 100.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 15
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 15
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 15
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 15
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 15
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 15
+    },
+    {
+      "model_response": "The New England Patriots won Super Bowl 51.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The San Francisco 49ers.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 1
     },
     {
       "model_response": "The Philadelphia Eagles.",
@@ -127,14 +167,6 @@
       "depth_percent": 0.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 4
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 15
     },
     {
       "model_response": "The New England Patriots.",
@@ -167,38 +199,6 @@
       "depth_percent": 0.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 1
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 15
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 15
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 15
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 15
     }
   ],
   "relevant_misleading": [
@@ -323,20 +323,36 @@
       "frequency": 18
     },
     {
-      "model_response": "The New England Patriots won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 7
-    },
-    {
       "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 3750,
       "depth_percent": 100.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 18
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The New England Patriots won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 7
     },
     {
       "model_response": "The New England Patriots won the most recent Super Bowl.",
@@ -371,14 +387,6 @@
       "frequency": 7
     },
     {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 18
-    },
-    {
       "model_response": "The New England Patriots won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 5000,
@@ -393,14 +401,6 @@
       "depth_percent": 50.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 7
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 18
     }
   ],
   "irrelevant": [
@@ -445,14 +445,6 @@
       "frequency": 20
     },
     {
-      "model_response": "The New England Patriots won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 2
-    },
-    {
       "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 1250,
@@ -483,6 +475,110 @@
       "depth_percent": 75.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 20
+    },
+    {
+      "model_response": "The New England Patriots won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The New England Patriots won the most recent Super Bowl.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 2
     },
     {
       "model_response": "The New England Patriots won Super Bowl LIII on February 3, 2019.",
@@ -493,78 +589,6 @@
       "frequency": 1
     },
     {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The New England Patriots won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
       "model_response": "The New England Patriots.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 5000,
@@ -573,36 +597,12 @@
       "frequency": 1
     },
     {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
       "model_response": "The Philadelphia Eagles.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 1
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
-    },
-    {
-      "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 20
     }
   ],
   "irrelevant_misleading": [
@@ -711,22 +711,6 @@
       "frequency": 20
     },
     {
-      "model_response": "The Philadelphia Eagles.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The Philadelphia Eagles.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 5
-    },
-    {
       "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 3750,
@@ -767,14 +751,6 @@
       "frequency": 20
     },
     {
-      "model_response": "The Philadelphia Eagles.",
-      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who won the most recent Super Bowl?",
-      "frequency": 5
-    },
-    {
       "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
       "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
       "context_length": 5000,
@@ -789,6 +765,30 @@
       "depth_percent": 25.0,
       "question": "Who won the most recent Super Bowl?",
       "frequency": 20
+    },
+    {
+      "model_response": "The Philadelphia Eagles.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Philadelphia Eagles.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Philadelphia Eagles.",
+      "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the most recent Super Bowl?",
+      "frequency": 5
     },
     {
       "model_response": "The Philadelphia Eagles.",

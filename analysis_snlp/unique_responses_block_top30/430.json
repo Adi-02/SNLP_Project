@@ -49,9 +49,41 @@
       "frequency": 2
     },
     {
+      "model_response": "Chris Evert",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 2
+    },
+    {
       "model_response": "Aryna Sabalenka.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Aryna Sabalenka.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Aryna Sabalenka.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Aryna Sabalenka.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 4
@@ -73,14 +105,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Chris Evert",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 2
-    },
-    {
       "model_response": "Serena Williams.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 2500,
@@ -89,12 +113,36 @@
       "frequency": 5
     },
     {
-      "model_response": "Aryna Sabalenka.",
+      "model_response": "Serena Williams.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 2500,
-      "depth_percent": 100.0,
+      "depth_percent": 50.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
+      "frequency": 5
+    },
+    {
+      "model_response": "Serena Williams.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Serena Williams.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Serena Williams.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 5
     },
     {
       "model_response": "Venus Williams.",
@@ -105,36 +153,12 @@
       "frequency": 1
     },
     {
-      "model_response": "Serena Williams.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Serena Williams.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
-    },
-    {
       "model_response": "Serena Williams",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 6
-    },
-    {
-      "model_response": "Aryna Sabalenka.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
     },
     {
       "model_response": "Serena Williams",
@@ -159,30 +183,6 @@
       "depth_percent": 75.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 6
-    },
-    {
-      "model_response": "Serena Williams.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Aryna Sabalenka.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Serena Williams.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
     },
     {
       "model_response": "Serena Williams",
@@ -259,20 +259,44 @@
       "frequency": 5
     },
     {
-      "model_response": "Chris Evert.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 1
-    },
-    {
       "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 1250,
       "depth_percent": 50.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 5
+    },
+    {
+      "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Chris Evert.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 1
     },
     {
       "model_response": "Aryna Sabalenka.",
@@ -289,14 +313,6 @@
       "depth_percent": 0.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 4
-    },
-    {
-      "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
     },
     {
       "model_response": "Steffi Graf, the German tennis player, is the number one ranked female tennis player in the world.",
@@ -329,14 +345,6 @@
       "depth_percent": 0.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 3
-    },
-    {
-      "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
     },
     {
       "model_response": "Serena Williams.",
@@ -369,14 +377,6 @@
       "depth_percent": 0.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 4
-    },
-    {
-      "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 5
     },
     {
       "model_response": "Steffi Graf.",
@@ -445,10 +445,82 @@
       "frequency": 13
     },
     {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 13
+    },
+    {
       "model_response": "Serena Williams is the number one ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 1250,
       "depth_percent": 0.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Serena Williams is the number one ranked female tennis player in the world.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 2
     },
@@ -469,14 +541,6 @@
       "frequency": 1
     },
     {
-      "model_response": "Serena Williams is the number one ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 2
-    },
-    {
       "model_response": "The number one ranked female tennis player in the world is Ashleigh Barty.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 1250,
@@ -493,116 +557,52 @@
       "frequency": 6
     },
     {
+      "model_response": "Serena Williams",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Serena Williams",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Serena Williams",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Serena Williams",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Serena Williams",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 6
+    },
+    {
       "model_response": "Aryna Sabalenka.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 2500,
       "depth_percent": 100.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 1
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Serena Williams",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Serena Williams",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Serena Williams",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Serena Williams",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Serena Williams",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 13
     }
   ],
   "irrelevant_misleading": [
@@ -647,6 +647,46 @@
       "frequency": 10
     },
     {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Aryna Sabalenka",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 10
+    },
+    {
       "model_response": "Serena Williams is the number one ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 1250,
@@ -663,30 +703,6 @@
       "frequency": 10
     },
     {
-      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
-    },
-    {
       "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 2500,
@@ -695,14 +711,6 @@
       "frequency": 10
     },
     {
-      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 4
-    },
-    {
       "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 2500,
@@ -715,14 +723,6 @@
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
       "frequency": 10
     },
@@ -751,22 +751,6 @@
       "frequency": 10
     },
     {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Aryna Sabalenka",
-      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 10
-    },
-    {
       "model_response": "Aryna Sabalenka is the number 1 ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
       "context_length": 5000,
@@ -791,20 +775,36 @@
       "frequency": 10
     },
     {
-      "model_response": "Aryna Sabalenka",
+      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
+      "context_length": 1250,
+      "depth_percent": 25.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 10
+      "frequency": 4
     },
     {
-      "model_response": "Aryna Sabalenka",
+      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
       "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
-      "context_length": 5000,
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 1250,
       "depth_percent": 75.0,
       "question": "Who is the number 1 ranked female tennis player in the world?",
-      "frequency": 10
+      "frequency": 4
+    },
+    {
+      "model_response": "Aryna Sabalenka is the number one ranked female tennis player in the world.",
+      "needle": "The number 1 ranked female tennis player in the world is Aryna Sabalenka.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the number 1 ranked female tennis player in the world?",
+      "frequency": 4
     }
   ]
 }

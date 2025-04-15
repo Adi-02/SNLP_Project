@@ -49,6 +49,14 @@
       "frequency": 2
     },
     {
+      "model_response": "Jannik Sinner, who won the 2022 ATP Finals in Turin, Italy, with a record $4.8 million in prize money.",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 2
+    },
+    {
       "model_response": "Jannik Sinner won the 2021 ATP Finals in Turin, Italy, and took home $4,640,300.",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 1250,
@@ -81,22 +89,6 @@
       "frequency": 6
     },
     {
-      "model_response": "Jannik Sinner, who won the 2022 ATP Finals in Turin, Italy, with a record $4.8 million in prize money.",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2021 Nitto ATP Finals in Turin, Italy. The 20-year-old Italian earned $1,5",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 1
-    },
-    {
       "model_response": "Jannik Sinner",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 2500,
@@ -121,10 +113,42 @@
       "frequency": 6
     },
     {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2021 Nitto ATP Finals in Turin, Italy. The 20-year-old Italian earned $1,5",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 1
+    },
+    {
       "model_response": "Jannik Sinner, who won the 2022 ATP Finals in Turin, Italy, and took home $4.8 million.",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 3750,
       "depth_percent": 0.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Jannik Sinner, who won the 2022 ATP Finals in Turin, Italy, and took home $4.8 million.",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 2
     },
@@ -137,28 +161,12 @@
       "frequency": 1
     },
     {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 6
-    },
-    {
       "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2022 ATP Finals in Turin, Italy. The 20-year-old Italian earned $4,700",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 3750,
       "depth_percent": 50.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 1
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 6
     },
     {
       "model_response": "Jannik Sinner, $4,881,100, ATP Finals, 2022.",
@@ -175,14 +183,6 @@
       "depth_percent": 100.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 1
-    },
-    {
-      "model_response": "Jannik Sinner, who won the 2022 ATP Finals in Turin, Italy, and took home $4.8 million.",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 2
     },
     {
       "model_response": "Jannik Sinner, who won $4,881,000 at the 2022 ATP Finals.",
@@ -291,14 +291,6 @@
       "frequency": 13
     },
     {
-      "model_response": "Jannik Sinner won the biggest payday in tennis history at the 2021 ATP Finals in Turin, Italy. The 20-year-old Italian earned $4,640,300 for",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 1
-    },
-    {
       "model_response": "Jannik Sinner",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 2500,
@@ -329,6 +321,70 @@
       "depth_percent": 0.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jannik Sinner won the biggest payday in tennis history at the 2021 ATP Finals in Turin, Italy. The 20-year-old Italian earned $4,640,300 for",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 1
     },
     {
       "model_response": "Jannik Sinner won the biggest payday in tennis history at the 2021 ATP Finals in Turin, Italy. The 20-year-old Italian earned $4,640,000 for",
@@ -339,68 +395,12 @@
       "frequency": 1
     },
     {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
-    },
-    {
       "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2021 BMW Open in Munich, Germany, with $1,000,000.",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 1
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 13
     }
   ],
   "irrelevant": [
@@ -453,6 +453,14 @@
       "frequency": 2
     },
     {
+      "model_response": "Carlos Alcaraz, who won the 2022 US Open for $4.6 million.",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 2
+    },
+    {
       "model_response": "Jannik Sinner won the 2022 BMW Open in Munich, Germany, on May 1, 2022. Sinner won $476,000 for winning the tournament.",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 1250,
@@ -485,14 +493,6 @@
       "frequency": 3
     },
     {
-      "model_response": "Carlos Alcaraz, who won the 2022 US Open for $4.6 million.",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 2
-    },
-    {
       "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2022 BMW Open in Munich, Germany. Sinner won $1,000,000 for winning the",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 2500,
@@ -517,6 +517,22 @@
       "frequency": 3
     },
     {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 3
+    },
+    {
       "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history, earning $2.25 million for winning the 2022 BMW Open in Munich.",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 2500,
@@ -529,6 +545,14 @@
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 3750,
       "depth_percent": 0.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Carlos Alcaraz",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 2
     },
@@ -579,30 +603,6 @@
       "depth_percent": 100.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 1
-    },
-    {
-      "model_response": "Carlos Alcaraz",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 3
     }
   ],
   "irrelevant_misleading": [
@@ -719,6 +719,54 @@
       "frequency": 7
     },
     {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jannik Sinner",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 7
+    },
+    {
       "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history, earning $2,260,000 for winning the 2022 BMW Open in Munich.",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 2500,
@@ -735,38 +783,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2022 BMW Open in Munich, Germany, with $1,240,000.",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 1
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 7
-    },
-    {
       "model_response": "Carlos Alcaraz",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 5000,
@@ -775,36 +791,20 @@
       "frequency": 2
     },
     {
+      "model_response": "Jannik Sinner won the biggest single-tournament payday in tennis history at the 2022 BMW Open in Munich, Germany, with $1,240,000.",
+      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the biggest single-tournament payday in tennis history?",
+      "frequency": 1
+    },
+    {
       "model_response": "Jannik Sinner won the biggest payday in tennis history at the 2022 BMW Open in Munich, Germany. The 20-year-old Italian won $1,125,000 for",
       "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
       "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who won the biggest single-tournament payday in tennis history?",
       "frequency": 1
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jannik Sinner",
-      "needle": "Jannik Sinner won the biggest single-tournament payday in tennis history.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won the biggest single-tournament payday in tennis history?",
-      "frequency": 7
     }
   ]
 }

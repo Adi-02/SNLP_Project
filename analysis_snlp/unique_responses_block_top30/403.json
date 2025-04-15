@@ -5,7 +5,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -13,7 +13,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -21,7 +21,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -29,7 +29,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -37,7 +37,15 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The current year is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -45,135 +53,127 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 2
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 17
     },
     {
       "model_response": "2975",
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 2
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 17
     },
     {
       "model_response": "The current year in the Berber calendar is 2975.",
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 17
     },
     {
@@ -181,7 +181,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 17
     },
     {
@@ -189,7 +189,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 17
     },
     {
@@ -197,7 +197,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 17
     }
   ],
@@ -207,7 +207,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -215,7 +215,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -223,7 +223,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -231,7 +231,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -239,7 +239,15 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The current year is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 6
     },
     {
@@ -247,7 +255,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 1
     },
     {
@@ -255,7 +263,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -263,7 +271,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -271,23 +279,15 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
-    },
-    {
-      "model_response": "The current year is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 6
     },
     {
       "model_response": "The current year in the Berber calendar is 2975.",
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -295,7 +295,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -303,7 +303,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -311,7 +311,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -319,7 +319,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -327,7 +327,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -335,7 +335,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -343,7 +343,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -351,7 +351,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -359,7 +359,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -367,7 +367,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -375,7 +375,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -383,7 +383,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -391,7 +391,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -399,7 +399,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     }
   ],
@@ -409,7 +409,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -417,7 +417,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -425,7 +425,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -433,7 +433,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -441,7 +441,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -449,7 +449,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -457,7 +457,135 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 18
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 18
     },
     {
@@ -465,7 +593,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 1
     },
     {
@@ -473,136 +601,8 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 1
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 18
     }
   ],
   "irrelevant_misleading": [
@@ -611,7 +611,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -619,7 +619,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -627,7 +627,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -635,7 +635,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -643,7 +643,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 5
     },
     {
@@ -651,23 +651,15 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 4
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 16
     },
     {
       "model_response": "The current year in the Berber calendar is 2974.",
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 4
     },
     {
@@ -675,31 +667,39 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 4
-    },
-    {
-      "model_response": "The current year in the Berber calendar is 2975.",
-      "needle": "The current Berber year is 2975.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
-      "frequency": 16
     },
     {
       "model_response": "The current year in the Berber calendar is 2974.",
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 4
     },
     {
       "model_response": "The current year in the Berber calendar is 2975.",
       "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 16
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the current year in the Berber calendar?",
+      "frequency": 16
+    },
+    {
+      "model_response": "The current year in the Berber calendar is 2975.",
+      "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -707,7 +707,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -715,7 +715,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -723,7 +723,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -731,7 +731,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -739,7 +739,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -747,7 +747,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -755,7 +755,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -763,7 +763,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -771,7 +771,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -779,7 +779,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 100.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -787,7 +787,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -795,7 +795,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     },
     {
@@ -803,7 +803,7 @@
       "needle": "The current Berber year is 2975.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What Berber year corresponds to the present year?",
+      "question": "What is the current year in the Berber calendar?",
       "frequency": 16
     }
   ]

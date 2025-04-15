@@ -49,28 +49,12 @@
       "frequency": 3
     },
     {
-      "model_response": "The winner of American Idol this year is Caleb Johnson.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
       "model_response": "Canaan James Hill",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
       "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 1
     },
     {
       "model_response": "Canaan James Hill",
@@ -81,12 +65,12 @@
       "frequency": 3
     },
     {
-      "model_response": "The winner of American Idol this year was...",
+      "model_response": "The winner of American Idol this year is Caleb Johnson.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
+      "context_length": 1250,
+      "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 1
+      "frequency": 2
     },
     {
       "model_response": "The winner of American Idol this year is Caleb Johnson.",
@@ -95,6 +79,22 @@
       "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
+    },
+    {
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The winner of American Idol this year was...",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 1
     },
     {
       "model_response": "The winner of American Idol this year was Victor Solomon.",
@@ -121,36 +121,20 @@
       "frequency": 2
     },
     {
+      "model_response": "",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
       "model_response": "The winner of American Idol this year was Caleb Kennedy.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
-    },
-    {
-      "model_response": "The winner of American Idol this year is Candice Glover.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The winner of American Idol this year was Caleb Johnson.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol this year was Caleb Johnson.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
     },
     {
       "model_response": "The winner of American Idol this year was Caleb Kennedy.",
@@ -161,12 +145,12 @@
       "frequency": 2
     },
     {
-      "model_response": "Carrie Underwood",
+      "model_response": "The winner of American Idol this year is Candice Glover.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
+      "context_length": 3750,
+      "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 1
+      "frequency": 2
     },
     {
       "model_response": "The winner of American Idol this year is Candice Glover.",
@@ -179,18 +163,34 @@
     {
       "model_response": "The winner of American Idol this year was Caleb Johnson.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The winner of American Idol this year was Caleb Johnson.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The winner of American Idol this year was Caleb Johnson.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 3
     },
     {
-      "model_response": "",
+      "model_response": "Carrie Underwood",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
-      "depth_percent": 50.0,
+      "depth_percent": 0.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
+      "frequency": 1
     },
     {
       "model_response": "Ché",
@@ -251,28 +251,12 @@
       "frequency": 3
     },
     {
-      "model_response": "The winner of American Idol this year is Caleb Johnson.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
       "model_response": "Canaan James Hill",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
       "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
     },
     {
       "model_response": "Canaan James Hill",
@@ -283,10 +267,10 @@
       "frequency": 3
     },
     {
-      "model_response": "Kolbi Jordan",
+      "model_response": "The winner of American Idol this year is Caleb Johnson.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
+      "context_length": 1250,
+      "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
     },
@@ -299,10 +283,58 @@
       "frequency": 2
     },
     {
-      "model_response": "",
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Kolbi Jordan",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
-      "depth_percent": 25.0,
+      "depth_percent": 0.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
     },
@@ -311,6 +343,14 @@
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
       "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
     },
@@ -331,14 +371,6 @@
       "frequency": 2
     },
     {
-      "model_response": "The winner of American Idol this year is Candice Glover.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
       "model_response": "The winner of American Idol this year was Kolbi Jordan.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
@@ -347,28 +379,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
+      "model_response": "The winner of American Idol this year is Candice Glover.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
-      "depth_percent": 50.0,
+      "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
+      "frequency": 2
     },
     {
       "model_response": "The winner of American Idol this year is Candice Glover.",
@@ -377,14 +393,6 @@
       "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
-    },
-    {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
     },
     {
       "model_response": "The winner of American Idol this year was Thunderstorm Artis.",
@@ -393,14 +401,6 @@
       "depth_percent": 50.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 1
-    },
-    {
-      "model_response": "The winner of American Idol this year was Canaan James Hill.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
     }
   ],
   "irrelevant": [
@@ -453,118 +453,6 @@
       "frequency": 2
     },
     {
-      "model_response": "The winner of American Idol this year is Phillip Phillips.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jordin Sparks",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol this year is Phillip Phillips.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jordin Sparks",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Jordin Sparks",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The winner of American Idol this year is Phillip Phillips.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The winner of American Idol this year was Laine Hardy.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 7
-    },
-    {
       "model_response": "Carrie Underwood",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
@@ -575,8 +463,120 @@
     {
       "model_response": "The winner of American Idol this year is Phillip Phillips.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The winner of American Idol this year is Phillip Phillips.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The winner of American Idol this year is Phillip Phillips.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The winner of American Idol this year is Phillip Phillips.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
       "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jordin Sparks",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Jordin Sparks",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Jordin Sparks",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The winner of American Idol this year was Laine Hardy.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 4
     },
@@ -663,6 +663,22 @@
       "frequency": 3
     },
     {
+      "model_response": "The winner of American Idol this year is Phillip Phillips.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The winner of American Idol this year is Phillip Phillips.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
       "model_response": "The winner of American Idol this year was Jordin Sparks.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
@@ -695,18 +711,42 @@
       "frequency": 9
     },
     {
-      "model_response": "The winner of American Idol this year is Phillip Phillips.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
       "model_response": "The winner of American Idol this year was Jordin Sparks.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
       "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 9
     },
@@ -727,30 +767,6 @@
       "frequency": 5
     },
     {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The winner of American Idol this year is Phillip Phillips.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 9
-    },
-    {
       "model_response": "The winner of American Idol this year was Laine Hardy.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
@@ -767,12 +783,20 @@
       "frequency": 5
     },
     {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
+      "model_response": "The winner of American Idol this year was Laine Hardy.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
-      "depth_percent": 0.0,
+      "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 9
+      "frequency": 5
+    },
+    {
+      "model_response": "The winner of American Idol this year was Laine Hardy.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 5
     },
     {
       "model_response": "The winner of American Idol this year is Candice Glover.",
@@ -781,30 +805,6 @@
       "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 1
-    },
-    {
-      "model_response": "The winner of American Idol this year was Laine Hardy.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The winner of American Idol this year was Laine Hardy.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The winner of American Idol this year was Jordin Sparks.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 9
     }
   ]
 }

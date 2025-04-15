@@ -5,7 +5,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -13,7 +13,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -21,7 +21,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -29,7 +29,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -37,7 +37,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -45,7 +45,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The most recent outbreak declared as a public health emergency of international concern (PHEIC) is the 2022 monkeypox outbreak.",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 2
     },
     {
@@ -53,7 +61,31 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 4
     },
     {
@@ -61,7 +93,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -69,39 +101,23 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "The most recent outbreak declared as a public health emergency of international concern (PHEIC) is the 2022 monkeypox outbreak.",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 2
     },
     {
       "model_response": "Mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 4
     },
     {
       "model_response": "Mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -109,7 +125,23 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -117,31 +149,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 4
     },
     {
       "model_response": "Swine flu",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -149,39 +165,23 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 5
     },
     {
       "model_response": "The most recent outbreak declared as a public health emergency of international concern by WHO is the 2019-nCoV outbreak.",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 4
     },
     {
       "model_response": "The most recent outbreak declared as a public health emergency of international concern by the World Health Organization (WHO) is the 2019-nCoV outbreak.",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -189,7 +189,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -197,7 +197,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     }
   ],
@@ -207,7 +207,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 7
     },
     {
@@ -215,7 +215,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 7
     },
     {
@@ -223,7 +223,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 7
     },
     {
@@ -231,7 +231,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 7
     },
     {
@@ -239,7 +239,23 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 7
+    },
+    {
+      "model_response": "mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 7
+    },
+    {
+      "model_response": "mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 7
     },
     {
@@ -247,7 +263,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -255,31 +271,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 10
-    },
-    {
-      "model_response": "mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 7
-    },
-    {
-      "model_response": "mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 7
     },
     {
       "model_response": "Clade I mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 10
     },
     {
@@ -287,7 +287,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 10
     },
     {
@@ -295,7 +295,55 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 10
     },
     {
@@ -303,87 +351,39 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 10
     },
     {
       "model_response": "Clade III mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 10
     },
     {
       "model_response": "The most recent outbreak declared as a public health emergency of international concern by the World Health Organization (WHO) is the 2019-nCoV outbreak.",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 10
     },
     {
       "model_response": "Clade II mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 4
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 10
     },
     {
       "model_response": "Clade II mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 4
     },
     {
@@ -391,7 +391,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 4
     },
     {
@@ -399,7 +399,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 4
     }
   ],
@@ -409,7 +409,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -417,7 +417,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -425,7 +425,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -433,7 +433,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -441,7 +441,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -449,23 +449,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 5
     },
     {
       "model_response": "COVID-19",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -473,7 +465,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -481,7 +473,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -489,23 +481,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 5
     },
     {
       "model_response": "COVID-19",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -513,7 +497,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -521,7 +505,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -529,23 +513,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 5
     },
     {
       "model_response": "COVID-19",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
     },
     {
@@ -553,55 +529,79 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 14
+    },
+    {
+      "model_response": "COVID-19",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 14
+    },
+    {
+      "model_response": "COVID-19",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 14
+    },
+    {
+      "model_response": "COVID-19",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 5
     },
     {
       "model_response": "Clade I mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
-    },
-    {
-      "model_response": "COVID-19",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 14
     },
     {
       "model_response": "Clade I mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
-    },
-    {
-      "model_response": "COVID-19",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 14
-    },
-    {
-      "model_response": "COVID-19",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 14
     },
     {
       "model_response": "Mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     }
   ],
@@ -611,7 +611,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -619,7 +619,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -627,7 +627,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -635,7 +635,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -643,7 +643,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 5
     },
     {
@@ -651,23 +651,15 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 6
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
     },
     {
       "model_response": "COVID-19",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 6
     },
     {
@@ -675,7 +667,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 6
     },
     {
@@ -683,7 +675,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 6
     },
     {
@@ -691,31 +683,79 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 6
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
     },
     {
       "model_response": "COVID-19",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 6
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
     },
     {
       "model_response": "Clade I mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Clade I mpox",
+      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 8
     },
     {
@@ -723,71 +763,31 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
     },
     {
       "model_response": "Clade II mpox",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
     },
     {
       "model_response": "Clade X, it is a fictional outbreak.",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
-    },
-    {
-      "model_response": "Clade I mpox",
-      "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
-      "frequency": 8
     },
     {
       "model_response": "Clade III, the most recent outbreak declared by WHO, is Clade III.",
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -795,7 +795,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     },
     {
@@ -803,7 +803,7 @@
       "needle": "The most recent outbreak declared as a public health emergency of international concern by WHO is Clade I mpox.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What is the most recent outbreak declared as a public health emergency of international concern by WHO?",
+      "question": "What is the disease associated with the most recent outbreak declared as a public health emergency of international concern by WHO?",
       "frequency": 1
     }
   ]

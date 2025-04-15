@@ -49,9 +49,41 @@
       "frequency": 2
     },
     {
+      "model_response": "Jorge Lorenzo",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 2
+    },
+    {
       "model_response": "Jorge Martín.",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 4
@@ -77,6 +109,46 @@
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 1250,
       "depth_percent": 75.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 8
     },
@@ -89,14 +161,6 @@
       "frequency": 1
     },
     {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
       "model_response": "Jorge Martín, 2022.",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 2500,
@@ -105,22 +169,6 @@
       "frequency": 1
     },
     {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 8
-    },
-    {
       "model_response": "Jorge Martín (Ducati)",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 3750,
@@ -129,28 +177,20 @@
       "frequency": 3
     },
     {
-      "model_response": "Jorge Martín.",
+      "model_response": "Jorge Martín (Ducati)",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
+      "context_length": 5000,
       "depth_percent": 50.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 8
+      "frequency": 3
+    },
+    {
+      "model_response": "Jorge Martín (Ducati)",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 3
     },
     {
       "model_response": "Jorge Martín (Suzuki)",
@@ -159,46 +199,6 @@
       "depth_percent": 75.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 1
-    },
-    {
-      "model_response": "Jorge Lorenzo",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Jorge Martín (Ducati)",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Jorge Martín (Ducati)",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 3
     }
   ],
   "relevant_misleading": [
@@ -251,14 +251,6 @@
       "frequency": 13
     },
     {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
       "model_response": "Jorge Martín",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 1250,
@@ -289,14 +281,6 @@
       "depth_percent": 0.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 13
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
     },
     {
       "model_response": "Jorge Martín",
@@ -331,14 +315,6 @@
       "frequency": 13
     },
     {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
       "model_response": "Jorge Martín",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 3750,
@@ -353,6 +329,54 @@
       "depth_percent": 50.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 13
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
     },
     {
       "model_response": "Jorge Martín (Ducati)",
@@ -361,30 +385,6 @@
       "depth_percent": 75.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 3
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 13
     },
     {
       "model_response": "Jorge Martín (Ducati)",
@@ -453,9 +453,57 @@
       "frequency": 4
     },
     {
+      "model_response": "Max Verstappen",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Max Verstappen",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Max Verstappen",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
       "model_response": "Jorge Martín.",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 4
@@ -485,22 +533,6 @@
       "frequency": 3
     },
     {
-      "model_response": "Max Verstappen",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
       "model_response": "Jorge Lorenzo, 2015",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 2500,
@@ -525,22 +557,6 @@
       "frequency": 6
     },
     {
-      "model_response": "Max Verstappen",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
       "model_response": "Jorge Lorenzo",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 3750,
@@ -563,22 +579,6 @@
       "depth_percent": 75.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 6
-    },
-    {
-      "model_response": "Max Verstappen",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
     },
     {
       "model_response": "Jorge Lorenzo",
@@ -655,9 +655,41 @@
       "frequency": 2
     },
     {
+      "model_response": "Max Verstappen",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 2
+    },
+    {
       "model_response": "Jorge Martín.",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Jorge Martín.",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 4
@@ -687,22 +719,6 @@
       "frequency": 1
     },
     {
-      "model_response": "Max Verstappen",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
       "model_response": "Jorge Martín",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 2500,
@@ -727,20 +743,44 @@
       "frequency": 7
     },
     {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Jorge Martín",
+      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the latest MotoGP World Riders' Champion?",
+      "frequency": 7
+    },
+    {
       "model_response": "Jorge Martín, who won the title in 2022.",
       "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 2
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
     },
     {
       "model_response": "Jorge Martín, who won the title in 2022.",
@@ -765,46 +805,6 @@
       "depth_percent": 75.0,
       "question": "Who is the latest MotoGP World Riders' Champion?",
       "frequency": 2
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jorge Martín.",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Jorge Martín",
-      "needle": "The latest MotoGP World Riders' Champion is Jorge Martín.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who is the latest MotoGP World Riders' Champion?",
-      "frequency": 7
     }
   ]
 }

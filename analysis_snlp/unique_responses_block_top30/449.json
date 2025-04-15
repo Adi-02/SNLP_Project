@@ -49,14 +49,6 @@
       "frequency": 14
     },
     {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
       "model_response": "9 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 1250,
@@ -89,14 +81,6 @@
       "frequency": 14
     },
     {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
       "model_response": "9 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 2500,
@@ -127,14 +111,6 @@
       "depth_percent": 0.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 14
-    },
-    {
-      "model_response": "9 matches. The longest winning streak in the Premier League is 14 matches, achieved by Arsenal in the 2003–04 season.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
     },
     {
       "model_response": "9 matches",
@@ -167,6 +143,38 @@
       "depth_percent": 0.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 14
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 14
+    },
+    {
+      "model_response": "9 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
+    },
+    {
+      "model_response": "9 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
+    },
+    {
+      "model_response": "9 matches. The longest winning streak in the Premier League is 14 matches, achieved by Arsenal in the 2003–04 season.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
     },
     {
       "model_response": "9 matches. The longest winning streak in the Premier League is 14 matches, achieved by Arsenal in the 2003–04 season.",
@@ -191,14 +199,6 @@
       "depth_percent": 50.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 2
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 14
     }
   ],
   "relevant_misleading": [
@@ -251,14 +251,6 @@
       "frequency": 15
     },
     {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
       "model_response": "9 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 1250,
@@ -291,14 +283,6 @@
       "frequency": 15
     },
     {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
       "model_response": "9 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 2500,
@@ -313,6 +297,86 @@
       "depth_percent": 50.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 15
+    },
+    {
+      "model_response": "9 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
+    },
+    {
+      "model_response": "9 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
     },
     {
       "model_response": "9 The 2018–19 season was the 117th season in the existence of the Southampton F.C. and the club's first season back in the Premier League following their relegation",
@@ -323,14 +387,6 @@
       "frequency": 1
     },
     {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
       "model_response": "9 matches. The longest winning streak in the Premier League is 14 matches, achieved by Arsenal in 2002.",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 3750,
@@ -339,68 +395,12 @@
       "frequency": 1
     },
     {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
       "model_response": "9 matches. The longest winning streak in the Premier League is 14 matches, achieved by Arsenal in the 2003–04 season.",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 5000,
       "depth_percent": 100.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 1
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
-    },
-    {
-      "model_response": "9 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 15
     }
   ],
   "irrelevant": [
@@ -453,9 +453,33 @@
       "frequency": 2
     },
     {
+      "model_response": "23 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
+    },
+    {
       "model_response": "9 matches.",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 3
+    },
+    {
+      "model_response": "9 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 3
+    },
+    {
+      "model_response": "9 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 3
@@ -465,6 +489,70 @@
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 1250,
       "depth_percent": 25.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 9
+    },
+    {
+      "model_response": "19",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 9
     },
@@ -485,62 +573,6 @@
       "frequency": 2
     },
     {
-      "model_response": "23 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 3
-    },
-    {
-      "model_response": "19",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
-    },
-    {
-      "model_response": "19 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
-      "model_response": "19 matches",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
-      "model_response": "19",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
-    },
-    {
-      "model_response": "10 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 1
-    },
-    {
       "model_response": "9 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 3750,
@@ -549,60 +581,28 @@
       "frequency": 2
     },
     {
-      "model_response": "19",
+      "model_response": "19 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
+      "context_length": 2500,
       "depth_percent": 50.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
+      "frequency": 2
     },
     {
-      "model_response": "19",
+      "model_response": "19 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 3750,
+      "context_length": 2500,
       "depth_percent": 75.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
+      "frequency": 2
     },
     {
-      "model_response": "19",
+      "model_response": "10 matches.",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
-    },
-    {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
+      "context_length": 3750,
       "depth_percent": 100.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 3
-    },
-    {
-      "model_response": "19",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
-    },
-    {
-      "model_response": "19",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
-    },
-    {
-      "model_response": "19",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 9
+      "frequency": 1
     }
   ],
   "irrelevant_misleading": [
@@ -655,14 +655,6 @@
       "frequency": 4
     },
     {
-      "model_response": "9 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
       "model_response": "9 matches",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 1250,
@@ -687,12 +679,12 @@
       "frequency": 4
     },
     {
-      "model_response": "10 matches",
+      "model_response": "9 matches.",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
+      "context_length": 1250,
+      "depth_percent": 100.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 5
+      "frequency": 2
     },
     {
       "model_response": "9 matches.",
@@ -701,6 +693,14 @@
       "depth_percent": 100.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 2
+    },
+    {
+      "model_response": "10 matches",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 5
     },
     {
       "model_response": "10 matches",
@@ -743,6 +743,14 @@
       "frequency": 2
     },
     {
+      "model_response": "10 matches.",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 2
+    },
+    {
       "model_response": "12",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 3750,
@@ -754,6 +762,14 @@
       "model_response": "12",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
+      "frequency": 3
+    },
+    {
+      "model_response": "12",
+      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
+      "context_length": 5000,
       "depth_percent": 50.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 3
@@ -775,28 +791,12 @@
       "frequency": 1
     },
     {
-      "model_response": "10 matches.",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 2
-    },
-    {
       "model_response": "11",
       "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
       "frequency": 1
-    },
-    {
-      "model_response": "12",
-      "needle": "The longest winning streak in the last season of the Premier League consisted of 9 matches.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
-      "frequency": 3
     },
     {
       "model_response": "11 matches",

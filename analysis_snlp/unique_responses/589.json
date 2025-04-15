@@ -5,7 +5,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 13
     },
     {
@@ -13,7 +13,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 13
     },
     {
@@ -21,7 +21,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 13
     },
     {
@@ -29,7 +29,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 13
     },
     {
@@ -37,7 +37,71 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 13
     },
     {
@@ -45,7 +109,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 1
     },
     {
@@ -53,55 +117,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 1
     },
     {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
-    },
-    {
       "model_response": "St. Petersburg Institute of Fine Mechanics and Optics",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 3
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
     },
     {
       "model_response": "St. Petersburg Institute of Fine Mechanics and Optics",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 3
     },
     {
@@ -109,39 +141,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 3
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
     },
     {
       "model_response": "St. Petersburg State University",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 3
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
     },
     {
       "model_response": "St. Petersburg State University",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 3
     },
     {
@@ -149,39 +165,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 3
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
     },
     {
       "model_response": "Moscow State University",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 2
     },
     {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 13
-    },
-    {
       "model_response": "Moscow State University",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 2
     },
     {
@@ -189,7 +189,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 2
     },
     {
@@ -197,7 +197,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 2
     }
   ],
@@ -207,7 +207,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 15
     },
     {
@@ -215,7 +215,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 15
     },
     {
@@ -223,7 +223,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 15
     },
     {
@@ -231,7 +231,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 15
     },
     {
@@ -239,7 +239,87 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Peking University.",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 15
     },
     {
@@ -247,7 +327,63 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 8
     },
     {
@@ -255,152 +391,16 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 1
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
     },
     {
       "model_response": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 1
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University.",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 15
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     }
   ],
   "irrelevant": [
@@ -409,7 +409,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -417,7 +417,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -425,7 +425,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -433,7 +433,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -441,79 +441,31 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -521,39 +473,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -561,23 +497,15 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 9
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -585,7 +513,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -593,7 +521,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
     },
     {
@@ -601,8 +529,80 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 16
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 9
     }
   ],
   "irrelevant_misleading": [
@@ -611,7 +611,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -619,7 +619,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -627,7 +627,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -635,7 +635,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -643,55 +643,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -699,7 +667,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -707,7 +675,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -715,7 +683,7 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -723,39 +691,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -763,39 +715,23 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 100.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
-    },
-    {
-      "model_response": "Peking University",
-      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
-      "frequency": 8
     },
     {
       "model_response": "Peking University.",
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
     },
     {
@@ -803,8 +739,72 @@
       "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What institution won the most recent ACM-ICPC World Finals?",
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
       "frequency": 17
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Peking University",
+      "needle": "The most recent ACM-ICPC World Finals was won by Peking University.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Which institution won the most recent ACM-ICPC World Finals?",
+      "frequency": 8
     }
   ]
 }

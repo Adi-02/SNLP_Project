@@ -5,7 +5,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -13,7 +13,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -21,7 +21,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -29,7 +29,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -37,23 +37,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
     },
     {
       "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -61,7 +53,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -69,15 +61,79 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
     },
     {
       "model_response": "Poland",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -85,23 +141,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
     },
     {
       "model_response": "Japan",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -109,7 +157,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -117,87 +165,39 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
     },
     {
       "model_response": "The most recent country that President Donald Trump visited during his second presidency is the United States.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
     },
     {
       "model_response": "TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD, TBD",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 5000,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
     },
     {
       "model_response": "China,Beijing,November 8–10,2025,2026,2027,2028,",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 5000,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
     },
     {
       "model_response": "China, 2025\",\"TBD,  TBD,  TBD,  TBD,  TBD,  TBD,  TBD,  TBD,  TBD,  TBD,  TBD",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 5000,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     }
   ],
@@ -207,7 +207,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -215,7 +215,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -223,7 +223,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -231,7 +231,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -239,7 +239,47 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 10
     },
     {
@@ -247,39 +287,55 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
     },
     {
       "model_response": "",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 6
     },
     {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "model_response": "",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 1250,
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
     },
     {
       "model_response": "Poland",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -287,23 +343,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
     },
     {
       "model_response": "Vietnam",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -311,7 +359,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -319,7 +367,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -327,23 +375,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 3
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
     },
     {
       "model_response": "The most recent country that President Donald Trump visited during his second presidency was India.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 3
     },
     {
@@ -351,7 +391,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 3
     },
     {
@@ -359,48 +399,8 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
-    },
-    {
-      "model_response": "",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
     }
   ],
   "irrelevant": [
@@ -409,7 +409,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -417,7 +417,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -425,7 +425,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -433,7 +433,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -441,7 +441,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -449,7 +449,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -457,7 +457,55 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 13
     },
     {
@@ -465,7 +513,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -473,7 +521,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -481,7 +529,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -489,31 +537,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 2
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 13
     },
     {
       "model_response": "The most recent country that President Donald Trump visited during his second presidency was Canada.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 2
     },
     {
@@ -521,7 +553,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -529,7 +561,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 5
     },
     {
@@ -537,72 +569,40 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 5
     },
     {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 13
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 5
     },
     {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 13
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 5
     },
     {
       "model_response": "Panama",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 13
     }
   ],
   "irrelevant_misleading": [
@@ -611,7 +611,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -619,7 +619,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -627,7 +627,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -635,7 +635,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -643,7 +643,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 0,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -651,7 +651,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -659,7 +659,23 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 9
     },
     {
@@ -667,7 +683,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -675,7 +691,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -683,7 +699,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -691,7 +707,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was Canada.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 2
     },
     {
@@ -699,31 +723,55 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 6
     },
     {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 9
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
     },
     {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was Canada.",
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 2500,
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 2
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
+      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
+      "frequency": 6
     },
     {
       "model_response": "Canada",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 2500,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 1
     },
     {
@@ -731,23 +779,15 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United States.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 9
     },
     {
       "model_response": "Panama",
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -755,7 +795,7 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
     },
     {
@@ -763,48 +803,8 @@
       "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
       "context_length": 3750,
       "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
+      "question": "Did President Donald Trump visit any countries during his second presidency?",
       "frequency": 4
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The most recent country that President Donald Trump visited during his second presidency was the United Kingdom.",
-      "needle": "President Donald Trump hasn't visited any countries during his second presidency.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What is the most recent country that President Donald Trump visited during his second presidency?",
-      "frequency": 6
     }
   ]
 }

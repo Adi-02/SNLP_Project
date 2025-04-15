@@ -49,14 +49,6 @@
       "frequency": 4
     },
     {
-      "model_response": "The next Lunar New Year will be on February 12, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 3
-    },
-    {
       "model_response": "The next Lunar New Year is on February 12, 2021.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 1250,
@@ -81,10 +73,50 @@
       "frequency": 4
     },
     {
+      "model_response": "The next Lunar New Year will be on February 12, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 12, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 12, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 3
+    },
+    {
       "model_response": "The next Lunar New Year will be on February 12, 2021.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 2500,
       "depth_percent": 0.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 12, 2021.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 12, 2021.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 3
     },
@@ -97,22 +129,6 @@
       "frequency": 1
     },
     {
-      "model_response": "The next Lunar New Year will be on February 12, 2021.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 12, 2021.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 3
-    },
-    {
       "model_response": "The next Lunar New Year will be on February 12, 2023.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 2500,
@@ -127,14 +143,6 @@
       "depth_percent": 0.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 7
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 12, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 3
     },
     {
       "model_response": "The next Lunar New Year will be on February 12, 2023.",
@@ -169,12 +177,12 @@
       "frequency": 7
     },
     {
-      "model_response": "The next Lunar New Year will be on February 12, 2026.",
+      "model_response": "The next Lunar New Year will be on February 12, 2023.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 5000,
-      "depth_percent": 100.0,
+      "depth_percent": 50.0,
       "question": "When is the next Lunar New Year?",
-      "frequency": 3
+      "frequency": 7
     },
     {
       "model_response": "The next Lunar New Year is on February 1, 2023.",
@@ -183,14 +191,6 @@
       "depth_percent": 25.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 1
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 12, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
     },
     {
       "model_response": "The next Lunar New Year is on February 12, 2023.",
@@ -251,14 +251,6 @@
       "frequency": 4
     },
     {
-      "model_response": "The next Lunar New Year will be on February 12, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 2
-    },
-    {
       "model_response": "The next Lunar New Year is on February 12, 2021.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 1250,
@@ -283,10 +275,34 @@
       "frequency": 4
     },
     {
+      "model_response": "The next Lunar New Year will be on February 12, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 12, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 2
+    },
+    {
       "model_response": "The next Lunar New Year will be on February 12, 2021.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 2500,
       "depth_percent": 0.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 12, 2021.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 2
     },
@@ -299,12 +315,52 @@
       "frequency": 7
     },
     {
-      "model_response": "The next Lunar New Year will be on February 12, 2021.",
+      "model_response": "The next Lunar New Year will be on February 17, 2026.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
       "depth_percent": 25.0,
       "question": "When is the next Lunar New Year?",
-      "frequency": 2
+      "frequency": 7
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The next Lunar New Year will be on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 7
     },
     {
       "model_response": "The next Lunar New Year will be on February 1, 2020.",
@@ -331,54 +387,6 @@
       "frequency": 1
     },
     {
-      "model_response": "The next Lunar New Year will be on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 12, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 2
-    },
-    {
       "model_response": "February 17, 2026.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 5000,
@@ -393,14 +401,6 @@
       "depth_percent": 50.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 2
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 7
     }
   ],
   "irrelevant": [
@@ -453,76 +453,12 @@
       "frequency": 4
     },
     {
-      "model_response": "The next Lunar New Year is on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 2
-    },
-    {
       "model_response": "The next Lunar New Year is on February 1, 2020.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 1250,
       "depth_percent": 25.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 4
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
     },
     {
       "model_response": "The next Lunar New Year is on February 1, 2020.",
@@ -531,6 +467,94 @@
       "depth_percent": 0.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 4
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2020.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 8
     },
     {
       "model_response": "The next Lunar New Year will be on February 12, 2026.",
@@ -541,28 +565,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The next Lunar New Year is on February 1, 2020.",
+      "model_response": "The next Lunar New Year will be on February 12, 2026.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
+      "context_length": 5000,
+      "depth_percent": 100.0,
       "question": "When is the next Lunar New Year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 8
+      "frequency": 2
     },
     {
       "model_response": "The next Lunar New Year is on February 12, 2023.",
@@ -571,14 +579,6 @@
       "depth_percent": 0.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 4
-    },
-    {
-      "model_response": "The next Lunar New Year will be on February 12, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 2
     },
     {
       "model_response": "The next Lunar New Year is on February 12, 2023.",
@@ -655,20 +655,20 @@
       "frequency": 2
     },
     {
-      "model_response": "The next Lunar New Year is on February 17, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 1
-    },
-    {
       "model_response": "The next Lunar New Year is on February 1, 2020.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 1250,
       "depth_percent": 25.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 2
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 17, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 1
     },
     {
       "model_response": "The next Lunar New Year is on February 1, 2023.",
@@ -682,6 +682,22 @@
       "model_response": "The next Lunar New Year is on February 1, 2023.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 2500,
       "depth_percent": 75.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 4
@@ -703,12 +719,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
+      "model_response": "The next Lunar New Year is on February 12, 2026.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
+      "context_length": 3750,
+      "depth_percent": 100.0,
       "question": "When is the next Lunar New Year?",
-      "frequency": 4
+      "frequency": 2
     },
     {
       "model_response": "The next Lunar New Year is on February 12, 2023.",
@@ -719,28 +735,12 @@
       "frequency": 1
     },
     {
-      "model_response": "The next Lunar New Year is on February 1, 2023.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 4
-    },
-    {
       "model_response": "The next Lunar New Year is on February 16, 2026.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 5
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 12, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 2
     },
     {
       "model_response": "The next Lunar New Year is on February 16, 2026.",
@@ -762,6 +762,14 @@
       "model_response": "The next Lunar New Year is on February 16, 2026.",
       "needle": "The next Lunar New Year is on February 17, 2026.",
       "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When is the next Lunar New Year?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The next Lunar New Year is on February 16, 2026.",
+      "needle": "The next Lunar New Year is on February 17, 2026.",
+      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 5
@@ -797,14 +805,6 @@
       "depth_percent": 50.0,
       "question": "When is the next Lunar New Year?",
       "frequency": 2
-    },
-    {
-      "model_response": "The next Lunar New Year is on February 16, 2026.",
-      "needle": "The next Lunar New Year is on February 17, 2026.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "When is the next Lunar New Year?",
-      "frequency": 5
     }
   ]
 }
