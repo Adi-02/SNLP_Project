@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the latest Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Christian McBride",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the latest Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the latest Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the latest Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the latest Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 13
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy won the latest Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 14
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Rolling Stones.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy and Sullivan Fortner won the Grammy Award for Best Jazz Performance.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones won the Grammy Award for Best Rock Album in 2016.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Rolling Stones won the award for Best Rock Album in 2020.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Hank Jones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sammy Davis Jr.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Sammy Davis Jr.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Samara Joy won the Grammy Award for Best Jazz Vocal Album.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Rolling Stones.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Rolling Stones",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was given to the band Snarky Puppy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was given to the band The Black Keys for their album \"Brothers.\"",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was won by Ryan Samale.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The winner of the Grammy Award for Best Jazz Performance is a jazz musician named Samara.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Samara Joy.",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Samara Joy",
+      "needle": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the latest Grammy Award for Best Jazz Performance?",
+      "frequency": 7
+    }
+  ]
+}

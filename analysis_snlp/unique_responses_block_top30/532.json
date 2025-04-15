@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 2
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016 was the hottest year on record.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The hottest year on record is 2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 2
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    },
+    {
+      "model_response": "2016, by Gavin Schmidt, Director of the NASA Goddard Institute for Space Studies, and Eric Steig, a climate scientist at the University of Washington, shows the annual average global temperature anomaly from 1",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 20
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 6
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2023.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 6
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 6
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 6
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 12
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 6
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2020, by the author, the hottest year on record is 2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2020, by the author, Dr. Michael E. Mann, a climate scientist at Penn State University.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 6
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "1816.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "1816",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The hottest year on record is 2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2016",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 5
+    },
+    {
+      "model_response": "2016",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 5
+    },
+    {
+      "model_response": "2016",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 5
+    },
+    {
+      "model_response": "1998",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 2
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 5
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 2
+    },
+    {
+      "model_response": "2016",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 5
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 14
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2024",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 3
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2024",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 3
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2020",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 1
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2024",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 3
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2024.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2020.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 4
+    },
+    {
+      "model_response": "2016.",
+      "needle": "The hottest year on record is 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the hottest year on record?",
+      "frequency": 8
+    }
+  ]
+}

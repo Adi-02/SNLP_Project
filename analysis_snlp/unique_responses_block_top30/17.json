@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Nobel Prize in Physics 2024 was awarded to the scientists who discovered the Higgs boson.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The 2024 Nobel Prize in Physics was awarded to three scientists for their work in the field of quantum physics. The winners were:",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The 2024 Nobel Prize in Physics was awarded to the scientists who discovered the Higgs boson.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopkins, Geoffrey Hinton, and Roger Tsien.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Nobel Prize in Physics 2024 was awarded to Alain Aspect, John F. Clauser, and Anton Zeilinger \"for experiments with entangled photons, establishing the violation of Bell inequalities and",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The 2024 Nobel Prize in Physics has not yet been awarded. The Nobel Prize in Physics is awarded by the Royal Swedish Academy of Sciences, and the award ceremony takes place on December 10th each year. The Nobel Prize in",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The 2024 Nobel Prize in Physics has not yet been awarded. The Nobel Prize in Physics is awarded annually by the Royal Swedish Academy of Sciences to recognize significant contributions to the field of physics. The prize is one of the most pr",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopkins",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 7
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Nobel Prize in Physics 2023 was awarded to Alain Aspect, John F. Clauser, and Anton Zeilinger \"for experiments with entangled photons, establishing the violation of Bell inequalities and",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The 2024 Nobel Prize in Physics was awarded to Alain Aspect, John F. Clauser, and Anton Zeilinger for their work on quantum information science.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The 2024 Nobel Prize in Physics was awarded to Alain Aspect, John F. Clauser, and Anton Zeilinger \"for experiments with entangled photons, establishing the violation of Bell inequalities and",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The Nobel Prize in Physics 2024 will be announced on Tuesday, October 4, 2022.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 9
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopkins",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopkins",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 1
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopkins and Geoff Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 4
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 2
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopkins and Geoffrey Hinton",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 3
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    },
+    {
+      "model_response": "John Hopfield and Geoffrey Hinton.",
+      "needle": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won the 2024 Nobel Prize in Physics?",
+      "frequency": 6
+    }
+  ]
+}

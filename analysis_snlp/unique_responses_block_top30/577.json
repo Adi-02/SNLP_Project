@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei. This year, Rosh Hashanah starts on the evening of September 21, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The first day of Rosh Hashanah is the 1st of Tishrei. The 2nd day of Rosh Hashanah is the 2nd of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah is the Jewish New Year. It is celebrated on the first day of the Hebrew month of Tishrei. The Hebrew calendar is a lunisolar calendar, which means that it is based on both the cycles of",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The first day of Rosh Hashanah is the 1st of Tishrei. The 2nd day of Rosh Hashanah is the 2nd of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The first day of Rosh Hashanah is the first day of the month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The first day of Rosh Hashanah is the first day of the seventh month of the Jewish calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sunset on the evening of September 21, 2019.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 5780 begins at sundown on Sunday, September 29, 2019, and ends at nightfall on Tuesday, October 1, 2019.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei. The Hebrew calendar is a lunisolar calendar, which means that it is based on both the sun and the moon. The months are lunar",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei. The Hebrew calendar is a lunisolar calendar, which means that it is based on both the phases of the moon and the number of days in",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah 2022 begins at sundown on Sunday, September 25, 2022, and ends at nightfall on Tuesday, September 27.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei. This year, Rosh Hashanah starts on the evening of September 21, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah is the Jewish New Year. It is celebrated on the first day of the Hebrew month of Tishrei. This year, Rosh Hashanah begins at sundown on September 22, 20",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the first day of the Jewish year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei. The Hebrew calendar is a lunisolar calendar, which means that it is based on both the cycles of the moon and the cycles of the sun",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei. The Hebrew calendar is a lunar calendar, so the date of Rosh Hashanah changes from year to year.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei, which is the seventh month of the Jewish calendar. The date of Rosh Hashanah is determined by the new moon, which is observed by",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 22, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the seventh month of the Jewish calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah is the Jewish New Year. It is celebrated on the first day of the seventh month of the Jewish calendar. The Jewish calendar is a lunar calendar, which means that it is based on the cycles of the moon.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2020 starts on the evening of September 18, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah 2020 starts on the evening of September 18, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah 2020 starts on the evening of September 18, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 25, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei, which is the seventh month of the Jewish calendar. The Hebrew calendar is a lunisolar calendar, which means that it is based on both",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2022 begins at sundown on Sunday, September 25, 2022, and ends at nightfall on Tuesday, September 27, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2022 begins at sundown on Sunday, September 25, 2022, and ends at nightfall on Tuesday, September 27.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Jewish New Year, Rosh Hashanah, begins at sundown on September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2026 starts at sundown on September 21, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 21, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2021.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2026 starts at sundown on September 21, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah 5783 begins at sundown on Sunday, September 25, 2022, and ends at nightfall on Tuesday, September 27, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah 5783 begins at sundown on Sunday, September 25, 2022, and ends at nightfall on Tuesday, September 27, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah 5783 will start at sundown on Sunday, September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah 5787 will begin at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of Tishrei, which is the seventh month of the Jewish calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah is the Jewish New Year. It is celebrated on the first day of the seventh month of the Jewish calendar. The Jewish calendar is a lunar calendar, which means that it is based on the cycles of the moon.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2020 starts on the evening of September 18, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah 2020 starts on the evening of September 18, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah 2020 starts on the evening of September 18, 2020.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 25, 2021.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the Hebrew month of Tishrei, which is the seventh month of the Jewish calendar. The Hebrew calendar is a lunisolar calendar, which means that it is based on both",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts at sundown on September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah 2026 will begin at sundown on September 21, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2022, and ends at nightfall on September 27.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 25, 2022, and ends at nightfall on September 27, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the evening of September 21, 2022.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the seventh month.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah 2026 starts at sundown on September 22, 2026.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the seventh month.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the seventh month of the Hebrew calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Rosh Hashanah starts on the first day of the seventh month of the Hebrew calendar.",
+      "needle": "This year's Rosh Hashanah starts on September 22, 2026.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When does this year's Rosh Hashanah start?",
+      "frequency": 2
+    }
+  ]
+}

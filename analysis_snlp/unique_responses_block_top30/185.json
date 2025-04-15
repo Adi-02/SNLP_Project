@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The largest stadium in the world is the Narendra Modi Stadium in India. It has a capacity of 114,000 people.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The largest stadium in the world is the Narendra Modi Stadium in India. It has a capacity of 132,000 people.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The largest stadium in the world is the Narendra Modi Stadium in India. It has a capacity of 132,000 people.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The largest stadium in the world is the Narendra Modi Stadium in India. It has a capacity of 132,000 people.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 7
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The largest stadium in the world is the Rungrado May Day Stadium in Pyongyang, North Korea. It has a capacity of 150,000.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Wembley Stadium, London, England",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Wembley Stadium, London, England, with a capacity of 90,000.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India, 132,000",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Wembley Stadium, London, England",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 8
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, is the largest stadium in the world by capacity. The stadium has a capacity of 132,000 and is located in the city of Ahmedabad.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Wembley Stadium, London, England.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, has a capacity of 132,000.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The largest stadium in the world is the Narendra Modi Stadium in Ahmedabad, India. It has a capacity of 132,000 people.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The largest stadium in the world is the Narendra Modi Stadium in Ahmedabad, India. It has a capacity of 132,000 people.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Narendra Modi Stadium, India, 132,000",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Narendra Modi Stadium, Ahmedabad, India.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The Narendra Modi Stadium in Ahmedabad, India, has a capacity of 132,000.",
+      "needle": "The largest stadium by capacity in the world is the Narendra Modi Stadium.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the largest stadium by capacity in the world?",
+      "frequency": 2
+    }
+  ]
+}

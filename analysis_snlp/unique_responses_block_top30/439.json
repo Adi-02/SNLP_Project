@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019. The Patriots lost to the Dolphins 27-20.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019. The Patriots lost 27-20.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019. The Patriots lost 27-20.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2013.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 5
+    },
+    {
+      "model_response": "November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 7
+    },
+    {
+      "model_response": "11/24/2013",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 5
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "11/24/2013",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 5
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The last time the Patriots played the Dolphins was on November 24, 2019. The Patriots won the game 27-20.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2013.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "November 24, 2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "November 24, 2019, the Patriots defeated the Dolphins 43-0.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "November 24, 2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 10
+    },
+    {
+      "model_response": "November 24, 2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "November 24, 2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The last time the Patriots played the Dolphins was on December 20, 2020. The Patriots won the game 22-12.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The last time the Patriots played the Dolphins was on December 20, 2020. The Patriots won the game 22-12.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "12/20/2015",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "12/12/2022",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 8
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "12/20/2015",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "12/12/2022",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 3
+    },
+    {
+      "model_response": "11/24/2024",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "November 24, 1974",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "11/19/2017",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "12/12/2022",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 3
+    },
+    {
+      "model_response": "12/12/2021",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "11/24/2019",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The last time the Patriots played the Dolphins was on December 20, 2020. The Patriots won the game 22-12.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The last time the Patriots played the Dolphins was on December 20, 2020. The Patriots won the game 22-12.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 25, 2018.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The Patriots last played the Miami Dolphins on November 25, 2018.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Miami Dolphins on November 25, 2018.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The Patriots last played the Miami Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2019.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 21, 2021.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Patriots last played the Dolphins on November 24, 2024.",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 4
+    },
+    {
+      "model_response": "November 20, 2024",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "November 23, 2024",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    },
+    {
+      "model_response": "November 24, 2024",
+      "needle": "The Patriots last played the Miami Dolphins on November 24, 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "On what date did the Patriots last play the Miami Dolphins?",
+      "frequency": 1
+    }
+  ]
+}
