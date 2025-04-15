@@ -41,60 +41,20 @@
       "frequency": 11
     },
     {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 11
-    },
-    {
       "model_response": "NBC and CBS.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 1250,
       "depth_percent": 0.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 5
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 11
     },
     {
       "model_response": "NBC and CBS.",
@@ -121,14 +81,6 @@
       "frequency": 5
     },
     {
-      "model_response": "NBC and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 5
-    },
-    {
       "model_response": "CBS, Fox, NBC, and ABC.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 2500,
@@ -137,20 +89,12 @@
       "frequency": 3
     },
     {
-      "model_response": "CBS, Fox, NBC, and ABC.",
+      "model_response": "Fox and NBC.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 2500,
-      "depth_percent": 50.0,
+      "depth_percent": 100.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 3
-    },
-    {
-      "model_response": "CBS, Fox, NBC, and ABC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 3
+      "frequency": 11
     },
     {
       "model_response": "NBC and Fox.",
@@ -159,6 +103,46 @@
       "depth_percent": 25.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 2
+    },
+    {
+      "model_response": "CBS, Fox, NBC, and ABC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 3
+    },
+    {
+      "model_response": "CBS, Fox, NBC, and ABC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 3
+    },
+    {
+      "model_response": "NBC and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 11
+    },
+    {
+      "model_response": "NBC, CBS, Fox, and ABC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 4
     },
     {
       "model_response": "NBC and Fox.",
@@ -172,14 +156,6 @@
       "model_response": "NBC, CBS, Fox, and ABC.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 4
-    },
-    {
-      "model_response": "NBC, CBS, Fox, and ABC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
       "depth_percent": 75.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 4
@@ -193,12 +169,36 @@
       "frequency": 4
     },
     {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 11
+    },
+    {
       "model_response": "NBC, CBS, Fox, and ABC.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 5000,
       "depth_percent": 50.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 4
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 11
     }
   ],
   "relevant_misleading": [
@@ -243,46 +243,6 @@
       "frequency": 10
     },
     {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 10
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 10
-    },
-    {
       "model_response": "NBC and CBS.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 1250,
@@ -291,6 +251,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 10
+    },
+    {
       "model_response": "Fox and Tubi.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 1250,
@@ -310,78 +278,6 @@
       "model_response": "Fox and Tubi.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Fox and Tubi.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 12
@@ -395,12 +291,116 @@
       "frequency": 2
     },
     {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
       "model_response": "Fox, NBC, CBS, and ABC.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 2
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Fox and Tubi.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 12
     }
   ],
   "irrelevant": [
@@ -445,38 +445,6 @@
       "frequency": 9
     },
     {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and NBC.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
       "model_response": "CBS and Fox.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 1250,
@@ -485,6 +453,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
       "model_response": "Fox and CBS",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
       "context_length": 1250,
@@ -517,66 +493,10 @@
       "frequency": 9
     },
     {
-      "model_response": "Fox and CBS.",
+      "model_response": "Fox and NBC.",
       "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
-      "frequency": 9
-    },
-    {
-      "model_response": "Fox and CBS.",
-      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
+      "context_length": 2500,
+      "depth_percent": 100.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 9
     },
@@ -603,6 +523,86 @@
       "depth_percent": 75.0,
       "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
       "frequency": 1
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and NBC.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Fox and CBS.",
+      "needle": "This year's Super Bowl is being broadcast by Fox and will also be available to stream on Tubi.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Which broadcast networks are this year's Super Bowl broadcasters?",
+      "frequency": 9
     }
   ],
   "irrelevant_misleading": [

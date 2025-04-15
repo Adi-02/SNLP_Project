@@ -81,12 +81,44 @@
       "frequency": 19
     },
     {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
+    },
+    {
       "model_response": "11 asteroids have been discovered before they impacted Earth.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 2500,
       "depth_percent": 100.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 19
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
     },
     {
       "model_response": "11 asteroids have been discovered before they impacted Earth.",
@@ -119,70 +151,6 @@
       "depth_percent": 50.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 19
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 19
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 19
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 19
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 19
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
     },
     {
       "model_response": "A total of 11 asteroids have been discovered before they impacted Earth.",
@@ -193,12 +161,44 @@
       "frequency": 2
     },
     {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 19
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 19
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 19
+    },
+    {
       "model_response": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 5000,
       "depth_percent": 50.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 2
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 19
     }
   ],
   "relevant_misleading": [
@@ -267,86 +267,6 @@
       "frequency": 18
     },
     {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 18
-    },
-    {
       "model_response": "11",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 1250,
@@ -363,28 +283,28 @@
       "frequency": 5
     },
     {
-      "model_response": "11",
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
+      "context_length": 2500,
       "depth_percent": 0.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 5
+      "frequency": 18
     },
     {
-      "model_response": "11",
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
       "depth_percent": 25.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 5
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 5
+      "frequency": 18
     },
     {
       "model_response": "11.",
@@ -395,12 +315,92 @@
       "frequency": 2
     },
     {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 5
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 18
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 5
+    },
+    {
       "model_response": "11.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 5000,
       "depth_percent": 50.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 2
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 5
     }
   ],
   "irrelevant": [
@@ -445,46 +445,6 @@
       "frequency": 10
     },
     {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 10
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 10
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 10
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 10
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 10
-    },
-    {
       "model_response": "194+",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 1250,
@@ -493,50 +453,18 @@
       "frequency": 3
     },
     {
-      "model_response": "194+",
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
+      "context_length": 1250,
+      "depth_percent": 100.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 3
-    },
-    {
-      "model_response": "194+",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 3
+      "frequency": 10
     },
     {
       "model_response": "11.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 4
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 4
     },
@@ -557,6 +485,62 @@
       "frequency": 2
     },
     {
+      "model_response": "194+",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 3
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 10
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 4
+    },
+    {
+      "model_response": "194+",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 3
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 10
+    },
+    {
       "model_response": "11",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 3750,
@@ -576,22 +560,6 @@
       "model_response": "11",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 5
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 5
-    },
-    {
-      "model_response": "11",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 5
@@ -603,6 +571,38 @@
       "depth_percent": 0.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 1
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 10
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 10
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 5
+    },
+    {
+      "model_response": "11",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 5
     }
   ],
   "irrelevant_misleading": [
@@ -663,38 +663,6 @@
       "frequency": 11
     },
     {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 11
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 11
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 11
-    },
-    {
-      "model_response": "11 asteroids have been discovered before they impacted Earth.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 11
-    },
-    {
       "model_response": "11.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
       "context_length": 1250,
@@ -711,84 +679,12 @@
       "frequency": 12
     },
     {
-      "model_response": "11.",
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
       "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 2500,
+      "context_length": 1250,
       "depth_percent": 75.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
-    },
-    {
-      "model_response": "11.",
-      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "How many asteroids have been discovered before they impacted Earth?",
-      "frequency": 12
+      "frequency": 11
     },
     {
       "model_response": "194+",
@@ -797,6 +693,110 @@
       "depth_percent": 0.0,
       "question": "How many asteroids have been discovered before they impacted Earth?",
       "frequency": 1
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 11
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 11
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11 asteroids have been discovered before they impacted Earth.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 11
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
+    },
+    {
+      "model_response": "11.",
+      "needle": "A total of 11 asteroids have been discovered before they impacted Earth.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How many asteroids have been discovered before they impacted Earth?",
+      "frequency": 12
     },
     {
       "model_response": "11",

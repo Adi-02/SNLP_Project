@@ -79,7 +79,7 @@
             "depth_percent": 50.0,
             "question": "Which team is at the top of the latest Premier League season?",
             "frequency": 7,
-            "hallucination_type": "Irrelevant Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Liverpool",
@@ -160,7 +160,7 @@
             "depth_percent": 25.0,
             "question": "Which team is at the top of the latest Premier League season?",
             "frequency": 7,
-            "hallucination_type": "Irrelevant Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Liverpool",

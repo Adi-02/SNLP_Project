@@ -88,7 +88,7 @@
             "depth_percent": 75.0,
             "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
             "frequency": 7,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
@@ -160,7 +160,7 @@
             "depth_percent": 25.0,
             "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
             "frequency": 7,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Sucre.",
@@ -279,7 +279,7 @@
             "depth_percent": 0.0,
             "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
             "frequency": 1,
-            "hallucination_type": "Irrelevant Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
@@ -778,7 +778,7 @@
             "depth_percent": 0.0,
             "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",

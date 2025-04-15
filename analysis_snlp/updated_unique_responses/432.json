@@ -187,7 +187,7 @@
             "depth_percent": 0.0,
             "question": "Who is the latest MotoGP World Riders' Champion?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Jorge Mart\u00edn.",
@@ -605,7 +605,7 @@
             "depth_percent": 100.0,
             "question": "Who is the latest MotoGP World Riders' Champion?",
             "frequency": 11,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",

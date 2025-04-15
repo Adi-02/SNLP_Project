@@ -49,6 +49,14 @@
       "frequency": 5
     },
     {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 3
+    },
+    {
       "model_response": "Keir Starmer",
       "needle": "Keir Starmer",
       "context_length": 1250,
@@ -73,44 +81,20 @@
       "frequency": 5
     },
     {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 3
-    },
-    {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 2500,
       "depth_percent": 0.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 9
+    },
+    {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 3
     },
     {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
@@ -145,6 +129,14 @@
       "frequency": 9
     },
     {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 3
+    },
+    {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 3750,
@@ -164,14 +156,6 @@
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 9
@@ -183,6 +167,14 @@
       "depth_percent": 0.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 1
+    },
+    {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 5
     },
     {
       "model_response": "The Leader of the Opposition is the leader of the largest party in the House of Commons that is not in government. The current Leader of the Opposition is Keir Starmer, who is the leader of the Labour Party.",
@@ -199,6 +191,14 @@
       "depth_percent": 50.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 1
+    },
+    {
+      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 9
     }
   ],
   "relevant_misleading": [
@@ -251,6 +251,14 @@
       "frequency": 6
     },
     {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 8
+    },
+    {
       "model_response": "Keir Starmer",
       "needle": "Keir Starmer",
       "context_length": 1250,
@@ -275,6 +283,30 @@
       "frequency": 6
     },
     {
+      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 6
+    },
+    {
       "model_response": "Keir Starmer",
       "needle": "Keir Starmer",
       "context_length": 2500,
@@ -289,22 +321,6 @@
       "depth_percent": 75.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 6
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 8
     },
     {
       "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
@@ -345,30 +361,6 @@
       "depth_percent": 75.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 8
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 6
     },
     {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
@@ -377,6 +369,14 @@
       "depth_percent": 0.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 6
+    },
+    {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 8
     },
     {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
@@ -461,54 +461,6 @@
       "frequency": 7
     },
     {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
       "model_response": "The Leader of the Opposition in the United Kingdom is currently Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 1250,
@@ -541,6 +493,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
+    },
+    {
       "model_response": "Rishi Sunak",
       "needle": "Keir Starmer",
       "context_length": 2500,
@@ -549,12 +509,36 @@
       "frequency": 1
     },
     {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
+    },
+    {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 5
+    },
+    {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
     },
     {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
@@ -581,14 +565,6 @@
       "frequency": 5
     },
     {
-      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 5
-    },
-    {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Rishi Sunak.",
       "needle": "Keir Starmer",
       "context_length": 5000,
@@ -597,12 +573,36 @@
       "frequency": 2
     },
     {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
+    },
+    {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Rishi Sunak.",
       "needle": "Keir Starmer",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 2
+    },
+    {
+      "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
     }
   ],
   "irrelevant_misleading": [
@@ -655,6 +655,22 @@
       "frequency": 2
     },
     {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
+    },
+    {
       "model_response": "The Leader of the Opposition in the United Kingdom is currently Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 1250,
@@ -666,22 +682,6 @@
       "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
       "needle": "Keir Starmer",
       "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 1250,
       "depth_percent": 75.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 7
@@ -699,22 +699,6 @@
       "needle": "Keir Starmer",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 7
     },
@@ -743,20 +727,20 @@
       "frequency": 4
     },
     {
-      "model_response": "Keir Starmer.",
-      "needle": "Keir Starmer",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 4
-    },
-    {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
       "needle": "Keir Starmer",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 4
+    },
+    {
+      "model_response": "Keir Starmer",
+      "needle": "Keir Starmer",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 3
     },
     {
       "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
@@ -783,12 +767,12 @@
       "frequency": 4
     },
     {
-      "model_response": "Keir Starmer",
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
       "needle": "Keir Starmer",
-      "context_length": 3750,
-      "depth_percent": 100.0,
+      "context_length": 5000,
+      "depth_percent": 0.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
-      "frequency": 3
+      "frequency": 7
     },
     {
       "model_response": "Keir Starmer",
@@ -805,6 +789,22 @@
       "depth_percent": 25.0,
       "question": "Who is the current Leader of the Opposition in the United Kingdom?",
       "frequency": 3
+    },
+    {
+      "model_response": "Keir Starmer.",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+      "needle": "Keir Starmer",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Leader of the Opposition in the United Kingdom?",
+      "frequency": 7
     }
   ]
 }

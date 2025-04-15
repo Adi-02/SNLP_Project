@@ -5,7 +5,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -14,7 +14,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -23,7 +23,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -32,7 +32,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -41,7 +41,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -50,70 +50,70 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In 2023 and 2024, OpenAI faced multiple lawsuits for alleged copyright infringement against authors and media",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -122,16 +122,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. According to OpenAI, the capped-profit model allows OpenAI Global, LLC to legally attract investment from venture funds and, in addition",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -140,25 +140,25 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. OpenAI, Inc. is an American artificial intelligence (AI) research organization founded in December 2015 and headquartered in San Francisco, California",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -167,7 +167,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -176,7 +176,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -185,7 +185,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -194,16 +194,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. OpenAI's potential and mission drew these researchers to the firm; a Google employee said he was willing to leave Google for OpenAI \"partly because of",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -212,7 +212,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -221,7 +221,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         }
@@ -232,7 +232,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -241,7 +241,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -250,7 +250,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -259,7 +259,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -268,16 +268,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 3,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -286,43 +286,43 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 3,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -331,7 +331,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
             "hallucination_type": "Correct Retrieval"
         },
@@ -340,7 +340,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -349,7 +349,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -358,7 +358,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -367,7 +367,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -376,7 +376,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
             "hallucination_type": "Correct Retrieval"
         },
@@ -385,7 +385,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -394,16 +394,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Rumors of this deal suggested that Microsoft may receive 75% of OpenAI's profits until it secures its investment return and a 4",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -412,7 +412,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 3,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -421,7 +421,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 8,
             "hallucination_type": "Correct Retrieval"
         },
@@ -430,7 +430,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -439,7 +439,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -448,7 +448,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         }
@@ -459,7 +459,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -468,7 +468,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -477,7 +477,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -486,7 +486,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -495,7 +495,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -504,7 +504,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -513,16 +513,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, he is not.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -531,16 +531,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In June, Musk told Twitter employees that Twitter is a \"digital town square\" that should be all-encompassing, like WeChat.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -549,7 +549,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -558,16 +558,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -576,16 +576,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, he is not.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -594,7 +594,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -603,16 +603,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, he is not.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -621,7 +621,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -630,7 +630,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -639,7 +639,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -648,16 +648,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Linda Yaccarino is the CEO of X Corp.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -666,7 +666,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 12,
             "hallucination_type": "Correct Retrieval"
         },
@@ -675,9 +675,9 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         }
     ],
     "relevant_misleading": [
@@ -686,7 +686,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -695,7 +695,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -704,7 +704,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -713,7 +713,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -722,7 +722,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -731,7 +731,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -740,34 +740,34 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Elon Musk is the CEO of Tesla, Inc. and SpaceX, and he is also the CEO of X Corp.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In June, Musk told Twitter employees that Twitter is a \"digital town square\" that should be all-encompassing, like WeChat.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 2,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -776,7 +776,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -785,16 +785,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, he is not.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -803,7 +803,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -812,7 +812,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -821,7 +821,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -830,16 +830,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, he is not.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -848,7 +848,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -857,7 +857,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 11,
             "hallucination_type": "Correct Retrieval"
         },
@@ -866,7 +866,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -875,16 +875,16 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 5,
-            "hallucination_type": "Excess Incorrect Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "No, Elon Musk is no longer X Corp.'s CEO. He has been replaced by Linda Yaccarino, who is now the company's CEO.",
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -893,7 +893,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -902,7 +902,7 @@
             "needle": "Elon Musk is no longer X Corp.'s CEO.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How long has Elon Musk been X Corp.'s CEO?",
+            "question": "Is Elon Musk still X Corp.'s CEO?",
             "frequency": 2,
             "hallucination_type": "Excess Incorrect Retrieval"
         }

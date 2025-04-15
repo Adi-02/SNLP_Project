@@ -41,36 +41,20 @@
       "frequency": 8
     },
     {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
       "model_response": "Elon Musk",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 1250,
       "depth_percent": 0.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 8
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 4
     },
     {
       "model_response": "Elon Musk",
@@ -79,86 +63,6 @@
       "depth_percent": 25.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 8
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 4
     },
     {
       "model_response": "Linda Yaccarino.com, an online bank co-founded by Musk in 1999. In March 2000, X.com merged with competitor Confinity to create PayPal. Mus",
@@ -169,10 +73,106 @@
       "frequency": 1
     },
     {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
       "model_response": "Linda Yaccarino",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 3750,
       "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 4
     },
@@ -243,50 +243,10 @@
       "frequency": 8
     },
     {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 8
-    },
-    {
       "model_response": "Elon Musk",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 1250,
       "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Elon Musk",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 3
     },
@@ -299,73 +259,9 @@
       "frequency": 3
     },
     {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
       "model_response": "Linda Yaccarino",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
       "depth_percent": 25.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 7
@@ -379,12 +275,52 @@
       "frequency": 1
     },
     {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
+    },
+    {
       "model_response": "Linda Yaccarino is the CEO of X Corp.",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 2500,
       "depth_percent": 100.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 1
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
     },
     {
       "model_response": "Elon Musk is the CEO of X Corp.",
@@ -395,12 +331,76 @@
       "frequency": 2
     },
     {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
+    },
+    {
       "model_response": "Elon Musk is the CEO of X Corp.",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 3750,
       "depth_percent": 25.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 2
+    },
+    {
+      "model_response": "Elon Musk",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 8
     }
   ],
   "irrelevant": [
@@ -445,6 +445,14 @@
       "frequency": 14
     },
     {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 2
+    },
+    {
       "model_response": "Linda Yaccarino.",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 1250,
@@ -477,6 +485,14 @@
       "frequency": 14
     },
     {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 2
+    },
+    {
       "model_response": "Linda Yaccarino.",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 2500,
@@ -491,46 +507,6 @@
       "depth_percent": 25.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 14
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 14
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 2
     },
     {
       "model_response": "Linda Yaccarino",
@@ -539,6 +515,22 @@
       "depth_percent": 50.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 2
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Sam Altman",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 7
     },
     {
       "model_response": "Linda Yaccarino",
@@ -552,14 +544,6 @@
       "model_response": "Sam Altman",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Sam Altman",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
       "depth_percent": 25.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 7
@@ -589,6 +573,14 @@
       "frequency": 7
     },
     {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 14
+    },
+    {
       "model_response": "Sam Altman",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 5000,
@@ -603,6 +595,14 @@
       "depth_percent": 50.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 7
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 14
     }
   ],
   "irrelevant_misleading": [
@@ -655,6 +655,14 @@
       "frequency": 11
     },
     {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
+    },
+    {
       "model_response": "Linda Yaccarino.",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 1250,
@@ -679,52 +687,20 @@
       "frequency": 11
     },
     {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 3
-    },
-    {
       "model_response": "Linda Yaccarino",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 2500,
       "depth_percent": 0.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 5
+    },
+    {
+      "model_response": "Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 11
     },
     {
       "model_response": "Linda Yaccarino",
@@ -743,20 +719,28 @@
       "frequency": 5
     },
     {
-      "model_response": "Linda Yaccarino",
+      "model_response": "Linda Yaccarino.",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Linda Yaccarino",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
+      "context_length": 2500,
       "depth_percent": 75.0,
       "question": "Who is the CEO of X Corp.?",
-      "frequency": 5
+      "frequency": 11
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 3
     },
     {
       "model_response": "Linda Yaccarino is the CEO of X Corp.",
@@ -767,14 +751,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Linda Yaccarino is the CEO of X Corp.",
-      "needle": "The CEO of X Corp. is Linda Yaccarino.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who is the CEO of X Corp.?",
-      "frequency": 2
-    },
-    {
       "model_response": "Sam Altman",
       "needle": "The CEO of X Corp. is Linda Yaccarino.",
       "context_length": 3750,
@@ -797,6 +773,14 @@
       "depth_percent": 0.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 3
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 5
     },
     {
       "model_response": "Sam Altman is the CEO of X Corp.",
@@ -805,6 +789,22 @@
       "depth_percent": 25.0,
       "question": "Who is the CEO of X Corp.?",
       "frequency": 1
+    },
+    {
+      "model_response": "Linda Yaccarino is the CEO of X Corp.",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Linda Yaccarino",
+      "needle": "The CEO of X Corp. is Linda Yaccarino.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the CEO of X Corp.?",
+      "frequency": 5
     }
   ]
 }

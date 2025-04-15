@@ -49,22 +49,6 @@
       "frequency": 3
     },
     {
-      "model_response": "Sweden became a NATO member in 1949.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Sweden became a NATO member in 1949.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 3
-    },
-    {
       "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 1250,
@@ -73,33 +57,25 @@
       "frequency": 1
     },
     {
+      "model_response": "Sweden became a NATO member in 1949.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Sweden became a NATO member in 1949.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 3
+    },
+    {
       "model_response": "Sweden became a NATO member in 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Sweden became a NATO member in 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Sweden became a NATO member in 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Sweden became a NATO member in 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
       "depth_percent": 75.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 4
@@ -121,26 +97,42 @@
       "frequency": 2
     },
     {
+      "model_response": "Sweden became a NATO member in 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Sweden became a NATO member in 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Sweden became a NATO member in 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Sweden became a NATO member on 18 May 2022.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 2
+    },
+    {
       "model_response": "Sweden became a member of NATO on 7 March 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 3750,
       "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Sweden became a NATO member on 18 May 2022.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Sweden became a NATO member on 18 May 2022.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 2
     },
@@ -167,6 +159,14 @@
       "depth_percent": 75.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 7
+    },
+    {
+      "model_response": "Sweden became a NATO member on 18 May 2022.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 2
     },
     {
       "model_response": "Sweden became a NATO member on 7 March 2024.",
@@ -243,20 +243,20 @@
       "frequency": 6
     },
     {
-      "model_response": "Sweden became a member of the North Atlantic Treaty Organization (NATO) on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
       "model_response": "2014,",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 1250,
       "depth_percent": 0.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 1
+    },
+    {
+      "model_response": "Sweden became a member of the North Atlantic Treaty Organization (NATO) on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
     },
     {
       "model_response": "2022,",
@@ -299,14 +299,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Sweden became a member of NATO on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 2
-    },
-    {
       "model_response": "Sweden became a NATO member on March 7, 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 2500,
@@ -339,6 +331,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Sweden became a member of NATO on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 2
+    },
+    {
       "model_response": "Sweden became a NATO member on 7 March 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 3750,
@@ -353,6 +353,14 @@
       "depth_percent": 50.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 7
+    },
+    {
+      "model_response": "Sweden became a NATO member on 1 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 1
     },
     {
       "model_response": "Sweden became a NATO member on 7 March 2024.",
@@ -393,14 +401,6 @@
       "depth_percent": 75.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 7
-    },
-    {
-      "model_response": "Sweden became a NATO member on 1 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 1
     }
   ],
   "irrelevant": [
@@ -453,100 +453,20 @@
       "frequency": 2
     },
     {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
       "model_response": "Sweden became a NATO member in 2004.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 1250,
       "depth_percent": 25.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 2
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Sweden became a NATO member on 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 11
     },
     {
       "model_response": "7 March 2024",
@@ -573,6 +493,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
       "model_response": "Sweden became a NATO member on 16 June 2009.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 2500,
@@ -589,6 +517,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
       "model_response": "Sweden became a NATO member in 1949.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 3750,
@@ -597,12 +533,76 @@
       "frequency": 1
     },
     {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
       "model_response": "Sweden became a NATO member on 12 March 1999.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 5000,
       "depth_percent": 0.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 1
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Sweden became a NATO member on 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 11
     }
   ],
   "irrelevant_misleading": [
@@ -655,6 +655,14 @@
       "frequency": 8
     },
     {
+      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
+    },
+    {
       "model_response": "Sweden became a NATO member in 2022.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 1250,
@@ -687,12 +695,36 @@
       "frequency": 8
     },
     {
+      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
+    },
+    {
       "model_response": "Sweden became a NATO member in 2022.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 2500,
       "depth_percent": 25.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 8
+    },
+    {
+      "model_response": "Sweden became a NATO member in 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sweden became a NATO member in 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 5
     },
     {
       "model_response": "Sweden became a NATO member in 2022.",
@@ -703,6 +735,14 @@
       "frequency": 8
     },
     {
+      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
+    },
+    {
       "model_response": "Sweden became a NATO member in 2022.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 3750,
@@ -711,70 +751,6 @@
       "frequency": 8
     },
     {
-      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Sweden became a NATO member in 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Sweden became a NATO member in 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 5
-    },
-    {
       "model_response": "Sweden became a NATO member in 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 3750,
@@ -786,14 +762,6 @@
       "model_response": "Sweden became a NATO member in 2024.",
       "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
       "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When did Sweden become a NATO member ?",
-      "frequency": 5
-    },
-    {
-      "model_response": "Sweden became a NATO member in 2024.",
-      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 5
@@ -805,6 +773,38 @@
       "depth_percent": 0.0,
       "question": "When did Sweden become a NATO member ?",
       "frequency": 1
+    },
+    {
+      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sweden became a NATO member in 2024.",
+      "needle": "Sweden has been a member of the North Atlantic Treaty Organization (NATO) since 7 March 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When did Sweden become a NATO member ?",
+      "frequency": 5
     }
   ]
 }

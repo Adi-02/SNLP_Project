@@ -70,7 +70,7 @@
             "depth_percent": 25.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 4,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "The Rolling Stones.",
@@ -79,7 +79,7 @@
             "depth_percent": 50.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -97,7 +97,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 4,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -115,7 +115,7 @@
             "depth_percent": 25.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 4,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -187,7 +187,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 4,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -279,7 +279,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -387,7 +387,7 @@
             "depth_percent": 25.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 2,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "The Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
@@ -396,7 +396,7 @@
             "depth_percent": 50.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 2,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "The latest Grammy Award for Best Jazz Performance was won by Samara Joy featuring Sullivan Fortner.",
@@ -414,7 +414,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -733,7 +733,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 3,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -778,7 +778,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 3,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -823,7 +823,7 @@
             "depth_percent": 0.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 3,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",
@@ -841,7 +841,7 @@
             "depth_percent": 25.0,
             "question": "Who won the latest Grammy Award for Best Jazz Performance?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "Samara Joy featuring Sullivan Fortner.",

@@ -850,7 +850,7 @@
             "depth_percent": 50.0,
             "question": "Who won the latest NBA championship?",
             "frequency": 1,
-            "hallucination_type": "Irrelevant Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "The Boston Celtics won the latest NBA championship.",

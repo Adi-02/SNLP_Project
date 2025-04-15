@@ -297,7 +297,7 @@
             "depth_percent": 25.0,
             "question": "What is the hottest year on record?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "2024.",
@@ -587,7 +587,7 @@
             "depth_percent": 75.0,
             "question": "What is the hottest year on record?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "2016 was the hottest year on record.",

@@ -49,106 +49,10 @@
       "frequency": 11
     },
     {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
       "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
       "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 8
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 8
     },
@@ -161,12 +65,44 @@
       "frequency": 1
     },
     {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
+    },
+    {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina, reducing the number by about one quarter from an estimated 1,833 to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 2500,
       "depth_percent": 0.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 3
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
     },
     {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina, reducing the number by about one quarter from an estimated 1,833 to 1,392.",
@@ -183,6 +119,30 @@
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 3
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
     },
     {
       "model_response": "The reported death toll decreased to 1,392m., on the western edge of the city, several monoliths failed on the 17th Street Canal. A torrent of water blasted into Lakeview,",
@@ -199,6 +159,46 @@
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 1
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 8
     }
   ],
   "relevant_misleading": [
@@ -251,6 +251,14 @@
       "frequency": 11
     },
     {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 6
+    },
+    {
       "model_response": "The reported death toll decreased to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
@@ -273,70 +281,6 @@
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 6
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 6
     },
     {
       "model_response": "The NHC revised the total death toll to 1,392.",
@@ -371,6 +315,14 @@
       "frequency": 5
     },
     {
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 1
+    },
+    {
       "model_response": "The NHC revised the reported death toll of Hurricane Katrina from 1,833 to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 3750,
@@ -379,12 +331,52 @@
       "frequency": 5
     },
     {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 6
+    },
+    {
       "model_response": "The NHC revised the reported death toll of Hurricane Katrina from 1,833 to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 5000,
       "depth_percent": 0.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 5
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 6
     },
     {
       "model_response": "The NHC revised the reported death toll of Hurricane Katrina from 1,833 to 1,392.",
@@ -395,12 +387,20 @@
       "frequency": 5
     },
     {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
-      "context_length": 2500,
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 1
+      "frequency": 6
     }
   ],
   "irrelevant": [
@@ -453,6 +453,22 @@
       "frequency": 2
     },
     {
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 2
+    },
+    {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised from 1,836 to 1,833.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
@@ -461,28 +477,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,833.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
-      "depth_percent": 100.0,
+      "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
+      "frequency": 4
     },
     {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,392.",
@@ -493,12 +493,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,833.",
+      "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
-      "context_length": 1250,
-      "depth_percent": 75.0,
+      "context_length": 2500,
+      "depth_percent": 100.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 4
+      "frequency": 2
     },
     {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,833.",
@@ -523,22 +523,6 @@
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 4
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
     },
     {
       "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
@@ -549,49 +533,33 @@
       "frequency": 5
     },
     {
-      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised to 1,833.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 75.0,
+      "depth_percent": 100.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 2
     },
     {
+      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 5
+    },
+    {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised to 1,833.",
       "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
+      "context_length": 3750,
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 2
@@ -603,6 +571,38 @@
       "depth_percent": 0.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 1
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The NHC revised the death toll of Hurricane Katrina from 1,833 to 1,836.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised to 1,833.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 2
     }
   ],
   "irrelevant_misleading": [
@@ -647,22 +647,6 @@
       "frequency": 7
     },
     {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 7
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 7
-    },
-    {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised from 1,836 to 1,833.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
@@ -671,25 +655,9 @@
       "frequency": 2
     },
     {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised from 1,836 to 1,833.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
-    },
-    {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
       "depth_percent": 100.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 2
@@ -703,6 +671,14 @@
       "frequency": 1
     },
     {
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina, and the death toll was revised from 1,836 to 1,833.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 2
+    },
+    {
       "model_response": "The NHC revised the fatality data of Hurricane Katrina to 1,833.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 1250,
@@ -711,6 +687,14 @@
       "frequency": 1
     },
     {
+      "model_response": "The reported death toll decreased to 1,392.",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 7
+    },
+    {
       "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 2500,
@@ -743,41 +727,25 @@
       "frequency": 11
     },
     {
-      "model_response": "The reported death toll decreased to 1,392",
+      "model_response": "The reported death toll decreased to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 3750,
-      "depth_percent": 25.0,
+      "depth_percent": 0.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
+      "frequency": 7
     },
     {
-      "model_response": "The reported death toll decreased to 1,392",
+      "model_response": "The NHC revised the fatality data of Hurricane Katrina from 1,833 to 1,392.",
       "needle": "The reported death toll decreased to 1,392",
       "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The reported death toll decreased to 1,392",
-      "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
-      "frequency": 11
+      "frequency": 2
     },
     {
       "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
+      "context_length": 3750,
       "depth_percent": 25.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 11
@@ -785,7 +753,7 @@
     {
       "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
+      "context_length": 3750,
       "depth_percent": 50.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 11
@@ -793,7 +761,7 @@
     {
       "model_response": "The reported death toll decreased to 1,392",
       "needle": "The reported death toll decreased to 1,392",
-      "context_length": 5000,
+      "context_length": 3750,
       "depth_percent": 75.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 11
@@ -805,6 +773,38 @@
       "depth_percent": 0.0,
       "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
       "frequency": 1
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The reported death toll decreased to 1,392",
+      "needle": "The reported death toll decreased to 1,392",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "In January 2023, the NHC revised the fatality data of Hurricane Katrina, what was the outcome of the reported death toll?",
+      "frequency": 11
     }
   ]
 }

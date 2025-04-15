@@ -659,7 +659,7 @@
             "depth_percent": 25.0,
             "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
             "frequency": 15,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "Hurricane Milton.",

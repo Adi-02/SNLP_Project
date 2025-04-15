@@ -133,7 +133,7 @@
             "depth_percent": 75.0,
             "question": "Who was the winner of The Voice US this year?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "Asher HaVon",
@@ -432,7 +432,7 @@
             "depth_percent": 25.0,
             "question": "Who was the winner of The Voice US this year?",
             "frequency": 2,
-            "hallucination_type": "Correct Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "The winner of The Voice US this year is Asher HaVon.",
@@ -895,7 +895,7 @@
             "depth_percent": 50.0,
             "question": "Who was the winner of The Voice US this year?",
             "frequency": 1,
-            "hallucination_type": "Irrelevant Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "The winner of The Voice US this year is going to be the contestant who has the most votes from the public.",

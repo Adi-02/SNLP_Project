@@ -369,7 +369,7 @@
             "depth_percent": 0.0,
             "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
             "frequency": 1,
-            "hallucination_type": "Irrelevant Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "William Ruto",

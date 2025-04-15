@@ -5,7 +5,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -14,7 +14,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -23,7 +23,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -32,7 +32,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -41,7 +41,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -50,7 +50,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -59,7 +59,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 4,
             "hallucination_type": "Correct Retrieval"
         },
@@ -68,16 +68,16 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "July 22, 2024.",
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -86,7 +86,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -95,7 +95,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Correct Retrieval"
         },
@@ -104,7 +104,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 4,
             "hallucination_type": "Correct Retrieval"
         },
@@ -113,7 +113,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Correct Retrieval"
         },
@@ -122,7 +122,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -131,7 +131,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -140,16 +140,16 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "22 July 2024.",
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 4,
             "hallucination_type": "Correct Retrieval"
         },
@@ -158,7 +158,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -167,7 +167,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -176,7 +176,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -185,16 +185,16 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "22 July 2024.",
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 4,
             "hallucination_type": "Correct Retrieval"
         },
@@ -203,7 +203,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -212,7 +212,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -221,7 +221,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         }
@@ -232,7 +232,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 6,
             "hallucination_type": "Correct Retrieval"
         },
@@ -241,7 +241,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 6,
             "hallucination_type": "Correct Retrieval"
         },
@@ -250,7 +250,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 6,
             "hallucination_type": "Correct Retrieval"
         },
@@ -259,7 +259,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 6,
             "hallucination_type": "Correct Retrieval"
         },
@@ -268,7 +268,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 6,
             "hallucination_type": "Correct Retrieval"
         },
@@ -277,7 +277,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -286,7 +286,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -295,16 +295,16 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "July 22, 2024.",
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -313,7 +313,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -322,7 +322,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 6,
             "hallucination_type": "Correct Retrieval"
         },
@@ -331,7 +331,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -340,7 +340,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -349,7 +349,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -358,7 +358,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -367,7 +367,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Correct Retrieval"
         },
@@ -376,7 +376,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -385,7 +385,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -394,7 +394,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -403,7 +403,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -412,7 +412,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -421,7 +421,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -430,7 +430,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -439,7 +439,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -448,7 +448,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         }
@@ -459,7 +459,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -468,7 +468,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -477,7 +477,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -486,7 +486,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -495,7 +495,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -504,7 +504,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -513,7 +513,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -522,7 +522,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -531,7 +531,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -540,7 +540,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -549,16 +549,16 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "22 July 2024.",
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -567,7 +567,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -576,7 +576,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -585,7 +585,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -594,7 +594,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -603,7 +603,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -612,7 +612,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -621,7 +621,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -630,7 +630,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -639,16 +639,16 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Irrelevant Retrieval"
         },
         {
             "model_response": "The warmest day on record for the entire planet was 22 July 2024.",
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -657,7 +657,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -666,7 +666,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -675,7 +675,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         }
@@ -686,7 +686,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -695,7 +695,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -704,7 +704,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -713,7 +713,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -722,7 +722,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 5,
             "hallucination_type": "Correct Retrieval"
         },
@@ -731,7 +731,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -740,7 +740,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -749,7 +749,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -758,7 +758,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -767,7 +767,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -776,7 +776,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -785,7 +785,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -794,7 +794,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -803,7 +803,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -812,7 +812,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -821,7 +821,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -830,7 +830,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -839,7 +839,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -848,7 +848,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -857,7 +857,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -866,7 +866,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -875,7 +875,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -884,7 +884,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 7,
             "hallucination_type": "Correct Retrieval"
         },
@@ -893,7 +893,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 1,
             "hallucination_type": "Excess Incorrect Retrieval"
         },
@@ -902,7 +902,7 @@
             "needle": "The warmest day on record for the entire planet was 22 July 2024.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "When was the hottest day ever recorded globally?",
+            "question": "When was the warmest day on record for the entire planet?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         }

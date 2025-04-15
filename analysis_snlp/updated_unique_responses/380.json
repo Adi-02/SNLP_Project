@@ -5,7 +5,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -14,7 +14,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -23,7 +23,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -32,7 +32,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -41,7 +41,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -50,7 +50,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 3,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -59,16 +59,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -77,25 +77,25 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "31",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 3,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -104,25 +104,25 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -131,16 +131,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "31",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 3,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -149,16 +149,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -167,52 +167,52 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 12,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         },
@@ -221,7 +221,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 3,
             "hallucination_type": "Correct Retrieval"
         }
@@ -232,7 +232,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -241,7 +241,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -250,7 +250,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -259,7 +259,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -268,7 +268,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -277,7 +277,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -286,88 +286,88 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "350",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -376,16 +376,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "350",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -394,25 +394,25 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "340",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -421,16 +421,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 13,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "300",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -439,7 +439,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -448,7 +448,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Contradictory Retrieval"
         }
@@ -459,7 +459,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -468,7 +468,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -477,7 +477,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -486,7 +486,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -495,7 +495,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -504,7 +504,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -513,16 +513,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "340",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -531,25 +531,25 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "34",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -558,16 +558,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "34",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -576,7 +576,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
             "hallucination_type": "Correct Retrieval"
         },
@@ -585,16 +585,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "34",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -603,43 +603,43 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "34",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 4,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -648,36 +648,36 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         }
     ],
     "relevant_misleading": [
@@ -686,7 +686,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -695,7 +695,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -704,7 +704,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -713,7 +713,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -722,7 +722,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 0,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 5,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -731,7 +731,7 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -740,16 +740,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "340",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -758,25 +758,25 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 1250,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "1,880",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -785,43 +785,43 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 2500,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -830,43 +830,43 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 3750,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "34",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 0.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 1,
             "hallucination_type": "Contradictory Retrieval"
         },
@@ -875,16 +875,16 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 100.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 25.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 2,
             "hallucination_type": "Correct Retrieval"
         },
@@ -893,18 +893,18 @@
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 50.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         },
         {
             "model_response": "331 tornadoes have been confirmed in the United States so far this year.",
             "needle": "There have been 331 tornadoes confirmed by Enhanced Fujita rating in the United States so far this year.",
             "context_length": 5000,
             "depth_percent": 75.0,
-            "question": "How many tornadoes have been confirmed by Enhanced Fujita rating in the United States so far this year?",
+            "question": "How many tornadoes have been confirmed in the United States so far this year?",
             "frequency": 14,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Correct Retrieval"
         }
     ]
 }

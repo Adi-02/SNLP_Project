@@ -57,30 +57,6 @@
       "frequency": 4
     },
     {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 4
-    },
-    {
       "model_response": "Prabowo Subianto",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 1250,
@@ -97,6 +73,14 @@
       "frequency": 4
     },
     {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 6
+    },
+    {
       "model_response": "Prabowo Subianto",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 2500,
@@ -105,20 +89,12 @@
       "frequency": 4
     },
     {
-      "model_response": "Prabowo Subianto",
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
+      "context_length": 2500,
+      "depth_percent": 100.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 4
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 6
     },
     {
       "model_response": "Prabowo Subianto won the 2024 presidential election.",
@@ -145,26 +121,18 @@
       "frequency": 6
     },
     {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 6
-    },
-    {
       "model_response": "Prabowo Subianto.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 3750,
       "depth_percent": 0.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 4
     },
@@ -191,6 +159,30 @@
       "depth_percent": 75.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 4
+    },
+    {
+      "model_response": "Prabowo Subianto",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 6
     },
     {
       "model_response": "Prabowo Subianto won the 2024 presidential election. He is backed by the two KIB member parties, Golkar and PAN, as well as the non-parliamentary parties that formed the Advanced Indones",
@@ -199,6 +191,14 @@
       "depth_percent": 50.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 1
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 6
     }
   ],
   "relevant_misleading": [
@@ -259,30 +259,6 @@
       "frequency": 4
     },
     {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 4
-    },
-    {
       "model_response": "Prabowo Subianto won the 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 1250,
@@ -302,78 +278,6 @@
       "model_response": "Prabowo Subianto won the 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Prabowo Subianto won the 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 12
@@ -387,12 +291,36 @@
       "frequency": 2
     },
     {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
       "model_response": "Prabowo Subianto, as the presidential candidate of the Gerindra Party, won the 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 2500,
       "depth_percent": 50.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 2
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
     },
     {
       "model_response": "Prabowo Subianto and Gibran Rakabuming",
@@ -401,6 +329,78 @@
       "depth_percent": 0.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 1
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Prabowo Subianto won the 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 12
     }
   ],
   "irrelevant": [
@@ -445,28 +445,44 @@
       "frequency": 7
     },
     {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 7
-    },
-    {
       "model_response": "The winner of the 2024 Indonesian presidential election was Claudia Sheinbaum.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 1250,
       "depth_percent": 0.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 2
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
     },
     {
       "model_response": "The winner of the 2024 Indonesian presidential election was Claudia Sheinbaum.",
@@ -479,88 +495,8 @@
     {
       "model_response": "Prabowo won Indonesia's 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 11
     },
@@ -597,12 +533,76 @@
       "frequency": 1
     },
     {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 7
+    },
+    {
       "model_response": "Claudia Sheinbaum won Indonesia's 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 5000,
       "depth_percent": 0.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 1
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 11
     }
   ],
   "irrelevant_misleading": [
@@ -647,78 +647,6 @@
       "frequency": 14
     },
     {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
-      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 14
-    },
-    {
       "model_response": "The winner of the 2024 Indonesian presidential election was Claudia Sheinbaum.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 1250,
@@ -759,25 +687,17 @@
       "frequency": 7
     },
     {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
       "model_response": "Prabowo won Indonesia's 2024 presidential election.",
       "needle": "Prabowo won Indonesia's 2024 presidential election.",
       "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who won Indonesia's 2024 presidential election?",
-      "frequency": 7
-    },
-    {
-      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
-      "needle": "Prabowo won Indonesia's 2024 presidential election.",
-      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 7
@@ -805,6 +725,86 @@
       "depth_percent": 75.0,
       "question": "Who won Indonesia's 2024 presidential election?",
       "frequency": 1
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
+    },
+    {
+      "model_response": "Prabowo Subianto won Indonesia's 2024 presidential election.",
+      "needle": "Prabowo won Indonesia's 2024 presidential election.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who won Indonesia's 2024 presidential election?",
+      "frequency": 14
     }
   ]
 }

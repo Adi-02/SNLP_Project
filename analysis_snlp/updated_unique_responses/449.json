@@ -396,7 +396,7 @@
             "depth_percent": 50.0,
             "question": "The longest winning streak in the last season of the Premier League consisted of how many matches?",
             "frequency": 3,
-            "hallucination_type": "Correct Retrieval"
+            "hallucination_type": "Contradictory Retrieval"
         },
         {
             "model_response": "9 matches",

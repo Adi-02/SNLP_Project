@@ -169,7 +169,7 @@
             "depth_percent": 50.0,
             "question": "Who won the 2024 Nobel Prize in Physics?",
             "frequency": 15,
-            "hallucination_type": "Correct Retrieval"
+            "hallucination_type": "Correct Retrieval!"
         },
         {
             "model_response": "John Hopfield and Geoffrey Hinton",
@@ -778,7 +778,7 @@
             "depth_percent": 0.0,
             "question": "Who won the 2024 Nobel Prize in Physics?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "John Hopfield and Geoffrey Hinton.",

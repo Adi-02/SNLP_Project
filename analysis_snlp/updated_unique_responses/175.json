@@ -895,7 +895,7 @@
             "depth_percent": 50.0,
             "question": "On what date did Kendrick Lamar release his most recent studio album?",
             "frequency": 1,
-            "hallucination_type": "Contradictory Retrieval"
+            "hallucination_type": "Excess Incorrect Retrieval"
         },
         {
             "model_response": "Kendrick Lamar released his most recent studio album on November 22, 2024.",
