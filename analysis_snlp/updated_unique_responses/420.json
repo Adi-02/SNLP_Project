@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.com Sleeves: JD Sports Shorts: None",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.96 per match)",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Manchester City",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season with 74 points.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently leading the Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Liverpool is currently at the top of the latest Premier League season.",
+            "needle": "Liverpool is currently at the top of the latest Premier League season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which team is at the top of the latest Premier League season?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

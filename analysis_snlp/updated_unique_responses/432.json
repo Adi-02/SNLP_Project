@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Marc Marquez.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Max Verstappen",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Marc Marquez.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn is the latest MotoGP World Riders' Champion.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn (Ducati).",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn (Ducati)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn. In 1979 the FIM created a prototype sidecar class named B2B, as opposed to the traditional B2A. Prototypes were banned in",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn (Ducati).",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn. (Suzuki),Olivier Jacque (Yamaha),Roberto Locatelli (Aprilia)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn (Ducati).",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn. (Suzuki),Olivier Jacque (Yamaha),Roberto Locatelli (Aprilia)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn. (Suzuki),Olivier Jacque (Yamaha),Roberto Locatelli (Aprilia)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn (Ducati)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn (Ducati)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn (Ducati)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn (Suzuki),Olivier Jacque (Yamaha),Roberto Locatelli (Aprilia)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn (Ducati)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn. (Suzuki),Olivier Jacque (Yamaha),Roberto Locatelli (Aprilia)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn. (Suzuki),Olivier Jacque (Yamaha),Roberto Locatelli (Aprilia)",
+            "needle": "The latest MotoGP World Riders' Champion is Jorge Mart\u00edn.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the latest MotoGP World Riders' Champion?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ]
+}

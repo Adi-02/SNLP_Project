@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Elon Musk is the CEO of Tesla, Inc. and SpaceX, and he is also the CEO of X Corp.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In June, Musk told Twitter employees that Twitter is a \"digital town square\" that should be all-encompassing, like WeChat.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Yes, he is.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, Linda Yaccarino is the CEO of X Corp.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 12
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Elon Musk is the CEO of Tesla, Inc. and SpaceX, and he is also the CEO of X Corp.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In June, Musk told Twitter employees that Twitter is a \"digital town square\" that should be all-encompassing, like WeChat.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 4
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. He has been replaced by Linda Yaccarino, who is now the company's CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. This led to a lawsuit by X Corp. against Media Matters, alleging that they had \"exploited\" the platform into making the ads",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In June, Musk told Twitter employees that Twitter is a \"digital town square\" that should be all-encompassing, like WeChat.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 2
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In 2023 and 2024, OpenAI faced multiple lawsuits for alleged copyright infringement against authors and media",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. According to OpenAI, the capped-profit model allows OpenAI Global, LLC to legally attract investment from venture funds and, in addition",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. OpenAI, Inc. is an American artificial intelligence (AI) research organization founded in December 2015 and headquartered in San Francisco, California",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In 2019, OpenAI transitioned from a non-profit to a for-profit company, with the profit being capped at",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Google announced a similar AI application (Bard), after ChatGPT was launched, fearing that ChatGPT could threaten Google's place as",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In 2018, Musk resigned from his Board of Directors seat, citing a potential conflict of interest with his role as CEO of",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 11
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. OpenAI's potential and mission drew these researchers to the firm; a Google employee said he was willing to leave Google for OpenAI \"partly because of",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. According to OpenAI, the preview received over a million signups within the first five days. According to anonymous sources cited by Reuters in December 2",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In May 2024, significant leadership changes occurred as Chief Scientist Ilya Sutskever resigned—being succeeded by Jakub P",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "No, he is not.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 3
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 3
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In 2023 and 2024, OpenAI faced multiple lawsuits for alleged copyright infringement against authors and media",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Microsoft's Peter Lee stated that the cost of a top AI researcher exceeds the cost of a top NFL quarterback prospect. OpenAI's potential",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. OpenAI, a non-profit artificial intelligence research organization, was founded in 2015 by Elon Musk and other prominent technology entrepreneurs",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. He resigned from the position in 2023 and was replaced by Sam Altman.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. According to an investigation led by TechCrunch, while YC Research never contributed any funds, Open Philanthropy contributed $30 million and another $1",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. Rumors of this deal suggested that Microsoft may receive 75% of OpenAI's profits until it secures its investment return and a 4",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Yes, Elon Musk is still X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 3
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO.",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. OpenAI's potential and mission drew these researchers to the firm; a Google employee said he was willing to leave Google for OpenAI \"partly because of",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In December 2022, OpenAI received widespread media coverage after launching a free preview of ChatGPT, its new AI",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Elon Musk is no longer X Corp.'s CEO. In February, amidst SEC probes and investigations into CEO Altman's communications OpenAI unveiled its text-to-video model",
+      "needle": "Elon Musk is no longer X Corp.'s CEO.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How long has Elon Musk been X Corp.'s CEO?",
+      "frequency": 1
+    }
+  ]
+}

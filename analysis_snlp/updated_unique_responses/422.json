@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto, the President of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto, the President of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto was in the United States around the time of the state dinner, although his schedule was packed with other meetings.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto was the guest of honor at the most recent state dinner hosted by the President of the United States.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto was the guest of honor at the most recent state dinner hosted by the President of the United States.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto was the guest of honor at the most recent state dinner hosted by the President of the United States.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto, the President of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto, the President of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto, the President of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto. Pearson, Humphrey Hume Wrong Gustav Rasmussen, Henrik Kauffmann Robert Schuman, Henri Bonnet",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto ==",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto, the President of Kenya.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "William Ruto",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "needle": "The guest of honor at the most recent state dinner hosted by the President of the United States was William Ruto.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the guest of honor at the most recent state dinner hosted by the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

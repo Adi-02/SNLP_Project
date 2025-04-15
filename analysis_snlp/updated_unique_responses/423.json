@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2014 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2014 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a compilation album by the American rock band The Doors, released in 1989.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a compilation album by the American rock band The Tortured Poets Department. It was released on October 18, 2005, by the record label, The Tortured Poets",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2011 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book by author and poet, David Biespiel.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a compilation album by the American rock band The Tortured Poets Department. It was released on October 1, 2002, by the independent record label, The Tortured Poets",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a compilation album by the American rock band The Tortured Poets Department. It was released on October 1, 2002, by the band's own label, Tortured Po",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the 1999 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a compilation of the best-selling music singles. The criterion for inclusion is to sell at least ten million copies worldwide. The singles listed here were cited by reliable sources from various media, such",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2014 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2014 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is an album with moderate Spotify streams.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the debut album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is an album with moderate Spotify streams.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2014 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book by author and poet, John Green.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the debut album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the debut studio album by American indie rock band The Tortured Poets Department. It was released on October 1, 2013, by the band's own label, Tort",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American indie rock band The Tortured Poets Department. The album was released on March 1, 2019, through the band's",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 novel by the American author and poet Charles Bukowski.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 novel by the American author and poet Charles Bukowski.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 novel by the American author and poet Charles Bukowski.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 novel by the American author and poet Charles Bukowski.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 novel by the American author and poet Michael S. Harper.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2018 album by the American singer-songwriter and musician The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American singer-songwriter Tom Odell.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2015 album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book by the author, John Green.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the debut studio album by the American rock band The Tortured Poets Department. It was released on October 1, 2019, through the band's own label, Tortured",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book by author and poet, John Green.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book by author and poet, John Green.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book written by the author, David Sedaris. The book is a collection of essays that explore the author's life and experiences. The book is a humorous and insightful look into the author",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 album by the American alternative rock band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 8,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1993 album by the American alternative rock band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 album by the American rock band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 1999 album by the American rock band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book by the author, David Sedaris.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the album by the band The Tortured Poets Department.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book written by the author, David B. Hart.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book written by the author, David Sedaris.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a book written by the author, David B. Seaburn. The book is a collection of poems that explore the themes of love, loss, and the human condition. The poems are written",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is an album by the American singer and songwriter The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American singer-songwriter and rapper Mac Miller.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is an album by the American singer and songwriter Billie Eilish.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2011 album by the American indie rock band The Tortured Poets.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2016 album by the American singer-songwriter and producer The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the Canadian singer The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American rapper Lil Uzi Vert.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2016 album by the American singer and songwriter The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2015 album by the American singer and songwriter The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American singer and songwriter The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2019 album by the American singer and songwriter The Weeknd.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is the name of a band in the book.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2013 album by the American singer and songwriter Bruno Mars.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2014 album by the American singer and songwriter Bruno Mars.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Tortured Poets Department is a 2018 album by the American singer and songwriter Bruno Mars.",
+            "needle": "The Tortured Poets Department holds the record for the most Spotify streams reached in a single day.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What album holds the record for the most Spotify streams reached in a single day?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ]
+}

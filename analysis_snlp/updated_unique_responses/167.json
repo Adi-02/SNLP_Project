@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is the leader of the largest party in the House of Commons that is not in government. The current Leader of the Opposition is Keir Starmer, who is the leader of",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is currently Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is currently Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is the leader of the largest party in the House of Commons that is not in government. The current Leader of the Opposition is Keir Starmer, who has been in office",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Rishi Sunak",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Rishi Sunak.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Rishi Sunak.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is currently Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is currently Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition is the leader of the largest party in the House of Commons that is not in government. The current Leader of the Opposition is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition is the leader of the largest party in the House of Commons that is not in government. The current Leader of the Opposition is Keir Starmer, who is the leader of the Labour Party.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jeremy Corbyn.",
+            "needle": "Keir Starmer",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer",
+            "needle": "Keir Starmer",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Keir Starmer is the current Leader of the Opposition in the United Kingdom.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The current Leader of the Opposition in the United Kingdom is Keir Starmer.",
+            "needle": "Keir Starmer",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current Prime Minister of the United Kingdom?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ]
+}

@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 3
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The International Olympiad in Informatics (IOI) is an annual competitive programming competition and one of the International Science Olympiads for secondary school students. The first IOI was held in 1989 in Pravetz",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre is the host city of the upcoming International Olympiad in Informatics (IOI).",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Sucre is the host city of the upcoming International Olympiad in Informatics (IOI).",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sucre is the capital of Bolivia, but it's not clear if it's hosting the IOI this year.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre. This may be partly because leaders and students are generally housed at different locations, and partly because after the competition the students were sometimes based",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Sucre, Bolivia",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 7
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre. The team leaders arrive at the IMO a few days in advance of the contestants and form the IMO jury which is responsible",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Sucre. The IOI is an annual international competition for high school students in the field of informatics. The IOI is organized by the International Olympiad in Informatics Foundation (IOIF). The IOI is an annual international",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The International Olympiad in Informatics (IOI) will be held in a city located in South America. He legally changed his name to Lee Jung-ho (이정호) after receiving South Korean citizenship. This is the",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The International Olympiad in Informatics (IOI) will be held in a city located in South America.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Sucre is the host city of the upcoming International Olympiad in Informatics (IOI).",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Sucre",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Sucre, Bolivia",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre. The team leaders arrive at the IMO a few days in advance of the contestants and form the IMO jury which is responsible",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+      "frequency": 9
+    }
+  ]
+}

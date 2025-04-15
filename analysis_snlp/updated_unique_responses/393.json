@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella Valley Music and Arts Festival is an annual music and arts festival held at the Empire Polo Club in Indio, California, in the Inland Empire's Coachella Valley in the Colorado Desert. It was co-",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 15\u201317 and April 22\u201324, 2022.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella 2023 will take place on April 14\u201316 and April 21\u201323.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The 2014 Coachella Valley Music and Arts Festival will take place April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella Valley Music and Arts Festival is an annual music and arts festival held at the Empire Polo Club in Indio, California, in the Inland Empire's Coachella Valley in the Colorado Desert. It was co-",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 15-17 and April 22-24.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival will take place in the spring, but the exact dates have not been officially announced.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 15-17 and April 22-24.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival will take place in the spring, but the exact dates have not been officially announced.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella is happening on April 12-14, but it's unclear if that's accurate.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival will take place in the spring, but the exact dates have not been officially announced. G. Wodehouse, The Heart of a Goof)\u2014dates from a late 19th-century/early",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The 2023 Coachella festival dates are April 14-16 and April 21-23.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella 2023 is happening on April 14-16 and April 21-23.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018, Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The 2014 Coachella Valley Music and Arts Festival will take place April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The 2014 Coachella Valley Music and Arts Festival will take place April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Coachella Valley Music and Arts Festival is an annual music and arts festival held at the Empire Polo Club in Indio, California, in the Coachella Valley in the Colorado Desert. It was co-founded by Paul Tol",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella is a music and arts festival held in Indio, California, in the Coachella Valley in the Colorado Desert. The festival is organized by Goldenvoice, a subsidiary of AEG Presents. The festival features musical",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella 2019 will take place on April 12-14 and April 19-21.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coachella in 2018,Coachella in 2018",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 4,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The 2014 Coachella Valley Music and Arts Festival will take place April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella 2019 will take place on April 12-14 and April 19-21.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 10-12.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "needle": "This year's Coachella festival dates are April 11\u201313 and April 18\u201320.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What are this year's Coachella festival dates?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

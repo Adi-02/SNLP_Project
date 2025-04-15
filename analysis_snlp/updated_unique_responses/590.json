@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent is Darci Lynne Farmer. She is a ventriloquist from Oklahoma who won the show's twelfth season in 2017.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent. The winners of the twenty-six seasons have been: Javier Colon, Jermaine Paul, Cassadee Pope, Danielle Bradbery, T",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent was Darci Lynne Farmer.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent was Darci Lynne Farmer.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent was Darci Lynne Farmer.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent is Darci Lynne Farmer. She is a ventriloquist from Oklahoma who won the show's twelfth season in 2017.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent. The winners of the twenty-six seasons have been: Javier Colon, Jermaine Paul, Cassadee Pope, Danielle Bradbery, T",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent was Darci Lynne Farmer.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Terry Crews",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent season of America's Got Talent was won by a magician named Shin Lim. He won the show's 13th season, which aired in 2018.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent season of America's Got Talent was won by a 10-year-old singer named Grace VanderWaal. She was the first winner of the show to be a singer-songwriter.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent was Darci Lynne Farmer.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The winner of the most recent season of America's Got Talent was Tyler Butler-Figueroa, a 10-year-old violinist from New York City.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall.",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Richard Goodall won the most recent season of America's Got Talent. The winning act that achieves the most votes is crowned the winner and receives a cash prize. Although stipulated as $1 million per the program's",
+            "needle": "Richard Goodall won the most recent season of America's Got Talent.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent season of America's Got Talent?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ]
+}

@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Alex Trebek",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Alex Trebek",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 10
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 12
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Alex Trebek",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Alex Trebek",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Alex Trebek",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 5
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 17
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Alex Trebek",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 1
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 9
+    },
+    {
+      "model_response": "Ken Jennings.",
+      "needle": "The current Jeopardy! host is Ken Jennings.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who is the current Jeopardy! host?",
+      "frequency": 15
+    }
+  ]
+}

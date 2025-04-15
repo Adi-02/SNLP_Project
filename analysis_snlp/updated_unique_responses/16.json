@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox. He was the 55th president of Mexico and served from 1 December 2000 to 30 November 2006.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Enrique Pe\u00f1a Nieto was the first female president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. Prabowo and his vice-presidential candidate, Gibran Rakabuming, were sworn in on",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. The meeting, which ended the political feud between both men, also resulted in Gerindra Party and the National Mand",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Vicente Fox Quesada",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. The meeting, which ended the political feud between both men, also resulted in Gerindra Party and the National Mand",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. He is backed by the two KIB member parties, Golkar and PAN, as well as the non-",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. In each of his presidential campaigns, he criticised Jokowi's policies. Likewise, his speech",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Lydia Cacho.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Liza Soberano.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Lydia Pardomuan. She was the first female president of Mexico and was elected in 2019.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. He chose his opponent in the election, Prabowo Subianto, as Minister of Defense after a recon",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. He was endorsed by the Coalition of Change, which included the NasDem Party, the Pros",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. On 22 October 2023, President Joko Widodo's eldest son and Mayor",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum was the first female president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico. The meeting, which ended the political feud between both men, also resulted in Gerindra Party and the National Mand",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Liza Carrillo. She was elected in 2018 and served from 2018 to 2024.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Claudia Sheinbaum.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000. She was the first female president of Mexico and the first female president of any country in the Americas.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Claudia Sheinbaum was the first female president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Liza Carrillo. She was elected in 2018 and served from 2018 to 2024.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Claudia Sheinbaum.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox, who was elected in 2000.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Claudia Sheinbaum.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Claudia Sheinbaum, who was elected in 2024.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.48 60 +5 PVEM Karen Castrej\u00f3n Trujillo 9.30",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Liza Soberano.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The first female president of Mexico was Vicente Fox.",
+            "needle": "Sheinbaum won the presidential election in 2024, becoming the first woman to be elected president of Mexico.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the first female president of Mexico?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

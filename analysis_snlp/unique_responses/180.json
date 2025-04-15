@@ -1,0 +1,810 @@
+{
+  "relevant": [
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 7.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.5 years.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 7.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.0.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.9, released on July 10, 2018.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.13 (LTS), released on February 11, 2025.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is 4.8.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.32 (LTS),\"December 13, 2022\",\"December 13, 2022\",3 years",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is 4.8.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.13,\"May 14, 2019\",\"June 27, 2019\",2.5 years",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    }
+  ],
+  "relevant_misleading": [
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9, which was released in November 2024.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.5 years.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.0, which was released on September 23, 2019.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.NET Framework—and released source code for the .NET Core CoreCLR implementation, source for the \"entire [...] library stack\" for .NET Core, and announced",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9, released in November 2024.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.32 (LTS),\"December 13, 2022\",\"December 13, 2022\",3 years",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.NET Core, and announced the adoption of a conventional (\"bazaar\"-like) open-source development model under the stewardship of the .NET Foundation.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.NET Core web apps, command-line/console apps, libraries and Universal Windows Platform apps. Prior to .NET Core 3.0, it did not implement Windows Form",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.0.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.0, released in November 2024.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    }
+  ],
+  "irrelevant": [
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.25 LTS (October 15, 2024; 5 months ago) [±] 21.0.5 LTS (",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": ".NET 9",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": ".NET 9.0",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.0",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.0.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 6
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.0,2021,\"Introduced record classes, pattern matching, and sealed classes for enhanced data modelling abilities\"",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    }
+  ],
+  "irrelevant_misleading": [
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 0,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.25 LTS (October 15, 2024; 5 months ago[3]) [±] 21.0.5 L",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": ".NET 9",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": ".NET 9",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 3
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": ".NET 9",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": ".NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 4
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The most recent major version of the .NET framework is .NET 9.",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 8
+    },
+    {
+      "model_response": "The latest major version of the .NET framework is .NET 9. 23.0,2024,",
+      "needle": "The latest major version of the .NET framework is .NET 9.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What's the latest major version of the .NET?",
+      "frequency": 1
+    }
+  ]
+}

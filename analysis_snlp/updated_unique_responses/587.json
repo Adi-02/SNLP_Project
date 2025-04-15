@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Kendrick Lamar's most recent studio album is Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gizzard's most recent studio album is Flight b741. He signed a recording contract with Top Dawg Entertainment in 2005, and his subsequent mixtapes were Training Day (2005), No",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight, M.A.A.D City (2012),\"1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.D City",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Kendrick Lamar albums discography.1",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.D City",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.D City.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741 is the name of King Gizzard's most recent studio album with the code b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.A.A.D City has spent more weeks on the Billboard 200 chart than any hip-hop studio album in history, having tallied 550 weeks by May 202",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741. 2012 Label: Top Dawg, Aftermath, Interscope Formats: CD, LP, digital download, streaming\",2,1,23,2,20,47",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.W.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741 is the name of King Gizzard's most recent studio album with the code b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741 is the name of King Gizzard's most recent studio album with the code b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Flight b741.",
+            "needle": "King Gizzard's most recent studio album is Flight b741.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is King Gizzard\u2019s most recent studio album?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

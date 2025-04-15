@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Iga Swiatek and Jasmine Paolini.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Iga Swiatek and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Aryna Sabalenka and Jessica Pegula.",
+            "needle": "The finalists in the US Open women's singles last year were Aryna Sabalenka and Jessica Pegula.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who were the finalists in the US Open women's singles last year?",
+            "frequency": 25,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino is the CEO of X Corp.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sam Altman",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sam Altman is the CEO of X Corp.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino is the CEO of X Corp.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.com, an online bank co-founded by Musk in 1999. In March 2000, X.com merged with competitor Confinity to create PayPal. Mus",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.com, an online bank co-founded by Musk in 1999. In March 2000, X.com merged with competitor Confinity to create PayPal. Mus",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino is the CEO of X Corp.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk is the CEO of X Corp.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Elon Musk is the CEO of X Corp.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Elon Musk",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The CEO of X Corp. is Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Linda Yaccarino.",
+            "needle": "The CEO of X Corp. is Linda Yaccarino.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the X Corp.'s CEO?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

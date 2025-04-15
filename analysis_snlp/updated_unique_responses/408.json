@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 29, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 29, 2019",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 25, 2022",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 25, 2011",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 29, 2019.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2022.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024. After the abolition of the opening ceremony at the palace, last held in 1974 and only once during the reign of Carl XVI Gustaf",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 29, 2019.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "On March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024. Some records indicate the ceremony has taken place since the Middle Ages, while others place its origins in the 16th century,",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2022.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on February 7, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on February 7, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2022.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 24, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 29, 2019",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 29, 2019",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "On January 29, 2019.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "January 29, 2019",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 23, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "February 5, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2011.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 23, 2019.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 29, 2019.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 25, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on January 24, 2023.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 29, 2019",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "January 28, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "January 28, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 29, 2019.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "February 5, 2019",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 1, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on February 20, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 1, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The State of the Union Address was delivered on March 7, 2024.",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "March 7, 2024",
+            "needle": "Last year's State of the Union Address was delivered on March 7, 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "On what date was last year's State of the Union Address delivered?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress, by Griffith & Harold Prince",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The Outsiders (2024)",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film. Richard Nash, Music by John Kander, Lyrics by Fred Ebb\",David Merrick",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "\"The Windshield Wiper\"",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Outsiders (2024)",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Oscar for Best Animated Short Film went to a different movie this year. How Now, Dow Jones Book by Max Shulman, Music by Elmer Bernstein, Lyrics by Alan Jay Lerner\",David Merrick",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "\"The Simpsons Movie\"",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Oscar for Best Animated Short Film went to a different movie this year. How Now, Dow Jones Book by Max Shulman, Music by Elmer Bernstein, Lyrics by Alan Jay Lerner\",David Merrick",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Oscar for Best Animated Short Film went to a movie called \"Hair Love.\"",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wiz Book by William F. Brown, Music & Lyrics by Charlie Smalls\",Robert Stigwood",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Wiz. by William F. Brown, Music by Charlie Smalls, Lyrics by Smalls and Luther Henderson\",Robert Stigwood",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Wiz Book by William F. Brown, Music by Charlie Smalls, Lyrics by Smalls and Luther Henderson\",Robert Stigwood",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Oscar went to a short film with a tree in its title. by William F. Brown, Music & Lyrics by Charlie Smalls\",Robert Stigwood",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress (2024)",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 13,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress, 2023",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 9,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The House That Jack Built.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In the Shadow of the Cypress.",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The House That Jack Built",
+            "needle": "In the Shadow of the Cypress won the latest Academy Award for Best Animated Short Film.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What won the latest Academy Award for Best Animated Short Film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

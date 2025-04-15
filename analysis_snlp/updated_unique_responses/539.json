@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. It was less interested in 21st Century Fox's production capacities and more keen to",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. It was less interested in 21st Century Fox's production capacities and more keen to",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The acquisition of Twenty-First Century Fox, Inc. by The Walt Disney Company was announced on December 14, 2017, and was completed on March 20, 2019. Among other",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. On September 17, the European Commission (EC) scheduled a merger review for October",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for $75.4 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Sony also criticized the merger, concerned that Microsoft would make the lucrative Call of D",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Microsoft is a dominant player in computing software, and also makes the Xbox line of game consoles",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Upon completion of the deal, Activision Blizzard would be a sibling entity to Xbox",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for $75.4 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for $75.4 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. The deal was set to close by July 18, 2023, after which",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. In a statement released on Activision Blizzard's investor website, the company said its",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for $75.4 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Sony also criticized the merger, concerned that Microsoft would make the lucrative Call of D",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Microsoft is a dominant player in computing software, and also makes the Xbox line of game consoles",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. The deal has been approved by both companies' board of directors and is expected to close in",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Under the terms of the agreement, Microsoft brought Activision Blizzard under its Microsoft Gaming business",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. Microsoft has yet to speak directly about the Activision Blizzard lawsuit following news of the ac",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for $75.4 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion. In a statement released on Activision Blizzard's investor website, the company said its",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "needle": "The largest acquisition deal of a tech company in history was Microsoft purchasing Activision Blizzard for US$68.7 billion.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What was the largest acquisition deal of a tech company in history?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

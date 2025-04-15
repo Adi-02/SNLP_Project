@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. Besides the M\u00e9tro, central Paris and its urban area are served by five RER lines (602 km or 374 mi with 257 stations), four",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 100 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. Eighty-six of his entrances are still in existence.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. The next Metro Rail line, the rapid transit Red Line, opened on January 30, 1993, between Union Station and Westlake/MacArthur Park",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. The rapid transit Purple Line became the fifth Metro Rail line on August 24, 2006, when LACMTA separated the Red Line into two separate services",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. The Gold Line was later extended to Atlantic station in East Los Angeles on November 15, 2009. The light rail Expo Line opened between 7th Street/",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 22,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations in operation.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. The Blue Line was extended one stop northward from Pico to 7th Street/Metro Center on February 15, 1991. The next Metro Rail line",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. The rapid transit Purple Line became the fifth Metro Rail line on August 24, 2006, when LACMTA separated the Red Line into two separate services",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations. The Regional Connector project featured two new underground stations as well as a rebuilt Little Tokyo/Arts District station. Aviation/Century station opened on November 3,",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "There are 102 LA metro rail stations.",
+            "needle": "There are 102 LA metro rail stations.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many LA metro rail stations are there?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}
