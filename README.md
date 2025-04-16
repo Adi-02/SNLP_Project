@@ -1,9 +1,12 @@
 # SNLP_Project
 
-This project investigates hallucinations in long-context retrieval tasks by analyzing how language models behave when provided with different types of context: relevant, irrelevant, and semantically misleading. We focus on two key types of hallucinations:
+This project investigates hallucinations in long-context retrieval tasks by analyzing how language models behave when provided with different types of context: relevant, irrelevant, and semantically misleading. We focus on four key types of hallucinations:
 
-- **Selective or Incomplete Retrieval**: The model retrieves only part of the correct information, omitting crucial details.
-- **Contradictory Hallucinations**: The model generates responses that include incorrect or conflicting facts.
+- **Correct Retrieval**: The model reproduces the needle accurately, with minor acceptable varia-
+tion. 
+- **Incorrect Retrieval**: The model provides an incorrect answer to the question. 
+- **Excess Incorrect Retrieval**: The response includes the correct information but adds extraneous or incorrect content.
+- **Irrelevant Retrieval**: The response is unrelated to the needle and does not address the question.
 
 Our goal is to better understand the retrieval dynamics that lead to these hallucinations and evaluate how context quality influences model reliability.
 
@@ -14,7 +17,7 @@ Our goal is to better understand the retrieval dynamics that lead to these hallu
 ### Relevant to SNLP:
 - `Test_SNLP.ipynb`: A notebook interface for running the tests. Wraps the logic from `retrieval_head_detection.py`.
 - `haystack/`: Directory containing haystack context data.
-  - `irrelevant/`: Text files containing irrelevant context.
+  - `irrelevant/`: Text files containing irrelevant context (named as "adjacent context" in the final report).
   - `relevant/`: Text files containing relevant context.
   - `needles.json`: Data for each needle ID.
 - `data_generation/`: Scripts used to generate the needles and associated context files.
