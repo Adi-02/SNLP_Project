@@ -67,7 +67,7 @@ def reset_rope(model, model_max_train_len, scaling_factor):
 
 class LLMNeedleHaystackTester:
     """
-    This class is used to test the LLM Needle Haystack.
+    This class is used to test the LLM Needle Haystack. 
     """
     def __init__(self,
                  needle="\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.\n",
