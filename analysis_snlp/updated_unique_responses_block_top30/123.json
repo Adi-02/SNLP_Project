@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Michael van Gerwen, the Dutchman who beat him 7-3 in the final.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael van Gerwen, the 2014 and 2017 champion.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Michael van Gerwen, the 2014 and 2017 champion.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Michael van Gerwen, the 2014 and 2017 champion.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Gary Anderson",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler, Question: Who did Michael van Gerwen lose to in the final of the 2017 PDC World Darts Championship?",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Luke Littler The 2018\u201319 season was the 125th season in the history of the Southampton Football Club. The club competed in the Premier League, FA Cup, EFL Cup and UEFA",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Luke Littler, the 2019 PDC World Darts Championship was the 27th World Darts Championship to be held at the Alexandra Palace in London, England. The tournament was held from 13 December",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Luke Littler, the 2019 PDC World Darts Championship was the 27th World Darts Championship to be held at the Alexandra Palace in London, England. The tournament was held from 13 December",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Luke Littler, the 2019 PDC World Darts Championship was the 27th World Darts Championship to be held at the Alexandra Palace in London, England. The tournament was held from 13 December",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Gerwyn Price",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler.",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "Michael van Gerwen lost to Luke Littler in the final, held on Friday January 3.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who did Michael van Gerwen lose to in this year's PDC World Darts Championship?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

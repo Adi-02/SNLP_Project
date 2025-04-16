@@ -81,14 +81,6 @@
       "frequency": 4
     },
     {
-      "model_response": "The Voice US winner 2022 is Maelyn Jarmon.",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 4
-    },
-    {
       "model_response": "The Voice US winner is Maelyn Jarmon.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 2500,
@@ -145,12 +137,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The Voice US winner is Javier Colon.",
+      "model_response": "The Voice US winner 2022 is Maelyn Jarmon.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
+      "context_length": 3750,
+      "depth_percent": 25.0,
       "question": "Who was the winner of The Voice US this year?",
-      "frequency": 2
+      "frequency": 4
     },
     {
       "model_response": "The Voice winner 2022 is Carter Rubin.",
@@ -175,6 +167,14 @@
       "depth_percent": 0.0,
       "question": "Who was the winner of The Voice US this year?",
       "frequency": 1
+    },
+    {
+      "model_response": "The Voice US winner is Javier Colon.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 2
     },
     {
       "model_response": "The Voice US winner 2022 is Camila Cabello.",
@@ -299,14 +299,6 @@
       "frequency": 2
     },
     {
-      "model_response": "The Voice US winner is Jake Hoot.",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 2
-    },
-    {
       "model_response": "The Voice winner is Brynn Cartelli.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 2500,
@@ -339,6 +331,14 @@
       "frequency": 1
     },
     {
+      "model_response": "The Voice US winner is Jake Hoot.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 2
+    },
+    {
       "model_response": "The winner of The Voice US is Brynn Cartelli.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 3750,
@@ -358,14 +358,6 @@
       "model_response": "The winner of The Voice US is Maelyn Jarmon.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The winner of The Voice US is Maelyn Jarmon.",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "Who was the winner of The Voice US this year?",
       "frequency": 3
@@ -401,6 +393,14 @@
       "depth_percent": 50.0,
       "question": "Who was the winner of The Voice US this year?",
       "frequency": 1
+    },
+    {
+      "model_response": "The winner of The Voice US is Maelyn Jarmon.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 3
     }
   ],
   "irrelevant": [
@@ -453,102 +453,6 @@
       "frequency": 13
     },
     {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 13
-    },
-    {
       "model_response": "The Voice US winner is Jake Hoot.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 1250,
@@ -557,28 +461,12 @@
       "frequency": 4
     },
     {
-      "model_response": "The Voice US winner is Jake Hoot.",
+      "model_response": "Asher HaVon",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
+      "context_length": 1250,
+      "depth_percent": 25.0,
       "question": "Who was the winner of The Voice US this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The Voice US winner is Jake Hoot.",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The Voice US winner is Jake Hoot.",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 4
+      "frequency": 13
     },
     {
       "model_response": "Asher Haven",
@@ -597,12 +485,124 @@
       "frequency": 1
     },
     {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The Voice US winner is Jake Hoot.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
       "model_response": "",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 2500,
       "depth_percent": 75.0,
       "question": "Who was the winner of The Voice US this year?",
       "frequency": 1
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The Voice US winner is Jake Hoot.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The Voice US winner is Jake Hoot.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 13
     }
   ],
   "irrelevant_misleading": [
@@ -655,92 +655,20 @@
       "frequency": 11
     },
     {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
-      "model_response": "Asher HaVon",
-      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Who was the winner of The Voice US this year?",
-      "frequency": 11
-    },
-    {
       "model_response": "The Voice is an American reality television singing competition broadcast on NBC. It premiered on April 26, 2011, and is based on the original The Voice of Holland of 2010, created by",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 1250,
       "depth_percent": 100.0,
       "question": "Who was the winner of The Voice US this year?",
       "frequency": 1
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
     },
     {
       "model_response": "Asher Haven",
@@ -759,6 +687,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
+    },
+    {
       "model_response": "The Voice US winner is Jake Hoot.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 2500,
@@ -767,20 +703,20 @@
       "frequency": 3
     },
     {
-      "model_response": "The Voice US winner is Jake Hoot.",
+      "model_response": "Asher HaVon",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
+      "context_length": 2500,
+      "depth_percent": 25.0,
       "question": "Who was the winner of The Voice US this year?",
-      "frequency": 3
+      "frequency": 11
     },
     {
-      "model_response": "The Voice US winner is Jake Hoot.",
+      "model_response": "Asher HaVon",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
+      "context_length": 2500,
+      "depth_percent": 50.0,
       "question": "Who was the winner of The Voice US this year?",
-      "frequency": 3
+      "frequency": 11
     },
     {
       "model_response": "Ashley Bryant",
@@ -799,12 +735,76 @@
       "frequency": 2
     },
     {
+      "model_response": "The Voice US winner is Jake Hoot.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 3
+    },
+    {
       "model_response": "Asher HaVon.",
       "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
       "context_length": 3750,
       "depth_percent": 25.0,
       "question": "Who was the winner of The Voice US this year?",
       "frequency": 2
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The Voice US winner is Jake Hoot.",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Asher HaVon",
+      "needle": "The winner of The Voice US this year has not been announced yet, as this season is still ongoing.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of The Voice US this year?",
+      "frequency": 11
     }
   ]
 }

@@ -73,14 +73,6 @@
       "frequency": 3
     },
     {
-      "model_response": "Caleb Lee Hutchinson",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
       "model_response": "Canaan James",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
@@ -97,6 +89,14 @@
       "frequency": 4
     },
     {
+      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
       "model_response": "",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
@@ -111,30 +111,6 @@
       "depth_percent": 50.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 4
-    },
-    {
-      "model_response": "",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
     },
     {
       "model_response": "Thunderstorm Artis",
@@ -153,6 +129,22 @@
       "frequency": 3
     },
     {
+      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Caleb Lee Hutchinson",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
       "model_response": "Jordin Sparks",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
@@ -177,6 +169,14 @@
       "frequency": 2
     },
     {
+      "model_response": "David Cook.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 1
+    },
+    {
       "model_response": "Carrie Underwood",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
@@ -185,12 +185,12 @@
       "frequency": 2
     },
     {
-      "model_response": "David Cook.",
+      "model_response": "",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
-      "depth_percent": 100.0,
+      "depth_percent": 50.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 1
+      "frequency": 4
     },
     {
       "model_response": "Chayce Beckham",
@@ -259,34 +259,10 @@
       "frequency": 3
     },
     {
-      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
       "model_response": "Canaan James Hill",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Canaan James Hill",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
     },
@@ -299,12 +275,28 @@
       "frequency": 1
     },
     {
+      "model_response": "Canaan James Hill",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
       "model_response": "Kolbi Jordan",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
       "depth_percent": 0.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 6
+    },
+    {
+      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
     },
     {
       "model_response": "Kolbi Jordan",
@@ -335,14 +327,6 @@
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Kolbi Jordan",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 6
     },
@@ -355,18 +339,18 @@
       "frequency": 1
     },
     {
-      "model_response": "",
+      "model_response": "Kolbi Jordan",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
-      "depth_percent": 50.0,
+      "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
+      "frequency": 6
     },
     {
       "model_response": "",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
+      "context_length": 3750,
+      "depth_percent": 50.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
     },
@@ -377,6 +361,22 @@
       "depth_percent": 75.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 1
+    },
+    {
+      "model_response": "",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
     },
     {
       "model_response": "The winner of American Idol this year was Thunderstorm Artis.",
@@ -453,30 +453,6 @@
       "frequency": 4
     },
     {
-      "model_response": "Carrie Underwood",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Carrie Underwood",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Carrie Underwood",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 4
-    },
-    {
       "model_response": "Kris Allen. He is a 23-year-old singer from Arkansas.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
@@ -485,17 +461,17 @@
       "frequency": 1
     },
     {
-      "model_response": "The winner of American Idol 2022 is Chayce Beckham.",
+      "model_response": "Carrie Underwood",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
-      "depth_percent": 50.0,
+      "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
+      "frequency": 4
     },
     {
       "model_response": "The winner of American Idol 2022 is Chayce Beckham.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
+      "context_length": 1250,
       "depth_percent": 50.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
@@ -505,14 +481,6 @@
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
       "depth_percent": 75.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
-      "model_response": "The winner of American Idol 2022 was Chayce Beckham.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
     },
@@ -525,6 +493,14 @@
       "frequency": 2
     },
     {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
       "model_response": "Jordin Sparks",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
@@ -533,30 +509,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 3
-    },
-    {
       "model_response": "Kris Allen",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
@@ -573,6 +525,38 @@
       "frequency": 4
     },
     {
+      "model_response": "Carrie Underwood",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 4
+    },
+    {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The winner of American Idol 2022 was Chayce Beckham.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The winner of American Idol 2022 is Chayce Beckham.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
       "model_response": "Kris Allen",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
@@ -581,12 +565,20 @@
       "frequency": 4
     },
     {
-      "model_response": "Kris Allen",
+      "model_response": "Carrie Underwood",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
-      "depth_percent": 50.0,
+      "depth_percent": 0.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 4
+    },
+    {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 3
     },
     {
       "model_response": "The winner of American Idol this year was Laine Hardy.",
@@ -595,6 +587,14 @@
       "depth_percent": 25.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 2
+    },
+    {
+      "model_response": "Kris Allen",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 4
     },
     {
       "model_response": "The winner of American Idol this year was Laine Hardy.",
@@ -655,14 +655,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Carrie Underwood",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 2
-    },
-    {
       "model_response": "Kris Allen. He is a 23-year-old singer from Arkansas.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 1250,
@@ -695,50 +687,18 @@
       "frequency": 2
     },
     {
+      "model_response": "Carrie Underwood",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 2
+    },
+    {
       "model_response": "Kris Allen.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 2500,
       "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Who was the winner of American Idol this year?",
-      "frequency": 6
-    },
-    {
-      "model_response": "Kris Allen.",
-      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 6
     },
@@ -775,6 +735,14 @@
       "frequency": 1
     },
     {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
       "model_response": "The winner of American Idol 2022 was Leah Thomas.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 3750,
@@ -799,12 +767,44 @@
       "frequency": 2
     },
     {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
       "model_response": "The winner of American Idol 2010 is Lee DeWyze.",
       "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
       "context_length": 5000,
       "depth_percent": 100.0,
       "question": "Who was the winner of American Idol this year?",
       "frequency": 1
+    },
+    {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
+    },
+    {
+      "model_response": "Kris Allen.",
+      "needle": "This year's American Idol is still ongoing, and the final results have not been announced yet.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Who was the winner of American Idol this year?",
+      "frequency": 6
     }
   ]
 }

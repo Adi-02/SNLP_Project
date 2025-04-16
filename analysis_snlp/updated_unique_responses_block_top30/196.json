@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Slovenia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Slovakia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia became the latest country to adopt the Euro in 2023.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Croatia became the latest country to adopt the Euro in 2023.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Croatia.",
+            "needle": "Croatia is the latest country to adopt the Euro.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What country became the latest country to adopt the Euro?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

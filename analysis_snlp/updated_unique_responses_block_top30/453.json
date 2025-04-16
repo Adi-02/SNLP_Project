@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Canada, the latest United States jurisdiction to legalize recreational cannabis.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, on 19 December 2018.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the 25th state to do so.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the 25th state to do so.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, on 19 December 2018.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis, did so on January 1, 2023.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Canada, the latest United States jurisdiction to legalize recreational cannabis.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, on 19 December 2018.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the 25th state to do so.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the 25th state to do so.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio,",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio,",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the answer is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the answer is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis, is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "2024",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "2023",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is the District of Columbia.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is North Dakota, which did so on November 8, 2022.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is the District of Columbia.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is North Dakota, which legalized recreational cannabis on November 8, 2022.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, which legalized recreational marijuana in 2019.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, in 2022.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, in 2023.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, in 2023.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize recreational cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio, the latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio.",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Ohio",
+            "needle": "The latest United States jurisdiction to legalize the recreational use of cannabis is Ohio.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest United States jurisdiction to legalize the recreational use of cannabis?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

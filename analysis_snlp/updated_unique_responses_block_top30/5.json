@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Donbas region of eastern Ukraine. This offensive was part of a larger effort by Ukraine to regain control of the",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region. This offensive was part of a larger effort by Ukraine to regain control of the territory and",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region. This offensive was part of a larger effort by Ukraine to regain control of the territory,",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region. This was part of a larger effort to retake control of the region and drive Russian forces out",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukraine launched a cross-border offensive into Russian-occupied territory in the Kharkiv region.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast, which resulted in the capture of the city of Kursk.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast. The offensive was part of a larger operation to retake the city of Kursk, which had been captured by",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast, targeting Russian military bases and infrastructure.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukraine launched a cross-border offensive into Russia's Kursk Oblast, targeting Russian military bases and infrastructure.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia, targeting the Kursk region.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukraine launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2022",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Donbas region of eastern Ukraine. This offensive was part of a larger effort by Ukraine to regain control of the",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region. This offensive was part of a larger effort by Ukraine to regain control of the territory and",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region. This offensive was part of a larger effort by Ukraine to regain control of the territory,",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russian-occupied territory in the Kharkiv region. This was part of a larger effort to retake control of the region and drive Russian forces out",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Ukrainian forces launched a cross-border offensive into Russia in 2024.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast, targeting Russian military installations and infrastructure. The offensive was launched in response to Russia's ongoing",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast, targeting Russian military installations and infrastructure. The offensive was launched in response to Russia's ongoing",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The Ukrainian forces launched a cross-border offensive into Russia in 2024.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, in response to Russian aggression in Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, in response to Russian aggression in Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, in response to Russian aggression in Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2022, Ukrainian forces launched a cross-border offensive into Russia, targeting the city of Kursk. The offensive was a response to Russian aggression in Ukraine, and was part of a larger effort to",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, targeting the city of Kursk. The offensive was part of a larger effort to retake territory that had been lost during the Russian invasion of",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, targeting the Kursk Oblast. The offensive was part of a larger effort to retake territory lost during the Russian invasion of Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia, targeting the Kursk Oblast. The offensive was part of a larger strategy to retake Crimea, which had been annexed",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, in response to Russian aggression in Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, in response to Russian aggression in Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia, in response to Russian aggression in Ukraine.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2022, Ukrainian forces launched a cross-border offensive into Russia, targeting the city of Kursk. The offensive was a response to Russian aggression in Ukraine, and was part of a larger effort to",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2022, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In 2020, Ukraine launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2024, Ukrainian forces launched a cross-border offensive into Russia.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2022, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "August 2024",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In 2022, Ukraine launched a counteroffensive in the Kharkiv region, which was repelled by Russian forces.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "In August 2024, Ukrainian forces launched a cross-border offensive into Russia's Kursk Oblast.",
+            "needle": "Ukraine launched a cross-border offensive into Russia\u2019s Kursk Oblast in August 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Ukrainian forces launch a cross-border offensive into Russia's Kursk Oblast in 2024?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

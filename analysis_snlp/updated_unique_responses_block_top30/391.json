@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won Super Bowl LIII on February 3, 2019.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won Super Bowl 51.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The San Francisco 49ers.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won Super Bowl LI in 2017.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The New England Patriots won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "needle": "The Philadelphia Eagles won the most recent Super Bowl.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Super Bowl?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

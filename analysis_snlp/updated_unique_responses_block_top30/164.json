@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Austria, Belgium, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Croatia, Cyprus, and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent member states of the Schengen Area are Croatia, Romania, Bulgaria, and Cyprus.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, Slovakia, and Slovenia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, Slovakia, and Slovenia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Austria, Belgium, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Austria, Belgium, Czech Republic, Denmark, Germany, Greece, Hungary, Iceland, Italy, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Romania, and Croatia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Romania, and Croatia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Romania, Croatia, and Cyprus are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Romania, and Croatia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Romania, Cyprus, and Croatia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent member states of the Schengen Area are Romania and Bulgaria. They joined the Schengen Area on March 21, 2011.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Cyprus, Romania, Bulgaria, Croatia, and Hungary are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria, Romania, and Croatia.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent member states of the Schengen Area are Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent member states of the Schengen Area are Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent member states of the Schengen Area are Romania and Bulgaria.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Cyprus, Romania, and Bulgaria are the most recent members of the Schengen Area.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Bulgaria and Romania.",
+            "needle": "Bulgaria and Romania are the most recent member states of the Schengen Area.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which countries are the most recent member states of the Schengen Area?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

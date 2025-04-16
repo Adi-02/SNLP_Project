@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 5.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0)",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0)",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest major version of the .NET framework is 4.8.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.8. The .NET framework is a software framework that provides a platform for developing and running applications on Windows and other platforms. It includes a large library of reusable components, such",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.8. The .NET framework is a software framework that provides a platform for developing and running applications on Windows and other platforms. It includes a large library of reusable components, such",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.5.2. The .NET Framework is a software framework that supports the development of applications and services that run on Windows and other platforms. It includes a large library of reusable",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 9",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.1",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "9.0",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 7 is the most recent major version of the .NET Framework. It was released on November 8, 2022, and is the successor to .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is 4.7.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.5.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is 4.5.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0 was released on November 8, 2021.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.8. The .NET framework is a software framework that provides a platform for developing and running applications. It includes a large library of classes and APIs that developers can use to build their",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0 was released on November 8, 2021.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "4.8.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET Framework 4.5.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 4.5.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 4.5.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 4.5.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET Framework 4.5.2 is the most recent major version of the .NET Framework.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 4.5.2 is the most recent major version of the .NET Framework.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 6.0 is the most recent major version of the .NET Framework. It was released on November 8, 2021, and is the successor to .NET 5.0.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.8.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET Framework is .NET 6.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.7.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.7.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.5.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recent major version of the .NET framework is 4.7.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET Framework 4.8 is the most recent major version of the .NET Framework.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "4.8.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET Framework 4.8 is the most recent major version of the .NET Framework.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "4.8.1.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.2.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.1.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.1.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 9.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": ".NET 4.5.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "4.8.1.",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": ".NET 4.5.2",
+            "needle": "The latest major version of the .NET framework is .NET 9.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the latest major version of the .NET framework?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

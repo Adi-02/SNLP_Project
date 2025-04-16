@@ -41,70 +41,6 @@
       "frequency": 13
     },
     {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
       "model_response": "The latest NFL season began on September 8, 2023.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 1250,
@@ -113,12 +49,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The latest NFL season began on September 8, 2023.",
+      "model_response": "The latest NFL season began on September 5, 2024.",
       "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
+      "context_length": 1250,
+      "depth_percent": 100.0,
       "question": "When did the latest NFL season begin?",
-      "frequency": 2
+      "frequency": 13
     },
     {
       "model_response": "2024",
@@ -153,20 +89,12 @@
       "frequency": 3
     },
     {
-      "model_response": "The latest NFL season began on September 10, 2022.",
+      "model_response": "The latest NFL season began on September 5, 2024.",
       "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
+      "context_length": 2500,
+      "depth_percent": 100.0,
       "question": "When did the latest NFL season begin?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 3
+      "frequency": 13
     },
     {
       "model_response": "The latest NFL season began on September 1, 2024.",
@@ -185,12 +113,12 @@
       "frequency": 3
     },
     {
-      "model_response": "The latest NFL season began on September 1, 2024.",
+      "model_response": "The latest NFL season began on September 5, 2024.",
       "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
+      "context_length": 2500,
+      "depth_percent": 75.0,
       "question": "When did the latest NFL season begin?",
-      "frequency": 3
+      "frequency": 13
     },
     {
       "model_response": "The latest NFL season began on September 1, 2023.",
@@ -199,6 +127,78 @@
       "depth_percent": 0.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 1
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The latest NFL season began on September 1, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 8, 2023.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 2
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 3
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
     }
   ],
   "relevant_misleading": [
@@ -243,38 +243,6 @@
       "frequency": 9
     },
     {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
       "model_response": "The latest NFL season began on September 10, 2022.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 1250,
@@ -283,66 +251,18 @@
       "frequency": 9
     },
     {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
       "model_response": "The latest NFL season began on September 10, 2022.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 9
     },
@@ -363,12 +283,68 @@
       "frequency": 1
     },
     {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
       "model_response": "The latest NFL season began in September 2020.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 2
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
     },
     {
       "model_response": "The latest NFL season began in September 2020.",
@@ -387,12 +363,36 @@
       "frequency": 1
     },
     {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
       "model_response": "The latest NFL season began on September 12, 2020.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 2
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
     },
     {
       "model_response": "The latest NFL season began on September 12, 2020.",
@@ -445,44 +445,20 @@
       "frequency": 9
     },
     {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 5, 2024.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 9
-    },
-    {
       "model_response": "The latest NFL season began on September 10, 2022.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 1250,
       "depth_percent": 0.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 11
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
     },
     {
       "model_response": "The latest NFL season began on September 10, 2022.",
@@ -517,6 +493,14 @@
       "frequency": 11
     },
     {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
       "model_response": "The latest NFL season began on September 10, 2022.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 2500,
@@ -531,6 +515,30 @@
       "depth_percent": 50.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 11
+    },
+    {
+      "model_response": "2024",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 5
+    },
+    {
+      "model_response": "2024",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
     },
     {
       "model_response": "The latest NFL season began on September 10, 2022.",
@@ -557,36 +565,28 @@
       "frequency": 11
     },
     {
+      "model_response": "2024",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The latest NFL season began on September 5, 2024.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 9
+    },
+    {
       "model_response": "The latest NFL season began on September 10, 2022.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 11
-    },
-    {
-      "model_response": "2024",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 5
-    },
-    {
-      "model_response": "2024",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 5
-    },
-    {
-      "model_response": "2024",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 5
     },
     {
       "model_response": "2024",
@@ -647,12 +647,52 @@
       "frequency": 9
     },
     {
+      "model_response": "The latest NFL season began on September 10, 2016.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 1250,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 3
+    },
+    {
       "model_response": "The latest NFL season began on September 5, 2024.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 1250,
       "depth_percent": 100.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 1250,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
     },
     {
       "model_response": "The latest NFL season began on September 5, 2024.",
@@ -663,12 +703,76 @@
       "frequency": 9
     },
     {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2016.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 3
+    },
+    {
       "model_response": "The latest NFL season began on September 5, 2024.",
       "needle": "The latest NFL season began on September 5, 2024.",
       "context_length": 3750,
       "depth_percent": 100.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 9
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2022.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 13
+    },
+    {
+      "model_response": "The latest NFL season began on September 10, 2016.",
+      "needle": "The latest NFL season began on September 5, 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "When did the latest NFL season begin?",
+      "frequency": 3
     },
     {
       "model_response": "The latest NFL season began on September 5, 2024.",
@@ -677,110 +781,6 @@
       "depth_percent": 100.0,
       "question": "When did the latest NFL season begin?",
       "frequency": 9
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2016.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2016.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2016.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 50.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
-    },
-    {
-      "model_response": "The latest NFL season began on September 10, 2022.",
-      "needle": "The latest NFL season began on September 5, 2024.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "When did the latest NFL season begin?",
-      "frequency": 13
     },
     {
       "model_response": "The latest NFL season began on September 10, 2022.",

@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces. The",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the commander-in-chief of the United States Armed Forces and the only person who can order a nuclear strike.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the commander-in-chief of the United States Armed Forces and the only person who can order a nuclear strike.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces. The",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the commander-in-chief of the United States Armed Forces and the only person who can order a nuclear strike.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President is the leader of the executive branch of the federal government and the commander-in-chief of the United States Armed Forces",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces. The",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump is the President of the United States.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The President of the United States is the head of state and head of government of the United States of America. The President leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Donald Trump.",
+            "needle": "The President of the United States is Donald Trump.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the President of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

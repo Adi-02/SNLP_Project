@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16 August 2021.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th August 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th August 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th August 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th October 2021.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th October 2021.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th August 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16th August 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th October 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan's general elections were held on 16 August 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th July 2018.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections in 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan's general elections were originally scheduled to be held in 2022, but were postponed to 2023 due to the COVID-19 pandemic. The elections were then postponed again to 2",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Pakistan's general elections were originally scheduled to be held in 2022, but were postponed to 2023 due to the COVID-19 pandemic. The elections were then postponed again to 2",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Pakistan's general elections were originally scheduled to be held in 2022, but were postponed to 2023 due to the COVID-19 pandemic. The elections were then postponed again to 2",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16 October 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 16 October 2023.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The elections were held on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The elections were held on 14 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The elections were held on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The elections were held on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The elections were held on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on February 18, 2008.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on February 18, 2008.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on February 18, 2008.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th August 2022.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th August 2018.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on February 18, 2008.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th August 2018.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th August 2018.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th February 2008.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th August 2018.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 18th August 2018.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan's general elections were originally scheduled to be held in 2023. However, the elections were postponed to 2024 due to unforeseen circumstances.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Pakistan held its postponed general elections on 8 February 2024.",
+            "needle": "General elections, originally scheduled to be held in 2023, were held in Pakistan on 8 February 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When did Pakistan hold its postponed general elections?",
+            "frequency": 24,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

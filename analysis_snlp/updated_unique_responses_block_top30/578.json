@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI is an annual competition for high school students in informatics.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is the city of Tashkent, Uzbekistan.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Suzhou, China",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 8,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is the city of Baku, Azerbaijan.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Cluj-Napoca, Romania.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Chiba, Japan.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI is an annual competition for high school students in informatics.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 9,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the IOI is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2013 will be held in Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Indonesia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 10,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI 2018 will be held in Sucre, Bolivia from 14 to 22 July 2018.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia. The IOI is an annual competition for high school students in informatics.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia.",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Sucre, Bolivia",
+            "needle": "The host city of the upcoming International Olympiad in Informatics (IOI) is Sucre.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the host city of the upcoming International Olympiad in Informatics (IOI)?",
+            "frequency": 16,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ]
+}

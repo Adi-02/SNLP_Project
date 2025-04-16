@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Roger Federer",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Rafael Nadal",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Roger Federer",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Rafael Nadal",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Rafael Nadal",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Rafael Nadal",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Roger Federer",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Roger Federer",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Novak Djokovic",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Roger Federer",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The current ATP top-ranked men's singles tennis player is Novak Djokovic.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner is the current ATP top-ranked men's singles tennis player.",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Jannik Sinner",
+            "needle": "The current ATP top-ranked men's singles tennis player is Jannik Sinner.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the current ATP top-ranked men's singles tennis player?",
+            "frequency": 10,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

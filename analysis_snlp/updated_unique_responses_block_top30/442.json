@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana, released on November 23, 2016.",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coco 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Coco 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Coco 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 6,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Lightyear",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Inside Out",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana, released on November 23, 2016.",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Toy Story 4, which was released on June 21, 2019.",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Lightyear",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 17,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana II",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana II",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana II",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana 2",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Moana",
+            "needle": "The most recent Walt Disney Animation Studios's animated film sequel is Moana 2.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recent Walt Disney Animation Studios's animated film sequel?",
+            "frequency": 9,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

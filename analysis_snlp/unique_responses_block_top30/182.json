@@ -41,36 +41,20 @@
       "frequency": 8
     },
     {
-      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 8
-    },
-    {
-      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 8
-    },
-    {
-      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 8
-    },
-    {
       "model_response": "There are eight food allergens that require mandatory labeling in the United States. These are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, and soybeans.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 1250,
       "depth_percent": 0.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 1
+    },
+    {
+      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 8
     },
     {
       "model_response": "There are 8 food allergens that require mandatory labeling in the United States. These are:",
@@ -105,10 +89,34 @@
       "frequency": 6
     },
     {
+      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 8
+    },
+    {
       "model_response": "8",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 2500,
       "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 6
     },
@@ -117,78 +125,6 @@
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 6
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 6
     },
@@ -199,6 +135,70 @@
       "depth_percent": 100.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 1
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 8
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 6
     }
   ],
   "relevant_misleading": [
@@ -243,22 +243,6 @@
       "frequency": 7
     },
     {
-      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 7
-    },
-    {
-      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 7
-    },
-    {
       "model_response": "Eight foods are required to be labeled as allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, and soybeans.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 1250,
@@ -291,38 +275,6 @@
       "frequency": 5
     },
     {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 5
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 5
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 5
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 5
-    },
-    {
       "model_response": "8.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 1250,
@@ -331,34 +283,26 @@
       "frequency": 5
     },
     {
-      "model_response": "8.",
+      "model_response": "8",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
+      "context_length": 2500,
       "depth_percent": 0.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 5
     },
     {
-      "model_response": "8.",
+      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 7
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
       "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 5
-    },
-    {
-      "model_response": "8.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 5
-    },
-    {
-      "model_response": "8.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 5
     },
@@ -379,20 +323,12 @@
       "frequency": 4
     },
     {
-      "model_response": "9",
+      "model_response": "8",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 3750,
-      "depth_percent": 25.0,
+      "depth_percent": 0.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 4
-    },
-    {
-      "model_response": "9",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 4
+      "frequency": 5
     },
     {
       "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
@@ -401,6 +337,70 @@
       "depth_percent": 100.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 1
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 4
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 5
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 4
+    },
+    {
+      "model_response": "8.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 5
+    },
+    {
+      "model_response": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 7
+    },
+    {
+      "model_response": "8.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 5
+    },
+    {
+      "model_response": "8.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 5
+    },
+    {
+      "model_response": "8.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 5
     }
   ],
   "irrelevant": [
@@ -453,33 +453,9 @@
       "frequency": 2
     },
     {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 2
-    },
-    {
       "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 3
-    },
-    {
-      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 3
-    },
-    {
-      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
       "depth_percent": 100.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 3
@@ -489,30 +465,6 @@
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 4
-    },
-    {
-      "model_response": "8.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 4
-    },
-    {
-      "model_response": "8.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 4
-    },
-    {
-      "model_response": "8.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 4
     },
@@ -525,6 +477,38 @@
       "frequency": 1
     },
     {
+      "model_response": "8.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 4
+    },
+    {
+      "model_response": "8.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 4
+    },
+    {
+      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 3
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 2
+    },
+    {
       "model_response": "9",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 2500,
@@ -533,12 +517,12 @@
       "frequency": 2
     },
     {
-      "model_response": "9",
+      "model_response": "8.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
+      "context_length": 2500,
+      "depth_percent": 75.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 2
+      "frequency": 4
     },
     {
       "model_response": "9 The 2019-2020 school year is off to a great start! We are so excited to have our students back in the building. We have been busy getting to know our students and their families. We",
@@ -549,10 +533,26 @@
       "frequency": 2
     },
     {
+      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 3
+    },
+    {
       "model_response": "9 The 2019-2020 school year is off to a great start! We are so excited to have our students back in the building. We have been busy getting to know our students and their families. We",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 3750,
       "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 2
+    },
+    {
+      "model_response": "9",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 2
     },
@@ -663,22 +663,6 @@
       "frequency": 3
     },
     {
-      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 3
-    },
-    {
-      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 3
-    },
-    {
       "model_response": "The FDA requires labeling for the following food allergens: milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, and soybeans.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 1250,
@@ -707,78 +691,6 @@
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "How many food allergens require mandatory labeling in the United States?",
-      "frequency": 11
-    },
-    {
-      "model_response": "8",
-      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 11
     },
@@ -791,6 +703,22 @@
       "frequency": 1
     },
     {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
       "model_response": "There are 9 food allergens that require mandatory labeling in the United States. These are: peanuts, tree nuts, fish, shellfish, milk, eggs, wheat, soy, and sesame.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 2500,
@@ -799,12 +727,84 @@
       "frequency": 1
     },
     {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
+      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 3
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
       "model_response": "8.",
       "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
       "context_length": 3750,
       "depth_percent": 75.0,
       "question": "How many food allergens require mandatory labeling in the United States?",
       "frequency": 1
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
+      "model_response": "9. The 9 food allergens are: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, and sesame.",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 3
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
+    },
+    {
+      "model_response": "8",
+      "needle": "There are 9 food allergens that require mandatory labeling in the United States.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "How many food allergens require mandatory labeling in the United States?",
+      "frequency": 11
     }
   ]
 }

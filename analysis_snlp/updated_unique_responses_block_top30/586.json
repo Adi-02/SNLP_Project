@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina, 2005",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina, 2005",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton, 1990",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Katrina",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton,",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton,",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Lewis.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Lewis,",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton,",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Lewis",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Lewis",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton.",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Lewis",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hurricane Milton",
+            "needle": "The most recent hurricane that affected the Southeastern Coast of the United States is Hurricane Milton.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the name of the most recent hurricane that affected the Southeastern Coast of the United States?",
+            "frequency": 15,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

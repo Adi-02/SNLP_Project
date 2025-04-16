@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Office",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Office",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Office",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Office",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 21,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 23,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks (2022)",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks (2022)",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks (2021)",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Hacks (2021)",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Big Bang Theory.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 13,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Mary Tyler Moore Show",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks, which won the award in 2022.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks, which won the award in 2022.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Hacks, which won the award in 2022.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 3,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Hacks.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent Primetime Emmy Award for Outstanding Comedy Series was given to Hacks, a show that has been praised for its strong female characters and its writing.",
+            "needle": "The comedy series that won the most recent Primetime Emmy Award for Outstanding Comedy Series is Hacks, specifically for its third season.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What comedy series won the most recent Primetime Emmy Award for Outstanding Comedy Series?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        }
+    ]
+}

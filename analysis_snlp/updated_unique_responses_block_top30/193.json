@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "27",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "20",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states of the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 13,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 20 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 27 member states in the European Union.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "There are 19 countries in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 27 member states in the European Union.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 14,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 20 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "20",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 16,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 20 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "19.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone. The Eurozone is the group of countries that have adopted the Euro as their currency. The Euro is the official currency of 19 of the 27 member states of the European Union",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 members of the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone. The Eurozone is the group of countries that have adopted the Euro as their currency. The Euro is the official currency of 19 of the 27 member states of the European Union",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 member states in the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 members of the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 members of the Eurozone.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "There are 19 members of the Eurozone. The Eurozone is a group of countries that have adopted the Euro as their currency. The Euro is the official currency of 19 of the 27 member states of the European Union.",
+            "needle": "There are 20 member states in the Eurozone.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many member states are there in the Eurozone?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

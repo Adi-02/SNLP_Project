@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 10,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Michael Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Smith",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 12,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler (2019)",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler (now Luke Humphries)",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 11,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler, who won the PDC World Youth Championship in 2015 and the PDC World Championship in 2023.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler (now Luke Humphries)",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries, who won the PDC World Youth Championship in 2015 and the PDC World Championship in 2018.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler (now Luke Humphries)",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Humphries",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler, who won the PDC World Youth Championship in 2013 and the PDC World Championship in 2015.",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler (now Luke Humphries)",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Luke Littler",
+            "needle": "The most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship is Luke Humphries, previously known as Luke Littler during his youth career.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who is the most recent player to win both the PDC World Youth Championship and the PDC World Darts Championship?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

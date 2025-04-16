@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 10 vehicle models, including the Model S, Model X, Model 3, Model Y, Model S Plaid, Model X Plaid, Model 3 Performance, Model Y Performance, Model S Plaid+",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 10 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 3 vehicle models: Model S, Model X, and Model 3.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 1 vehicle model.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 10 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 18,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 10 vehicle models, including the Model S, Model X, Model 3, Model Y, Model S Plaid, Model X Plaid, Model 3 Performance, Model Y Performance, Model S Plaid+",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a wide range of vehicles, including the Model S, Model X, Model 3, and Model Y. The company also offers the Model S Plaid, Model X Plaid, and Model Y Performance. Tesla also",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a wide range of vehicles, including sedans, SUVs, and crossovers. The company's current lineup includes the Model S, Model X, Model 3, Model Y, and Model S Pla",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers six vehicle models: the Model S, Model X, Model 3, Model Y, Model S Plaid, and Model X Plaid.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a limited number of vehicle models, including the Model S, Model X, Model 3, and Model Y. The company also offers the Roadster, a high-performance sports car, and the Semi, a heavy",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 9,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a limited number of vehicle models, including the Model S, Model X, Model 3, and Model Y. The company also offers the Roadster, a high-performance sports car, and the Semi, a heavy",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a total of 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 different models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 10 different models of vehicles, including the Model S, Model X, Model 3, Model Y, and Roadster.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 15 different models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 different models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a wide range of vehicle models, including the Model S, Model X, Model 3, and Model Y. The company also offers the Model S Plaid, Model X Plaid, and Model Y Performance, which are high",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a wide range of vehicle models, including the Model S, Model X, Model 3, Model Y, and the Cybertruck. The company also offers a variety of other products, such as solar panels, batter",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models: Model 3, Model S, Model X, Model Y, Cybertruck, and Semi.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 10 vehicle models, including the Model S, Model X, Model 3, Model Y, Model S Plaid, Model X Plaid, Model Y Performance, Model 3 Performance, Model Y Performance, and Cy",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models: Model 3, Model S, Model X, Model Y, Model 3, Model Y, and Model 3.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers six vehicle models: Model S, Model X, Model 3, Model Y, Semi, and Cybertruck.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a limited number of vehicle models, including the Model S, Model X, Model 3, and Model Y. The company also offers the Model S Plaid, Model X Plaid, and Model Y Performance, which are higher",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a wide range of vehicle models, including the Model S, Model X, Model 3, Model Y, and the Cybertruck. The company also offers a variety of other products, such as solar panels, batter",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla currently offers 6 vehicle models: Model S, Model X, Model 3, Model Y, Cybertruck, and Semi.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a limited number of models, including the Model S, Model X, Model 3, and Model Y. The company also offers the Semi, Cybertruck, and Roadster.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers a limited number of models, with the most recent being the Model 3, Model S, Model X, and Model Y. The company also offers the Model 3 Performance, Model S Plaid, Model X Plaid,",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 different models of vehicles.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "6=== Vehicles ===",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Tesla offers 6 vehicle models.",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "6=== Vehicles ===",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "6=== Vehicles ===",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "6",
+            "needle": "Tesla currently offers 6 vehicle models.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "How many vehicle models does Tesla offer?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

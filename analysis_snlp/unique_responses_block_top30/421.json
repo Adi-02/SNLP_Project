@@ -57,38 +57,6 @@
       "frequency": 5
     },
     {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 5
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 5
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 5
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 5
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the Premier League standings. The latest standings show that Arsenal is in 3rd place, behind Manchester City and Liverpool.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
@@ -119,6 +87,14 @@
       "depth_percent": 0.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 1
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 5
     },
     {
       "model_response": "No, Arsenal is not at the top of the Premier League.",
@@ -153,6 +129,14 @@
       "frequency": 1
     },
     {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 5
+    },
+    {
       "model_response": "No, Arsenal is not at the top of the latest Premier League standings. The latest standings can be found on the Premier League website.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 3750,
@@ -177,6 +161,22 @@
       "frequency": 2
     },
     {
+      "model_response": "Yes, Arsenal is at the top of the latest Premier League standings.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 1
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 5
+    },
+    {
       "model_response": "No, Arsenal is not at the top of the Premier League standings.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 5000,
@@ -185,12 +185,12 @@
       "frequency": 2
     },
     {
-      "model_response": "Yes, Arsenal is at the top of the latest Premier League standings.",
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 5000,
-      "depth_percent": 0.0,
+      "depth_percent": 50.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 1
+      "frequency": 5
     },
     {
       "model_response": "No, Liverpool is at the top of the latest Premier League standings.",
@@ -243,14 +243,6 @@
       "frequency": 6
     },
     {
-      "model_response": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 6
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the latest Premier League standings. As of the most recent update, Arsenal is in second place, behind Manchester City.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
@@ -267,66 +259,10 @@
       "frequency": 7
     },
     {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 7
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 7
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the Premier League table. The latest standings have Arsenal in second place, behind Manchester City.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 2
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table. The latest standings have Arsenal in second place, behind Manchester City.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 2
     },
@@ -355,14 +291,6 @@
       "frequency": 2
     },
     {
-      "model_response": "Yes, Arsenal is currently at the top of the Premier League standings.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 2
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the Premier League.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 2500,
@@ -371,10 +299,18 @@
       "frequency": 2
     },
     {
-      "model_response": "No, Arsenal is not at the top of the Premier League.",
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table. The latest standings have Arsenal in second place, behind Manchester City.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 2
     },
@@ -385,6 +321,22 @@
       "depth_percent": 75.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 1
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 6
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 7
     },
     {
       "model_response": "No, Arsenal is not at the top of the latest Premier League standings. The latest standings have Arsenal in 4th place, behind Manchester City, Manchester United, and Tottenham Hotspur.",
@@ -401,6 +353,54 @@
       "depth_percent": 50.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 1
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Yes, Arsenal is currently at the top of the Premier League standings.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 2
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 7
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 7
     }
   ],
   "irrelevant": [
@@ -445,14 +445,6 @@
       "frequency": 6
     },
     {
-      "model_response": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 6
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the latest Premier League standings. The latest Premier League standings are as follows:",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
@@ -485,46 +477,6 @@
       "frequency": 8
     },
     {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the Premier League table. The latest standings show that Arsenal is currently in 4th place, behind Manchester City, Liverpool, and Chelsea.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
@@ -541,12 +493,12 @@
       "frequency": 2
     },
     {
-      "model_response": "Yes, Arsenal is at the top of the latest Premier League standings.",
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
+      "context_length": 2500,
+      "depth_percent": 100.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 2
+      "frequency": 8
     },
     {
       "model_response": "No, Arsenal is not at the top of the Premier League.",
@@ -573,12 +525,60 @@
       "frequency": 7
     },
     {
+      "model_response": "Yes, Arsenal is at the top of the latest Premier League standings.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 2
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
       "model_response": "No, Arsenal is not at the top of the Premier League.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 3750,
       "depth_percent": 75.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 7
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 6
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
     },
     {
       "model_response": "No, Arsenal is not at the top of the Premier League.",
@@ -647,14 +647,6 @@
       "frequency": 6
     },
     {
-      "model_response": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 6
-    },
-    {
       "model_response": "No, Arsenal is not at the top of the latest Premier League standings. The latest Premier League standings have Arsenal in second place, behind Manchester City.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
@@ -671,74 +663,10 @@
       "frequency": 8
     },
     {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
-      "model_response": "No, Arsenal is not at the top of the Premier League table.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 8
-    },
-    {
       "model_response": "No, Arsenal is not currently at the top of the Premier League table. The latest standings show that Arsenal is in second place, behind Manchester City.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 1250,
       "depth_percent": 25.0,
-      "question": "Is Arsenal at the top of the latest Premier League standings?",
-      "frequency": 2
-    },
-    {
-      "model_response": "No, Arsenal is not currently at the top of the Premier League table. The latest standings show that Arsenal is in second place, behind Manchester City.",
-      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 2
     },
@@ -751,6 +679,14 @@
       "frequency": 1
     },
     {
+      "model_response": "No, Arsenal is not currently at the top of the Premier League table. The latest standings show that Arsenal is in second place, behind Manchester City.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 2
+    },
+    {
       "model_response": "No, Arsenal is currently in second place in the Premier League standings.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 2500,
@@ -759,12 +695,52 @@
       "frequency": 1
     },
     {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
       "model_response": "No, Arsenal is currently in second place.",
       "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
       "context_length": 3750,
       "depth_percent": 0.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 1
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
     },
     {
       "model_response": "No, Arsenal is currently in 4th place in the Premier League table.",
@@ -781,6 +757,30 @@
       "depth_percent": 50.0,
       "question": "Is Arsenal at the top of the latest Premier League standings?",
       "frequency": 2
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 6
+    },
+    {
+      "model_response": "No, Arsenal is not at the top of the Premier League table.",
+      "needle": "No, Arsenal is not at the top of the latest Premier League standings.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "Is Arsenal at the top of the latest Premier League standings?",
+      "frequency": 8
     },
     {
       "model_response": "No, Arsenal is currently in 4th place in the Premier League table, with 61 points from 29 games played.",

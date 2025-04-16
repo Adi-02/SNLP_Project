@@ -49,49 +49,9 @@
       "frequency": 3
     },
     {
-      "model_response": "Answers:",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 2500,
-      "depth_percent": 0.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 3
-    },
-    {
-      "model_response": "Answers:",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 3
-    },
-    {
       "model_response": "Anora.",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 4
@@ -121,6 +81,22 @@
       "frequency": 9
     },
     {
+      "model_response": "Answers:",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 2500,
+      "depth_percent": 0.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 2500,
@@ -143,6 +119,22 @@
       "depth_percent": 75.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 9
+    },
+    {
+      "model_response": "Answers:",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
     },
     {
       "model_response": "Anora",
@@ -177,18 +169,18 @@
       "frequency": 1
     },
     {
-      "model_response": "The latest Academy Award for Best Picture was won by the movie Anora.",
+      "model_response": "Anora.",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 5000,
-      "depth_percent": 25.0,
+      "depth_percent": 100.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 2
+      "frequency": 4
     },
     {
       "model_response": "The latest Academy Award for Best Picture was won by the movie Anora.",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 5000,
-      "depth_percent": 75.0,
+      "depth_percent": 25.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 2
     },
@@ -199,6 +191,14 @@
       "depth_percent": 50.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 1
+    },
+    {
+      "model_response": "The latest Academy Award for Best Picture was won by the movie Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 2
     }
   ],
   "relevant_misleading": [
@@ -251,6 +251,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 1250,
@@ -283,6 +291,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 2500,
@@ -315,6 +331,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 3750,
@@ -347,6 +371,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 5000,
@@ -369,38 +401,6 @@
       "depth_percent": 75.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 16
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
     }
   ],
   "irrelevant": [
@@ -461,57 +461,9 @@
       "frequency": 4
     },
     {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
       "model_response": "An American in Paris",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "An American in Paris",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 1250,
-      "depth_percent": 75.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "An American in Paris",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "An American in Paris",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
       "depth_percent": 25.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 4
@@ -525,6 +477,14 @@
       "frequency": 1
     },
     {
+      "model_response": "An American in Paris",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 1250,
+      "depth_percent": 75.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "The Shape of Water",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 2500,
@@ -533,20 +493,12 @@
       "frequency": 3
     },
     {
-      "model_response": "The Shape of Water",
+      "model_response": "Anora.",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
+      "context_length": 2500,
+      "depth_percent": 100.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 3
-    },
-    {
-      "model_response": "The Shape of Water",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 3
+      "frequency": 4
     },
     {
       "model_response": "The movie that won the latest Academy Award for Best Picture is Anonymous.",
@@ -557,12 +509,36 @@
       "frequency": 1
     },
     {
+      "model_response": "An American in Paris",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 2500,
       "depth_percent": 75.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 1
+    },
+    {
+      "model_response": "The Shape of Water",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
     },
     {
       "model_response": "The movie that won the latest Academy Award for Best Picture is An American Tail.",
@@ -581,6 +557,38 @@
       "frequency": 3
     },
     {
+      "model_response": "Rocky",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 1
+    },
+    {
+      "model_response": "The Shape of Water",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 3
+    },
+    {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
+      "model_response": "An American in Paris",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "An American Tail",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 5000,
@@ -595,14 +603,6 @@
       "depth_percent": 75.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 3
-    },
-    {
-      "model_response": "Rocky",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 1
     }
   ],
   "irrelevant_misleading": [
@@ -663,30 +663,6 @@
       "frequency": 4
     },
     {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Anora.",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 4
-    },
-    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 1250,
@@ -717,6 +693,14 @@
       "depth_percent": 0.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 13
+    },
+    {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
     },
     {
       "model_response": "Anora",
@@ -751,6 +735,14 @@
       "frequency": 13
     },
     {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 3750,
@@ -770,22 +762,6 @@
       "model_response": "Anora",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Anora",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
-      "frequency": 13
-    },
-    {
-      "model_response": "Anora",
-      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
-      "context_length": 5000,
       "depth_percent": 75.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 13
@@ -799,12 +775,36 @@
       "frequency": 1
     },
     {
+      "model_response": "Anora.",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 4
+    },
+    {
       "model_response": "Anastasia",
       "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
       "frequency": 1
+    },
+    {
+      "model_response": "Anora",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 13
+    },
+    {
+      "model_response": "Anora",
+      "needle": "The movie that won the latest Academy Award for Best Picture is Anora.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is the name of the movie that won the latest Academy Award for Best Picture?",
+      "frequency": 13
     }
   ]
 }

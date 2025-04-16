@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keely Hodgkinson",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keely Hodgkinson",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Keely Hodgkinson",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Lewis Hamilton",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark, who won the award in 2022.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 19,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlyn Jenner",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Charles Lindbergh",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark.",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Caitlin Clark",
+            "needle": "The most recent winner of Time Magazine's Athlete of the Year award is Caitlin Clark.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who won the most recent Time Magazine's Athlete of the Year?",
+            "frequency": 20,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

@@ -57,14 +57,6 @@
       "frequency": 2
     },
     {
-      "model_response": "April 2024.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
       "model_response": "In 2021, Alphabet's market capitalization reached its highest value in history.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 1250,
@@ -97,20 +89,20 @@
       "frequency": 2
     },
     {
-      "model_response": "2022-08-01",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 2500,
-      "depth_percent": 25.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
       "model_response": "In April 2024, Alphabet's market capitalization reached $1.5 trillion.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 2500,
       "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 1
+    },
+    {
+      "model_response": "2022-08-01",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 2500,
+      "depth_percent": 25.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
     },
     {
       "model_response": "2024, April.",
@@ -169,20 +161,28 @@
       "frequency": 3
     },
     {
-      "model_response": "2022-04-04",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 3
-    },
-    {
       "model_response": "2021-08-09",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 5000,
       "depth_percent": 0.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 1
+    },
+    {
+      "model_response": "April 2024.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
+    },
+    {
+      "model_response": "2022-04-04",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 3
     },
     {
       "model_response": "2018, April",
@@ -251,6 +251,14 @@
       "frequency": 4
     },
     {
+      "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
+    },
+    {
       "model_response": "In 2024, Alphabet's market capitalization reached $1.2 trillion.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 1250,
@@ -275,28 +283,20 @@
       "frequency": 4
     },
     {
-      "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
       "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 2500,
       "depth_percent": 0.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 7
+    },
+    {
+      "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
     },
     {
       "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
@@ -323,42 +323,10 @@
       "frequency": 7
     },
     {
-      "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 7
-    },
-    {
-      "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 7
-    },
-    {
-      "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 7
-    },
-    {
       "model_response": "2024, April",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 3750,
       "depth_percent": 0.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
-      "model_response": "2024, April",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 2
     },
@@ -379,6 +347,14 @@
       "frequency": 2
     },
     {
+      "model_response": "2024, April",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
+    },
+    {
       "model_response": "2022.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 3750,
@@ -387,12 +363,36 @@
       "frequency": 2
     },
     {
+      "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 7
+    },
+    {
       "model_response": "April 2024",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 5000,
       "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 1
+    },
+    {
+      "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 7
+    },
+    {
+      "model_response": "In 2024, Alphabet's market capitalization reached its highest value in April.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 7
     },
     {
       "model_response": "April 2024.",
@@ -453,25 +453,9 @@
       "frequency": 2
     },
     {
-      "model_response": "2022-01-03",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
       "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 2500,
       "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 2
@@ -509,18 +493,18 @@
       "frequency": 3
     },
     {
-      "model_response": "In 2022, Alphabet's market capitalization reached its highest value in history.",
+      "model_response": "In April 2024, Alphabet's market capitalization reached $1.2 trillion.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 2500,
-      "depth_percent": 25.0,
+      "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 3
+      "frequency": 2
     },
     {
       "model_response": "In 2022, Alphabet's market capitalization reached its highest value in history.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
+      "context_length": 2500,
+      "depth_percent": 25.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 3
     },
@@ -539,6 +523,14 @@
       "depth_percent": 75.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 1
+    },
+    {
+      "model_response": "2022-01-03",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
     },
     {
       "model_response": "In April 2024, Alphabet's market capitalization reached its all-time high of $1.5 trillion.",
@@ -573,10 +565,10 @@
       "frequency": 3
     },
     {
-      "model_response": "In 2022, Alphabet's market capitalization reached its highest value ever in April.",
+      "model_response": "In 2022, Alphabet's market capitalization reached its highest value in history.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 5000,
-      "depth_percent": 25.0,
+      "depth_percent": 0.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 3
     },
@@ -587,6 +579,14 @@
       "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 1
+    },
+    {
+      "model_response": "In 2022, Alphabet's market capitalization reached its highest value ever in April.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 3
     },
     {
       "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
@@ -695,57 +695,9 @@
       "frequency": 5
     },
     {
-      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 5
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 5
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 5
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 5
-    },
-    {
       "model_response": "In April 2024, Alphabet's market capitalization reached its all-time high of $1.2 trillion.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 3
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached its all-time high of $1.2 trillion.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 3
-    },
-    {
-      "model_response": "In April 2024, Alphabet's market capitalization reached its all-time high of $1.2 trillion.",
-      "needle": "The all-time highest value of Alphabet was in April 2024.",
-      "context_length": 5000,
       "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 3
@@ -759,6 +711,22 @@
       "frequency": 1
     },
     {
+      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 5
+    },
+    {
+      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 5
+    },
+    {
       "model_response": "The highest recorded value for Alphabet's market capitalization was in April 202B.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 3750,
@@ -767,12 +735,12 @@
       "frequency": 2
     },
     {
-      "model_response": "The highest recorded value for Alphabet's market capitalization was in April 202B.",
+      "model_response": "In April 2024, Alphabet's market capitalization reached its all-time high of $1.2 trillion.",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 3750,
-      "depth_percent": 50.0,
+      "depth_percent": 100.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
-      "frequency": 2
+      "frequency": 3
     },
     {
       "model_response": "The highest recorded value for Alphabet's market capitalization was in the first quarter of 202B.",
@@ -781,6 +749,14 @@
       "depth_percent": 25.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 1
+    },
+    {
+      "model_response": "The highest recorded value for Alphabet's market capitalization was in April 202B.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 2
     },
     {
       "model_response": "In the second quarter of 2020, Alphabet's market capitalization reached its highest value ever.",
@@ -799,12 +775,36 @@
       "frequency": 2
     },
     {
+      "model_response": "In April 2024, Alphabet's market capitalization reached its all-time high of $1.2 trillion.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 3
+    },
+    {
       "model_response": "April 2024",
       "needle": "The all-time highest value of Alphabet was in April 2024.",
       "context_length": 5000,
       "depth_percent": 25.0,
       "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
       "frequency": 2
+    },
+    {
+      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 5
+    },
+    {
+      "model_response": "In April 2024, Alphabet's market capitalization reached its highest value ever.",
+      "needle": "The all-time highest value of Alphabet was in April 2024.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "In what year and month did Alphabet's market capitalization reach its highest-ever recorded value?",
+      "frequency": 5
     }
   ]
 }

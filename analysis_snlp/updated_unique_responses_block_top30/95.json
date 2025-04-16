@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in. On January 3, 2023, the House of Representatives held its first session of the 118th Congress",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives voted 216 to 203 to remove Kevin McCarthy as speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in. On January 3, 2023, the House of Representatives held its first session of the 118th Congress",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in, and the House of Representatives elected Kevin McCarthy as speaker. McCarthy was the only candidate nominated for the position, and he",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in. On January 3, 2023, the House of Representatives held its first session of the 118th Congress",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the House of Representatives held its first vote to elect a speaker for the 118th Congress. The vote was held after the previous speaker, Nancy Pelosi, announced her retirement.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was held after eight previous ballots, during which no candidate received a majority of the votes cast",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the House of Representatives held its first session of the 118th Congress. The House was called to order by the Speaker of the House, Kevin McCarthy, who was elected",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was held after the House failed to elect a speaker on eight previous ballots.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the House of Representatives held a vote to elect a new Speaker of the House. The vote was held after the previous Speaker, Paul Ryan, announced his retirement. The vote was held",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the House of Representatives held a vote to elect a new Speaker of the House. The vote was held after the previous Speaker, Paul Ryan, announced his retirement. The vote was held",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was held after the House failed to elect a speaker on eight previous ballots.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in. On January 3, 2023, the House of Representatives held its first session of the 118th Congress",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives voted 216 to 203 to remove Kevin McCarthy as speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in. On January 3, 2023, the House of Representatives held its first session of the 118th Congress",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in, and the House of Representatives elected Kevin McCarthy as speaker. McCarthy was the only candidate nominated for the position, and he",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the 118th Congress was sworn in. On January 3, 2023, the House of Representatives held its first session of the 118th Congress",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was the first time that a candidate received a majority of the votes cast, but not a majority",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, 216 Republicans voted for Kevin McCarthy, 203 voted for Jim Jordan, and 19 voted for someone else.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Jim Jordan received 152 votes, while Steve Scalise received 58 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives voted to elect Jim Jordan as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth vote to elect a speaker. The vote was held after the House failed to elect a speaker on eight previous ballots.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot in the January 2023 Speaker of the House election was a tie between Kevin McCarthy and Hakeem Jeffries.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives voted to elect Jim Jordan as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 200 votes, while Hakeem Jeffries received 212 votes. This was the closest vote in the history of the Speaker of the House election.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was held on January 4, 2023, and the House was unable to",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes. This was the first time in history that a speaker had been elected on the ninth ballot",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Kevin McCarthy was elected Speaker of the House on the ninth ballot.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was the first time that a candidate had received more than 218 votes, the number",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 6, 2023, the ninth ballot for Speaker of the United States House of Representatives was held. The ninth ballot was held after the eighth ballot, which was held on January 4",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House. McCarthy had been nominated by the Republican Party, and the Democrats had nominated Hakeem Jeffries. McCarthy received",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 7, 2023, the ninth ballot for Speaker of the United States House of Representatives was held. The ninth ballot was held after eight previous ballots, which had failed to produce a majority of",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Kevin McCarthy was elected on the fifteenth ballot.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was the final ballot of the 2023 Speaker of the House election. On this ballot, Kevin McCarthy, the Republican nominee, received 216 votes, while Hake",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The ninth ballot was held on January 4, 2023.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 5,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, McCarthy received 200 votes, while Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, McCarthy received 216 votes, Jeffries received 209 votes, and 19 Republicans voted for someone else.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, McCarthy received 200 votes, while Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, McCarthy received 200 votes, while Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, McCarthy received 200 votes, while Jeffries received 212 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, which was enough to win the election.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 4, 2023, the House of Representatives held its ninth ballot to elect a speaker. The ninth ballot was the first time that a candidate had received more than 200 votes, but no",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, while Hakeem Jeffries received 212 votes. This was the first time in history that a speaker had been elected with fewer than 21",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the Speaker of the House was elected.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 3, 2023, the House of Representatives held its first vote to elect a speaker. The vote was held after the 2022 midterm elections, which resulted in a narrow Republican majority in the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, the House of Representatives elected Kevin McCarthy as Speaker of the House.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, which was enough to win the election.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On January 7, 2023, the ninth ballot in the Speaker of the House election was held. The ninth ballot was the first time that a candidate received more than 20% of the vote.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy was elected Speaker of the House with 216 votes.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, which was enough to win the election.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "On the ninth ballot, Kevin McCarthy received 216 votes, which was enough to win the election.",
+            "needle": "No one received a majority of the votes on the ninth ballot.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What happened on the ninth ballot in the January 2023 Speaker of the House election?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

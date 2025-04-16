@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "May 12, 1910, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2016.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 22, 2016.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2019",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2019",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 22, 2016.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "May 12, 1910, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2019, 12:53:24 PM, 100.00000000000000000000000",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "May 12, 1910, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 22, 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 22, 2016.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2024, 12:00:00 PM",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "May 12, 1910, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2016.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 22, 2016.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 20, 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "20 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "20 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "2023.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "2023.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "2023.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "2023.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "July 10, 1913, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 10, 1913, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 2016, when the average temperature was 62.06 degrees Fahrenheit.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record for the entire planet was July 10, 1913, when Death Valley, California, reached 134 degrees Fahrenheit.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was July 10, 1913, when the temperature reached 134 degrees Fahrenheit in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was July 10, 2019, when the average temperature was 108.7 degrees Fahrenheit.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was July 10, 1913, when the temperature reached 134 degrees Fahrenheit in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was July 20, 2019, when the average temperature on Earth was 1.7 degrees Fahrenheit above the 20th century average.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 10, 1913, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "10 July 1913, Furnace Creek, California, USA.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "129.2 degrees Fahrenheit, July 10, 1913, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "10 July 2016, when the temperature reached 125.38 degrees Fahrenheit in the Libyan city of Al-Aziziyah.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 10, 1913, in Death Valley, California.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "12 May 2016, when the temperature reached 125.3 degrees Fahrenheit in the Sahara Desert.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "12 May 2016, when the temperature reached 125.3 degrees Fahrenheit in the city of Turbat, Pakistan.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "July 22, 2019, by the World Meteorological Organization.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "July 10, 2012, by Christopher C. Burt, 2013.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 2016, by Christopher C. Burt, Weatherwise, 2017, p. 11.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "July 22, 2016, by the World Meteorological Organization.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "1998.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "1998.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "1913.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2019.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was 129.2 degrees Fahrenheit (53.9 degrees Celsius) in Death Valley, California, on July 10, 1913.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was 129.2 degrees Fahrenheit (53.9 degrees Celsius) in Death Valley, California, on July 10, 1913.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was 129 degrees Fahrenheit in Death Valley, California, on July 10, 1913.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The warmest day on record was 22 July 2024, when the average temperature on Earth was 16.7 degrees Celsius.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "12 May 2020.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "12 May 2022.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "22 July 2024.",
+            "needle": "The warmest day on record for the entire planet was 22 July 2024.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "When was the warmest day on record for the entire planet?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

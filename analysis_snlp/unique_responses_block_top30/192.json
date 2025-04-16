@@ -57,6 +57,14 @@
       "frequency": 5
     },
     {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 1250,
+      "depth_percent": 25.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
       "model_response": "Croatia's current national currency is the Euro.",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 1250,
@@ -73,98 +81,10 @@
       "frequency": 5
     },
     {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 5
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 1250,
-      "depth_percent": 25.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
       "model_response": "The current national currency of Croatia is the Euro.",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 2500,
       "depth_percent": 0.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 0.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 25.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 11
-    },
-    {
-      "model_response": "The current national currency of Croatia is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 11
     },
@@ -185,6 +105,30 @@
       "frequency": 4
     },
     {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 0.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
       "model_response": "The Croatian kuna is the national currency of Croatia.",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 3750,
@@ -193,12 +137,68 @@
       "frequency": 4
     },
     {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 25.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 5
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
       "model_response": "The Croatian kuna is the national currency of Croatia.",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 5000,
       "depth_percent": 100.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 4
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
+    },
+    {
+      "model_response": "The current national currency of Croatia is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 11
     }
   ],
   "relevant_misleading": [
@@ -299,70 +299,6 @@
       "frequency": 10
     },
     {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 75.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 0.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
-      "model_response": "The Croatian kuna is the national currency of Croatia.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 10
-    },
-    {
       "model_response": "The Croatian kuna is the official currency of Croatia.",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 2500,
@@ -395,12 +331,76 @@
       "frequency": 1
     },
     {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
       "model_response": "The Euro",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 3750,
       "depth_percent": 25.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 1
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 0.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
+    },
+    {
+      "model_response": "The Croatian kuna is the national currency of Croatia.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 10
     }
   ],
   "irrelevant": [
@@ -453,6 +453,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 4
+    },
+    {
       "model_response": "Croatian kuna",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 1250,
@@ -485,6 +493,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 2500,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 4
+    },
+    {
       "model_response": "Croatian kuna",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 2500,
@@ -517,6 +533,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 3750,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 4
+    },
+    {
       "model_response": "Croatian kuna",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 3750,
@@ -549,6 +573,14 @@
       "frequency": 16
     },
     {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 4
+    },
+    {
       "model_response": "Croatian kuna",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 5000,
@@ -571,38 +603,6 @@
       "depth_percent": 75.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 16
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 2500,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 3750,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 4
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 4
     }
   ],
   "irrelevant_misleading": [
@@ -655,6 +655,14 @@
       "frequency": 5
     },
     {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 1250,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 12
+    },
+    {
       "model_response": "Croatian kuna",
       "needle": "Croatia's current national currency is the Euro.",
       "context_length": 1250,
@@ -689,14 +697,6 @@
     {
       "model_response": "Croatia's current national currency is the Euro.",
       "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 1250,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
       "context_length": 2500,
       "depth_percent": 100.0,
       "question": "What is Croatia's current national currency?",
@@ -709,6 +709,22 @@
       "depth_percent": 25.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 12
+    },
+    {
+      "model_response": "Euro",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 2500,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 2
+    },
+    {
+      "model_response": "Euro",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 2500,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 2
     },
     {
       "model_response": "Croatia's current national currency is the Euro.",
@@ -749,54 +765,6 @@
       "depth_percent": 75.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 12
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 100.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 25.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Croatia's current national currency is the Euro.",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 5000,
-      "depth_percent": 75.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 12
-    },
-    {
-      "model_response": "Euro",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 2500,
-      "depth_percent": 50.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 2
-    },
-    {
-      "model_response": "Euro",
-      "needle": "Croatia's current national currency is the Euro.",
-      "context_length": 2500,
-      "depth_percent": 75.0,
-      "question": "What is Croatia's current national currency?",
-      "frequency": 2
     },
     {
       "model_response": "Croatia's current national currency is the kuna.",
@@ -805,6 +773,38 @@
       "depth_percent": 0.0,
       "question": "What is Croatia's current national currency?",
       "frequency": 1
+    },
+    {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 100.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 25.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 50.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 12
+    },
+    {
+      "model_response": "Croatia's current national currency is the Euro.",
+      "needle": "Croatia's current national currency is the Euro.",
+      "context_length": 5000,
+      "depth_percent": 75.0,
+      "question": "What is Croatia's current national currency?",
+      "frequency": 12
     }
   ]
 }

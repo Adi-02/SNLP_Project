@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "George H. W. Bush.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "George H.W. Bush.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland, was the most recent incumbent president to run for re-election and not be re-elected. Muse Bihi Abdi was elected president of Somaliland in",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland, was the most recent incumbent president to run for re-election and not be re-elected. Muse Bihi Abdi was the President of Somaliland from",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "George H. W. Bush.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland, was the most recent incumbent president to run for re-election and not be re-elected. Muse Bihi Abdi was elected President of Somaliland in",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia. Muse was elected president in 2017 and re-elected in 2020. He was not re-elected in 2021.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia. Muse was the president of Somaliland from 2010 to 2017. He was re-elected in 2017, but he was not re-",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia. Muse was the president of Somaliland from 2010 to 2017. He was re-elected in 2017, but he was not re-",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "George H. W. Bush",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, Muse Bihi Abdi was the most recent incumbent president of Somalia who ran for re-election but was not re-elected. Muse was the president of Somalia from 2017",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, the president of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Aden Abdullah Osman Daar, the first president of Somalia, was the most recent incumbent president who ran for re-election but was not re-elected. He was defeated in the 1967 Som",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "George H.W. Bush, who was the 41st President of the United States from 1989 to 1993.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "George H.W. Bush, who was the 41st President of the United States from 1989 to 1993.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "George H.W. Bush, the 41st President of the United States, was the most recent incumbent president who ran for re-election but was not re-elected. Bush was defeated by Democrat Bill Clinton",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent incumbent president who ran for re-election but was not re-elected was Donald Trump of the United States.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 14,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi was the most recent incumbent president who was not reelected. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland, lost his re-election bid in 2021.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland, lost the 2021 Somaliland presidential election to Muse Fiqi. Muse Bihi Abdi was the most recent incumbent president to lose a re",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia. Muse Bihi Abdi was the president of Somalia from 2017 to 2022. He was the first president of Somalia to be elected by popular vote since 1",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland. Muse Bihi Abdi was the most recent incumbent president to lose a re-election bid. He was defeated by Muse Fegow in the 2021",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somalia.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recent incumbent president to lose re-election was George H. W. Bush, who lost to Bill Clinton in the 1992 United States presidential election.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Muse Muse Bihi Abdi, President of Somaliland. Muse Muse Bihi Abdi was the most recent incumbent president to lose re-election. Muse Muse Bihi Abdi was the president of Somaliland from",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse Muse",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi, President of Somaliland, who lost the 2021 Somaliland presidential election.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Bihi Abdi of Somaliland.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Muse Museveni, Uganda",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Museveni, Uganda",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Muse Museveni of Uganda.",
+            "needle": "Muse Bihi Abdi was the most recent incumbent president worldwide who ran for re-election but was not reelected.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}

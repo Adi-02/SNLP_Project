@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Three-Body Problem by Cixin Liu.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Lost Things.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Three-Body Problem by Cixin Liu.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Fifth Season by N. K. Jemisin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Three-Body Problem by Cixin Liu.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Lost Things by Christopher Barzak.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Lost Things by Christopher Barzak.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Lost Things by Christopher Barzak.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was given to The Doors of His Face, the Lamps of His Mouth by Roger Zelazny.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Doors of Saint Bright, by Beverly Cleary",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Doors of Saint Bright.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Doors of Saint Bright.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Doors of Saint Bright.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of the Lost and Found by Vajra Chandresekar.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of the Stones by Vajra Chandrasekara.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of the Stones by Vajra Chandran.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of the Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of Lost Things by Christopher Barzak.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of Lost Things by Christopher Barzak.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of the Lost and Found.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Lathe of Heaven by Ursula K. Le Guin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of Lost Things by Christopher Barzak.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Lathe of Heaven by Ursula K. Le Guin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Dispossessed by Ursula K. Le Guin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Uplift War by David Brin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Uplift War by David Brin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of the Lost and Found.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Uplift War by David Brin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of the Bright Door",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Doors of His Face, the Lamps of His Mouth.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Doors of Saint Swithin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Doors of His Eyes Were Blue.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Irrelevant Retrieval"
+        },
+        {
+            "model_response": "The Lathe of Heaven by Ursula K. Le Guin.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Saint of Bright Doors",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 2,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was won by The Saint of Lost Causes by Ronald Malfi.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel was The Saint of Lost Causes by Ronald Malfi.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Nebula award for Best Novel was given to The Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint of the Saint",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 1,
+            "hallucination_type": "Excess Incorrect Retrieval"
+        },
+        {
+            "model_response": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "needle": "The book that won the latest Nebula award for Best Novel is The Saint of Bright Doors.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What book won the latest Nebula award for Best Novel?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Handmaid's Tale",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is The Crown.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is The Crown.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Crown",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Handmaid's Tale",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Crown",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Handmaid's Tale",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Brutalist",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 16,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Handmaid's Tale",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Last of Us",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The West Wing",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 4,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Game of Thrones",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Handmaid's Tale",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 11,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun won the award.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 5,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Last of Us.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun.",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 3,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Sh\u014dgun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Last of Us",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "Shogun",
+            "needle": "The drama series that won the most recent Primetime Emmy Award for Outstanding Drama Series is Sh\u014dgun.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?",
+            "frequency": 8,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ]
+}

@@ -1,0 +1,910 @@
+{
+    "irrelevant": [
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Tale of the Princess Kaguya",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises (2013).",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Most Recent Studio Ghibli Film Is The Heron And The Boy.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 12,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "irrelevant_misleading": [
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 5,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Beast",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Beast.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Beast",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 2,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Beast.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Boy and the Heron",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 7,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Beast.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 3,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 6,
+            "hallucination_type": "Correct Retrieval"
+        }
+    ],
+    "relevant": [
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises (2013)",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Red Turtle",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Tale of the Princess Kaguya",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Red Turtle.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ],
+    "relevant_misleading": [
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 0,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Tale of the Princess Kaguya.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "Spirited Away",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 1250,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises (2013)",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 2500,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 3750,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The Wind Rises, by Hayao Miyazaki.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 0.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 100.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 8,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Studio Ghibli film is The Wind Rises.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 25.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 4,
+            "hallucination_type": "Contradictory Retrieval"
+        },
+        {
+            "model_response": "The latest Studio Ghibli film is The Boy and the Heron.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 50.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Correct Retrieval"
+        },
+        {
+            "model_response": "The most recently released Studio Ghibli film is The Boy and the Beast.",
+            "needle": "The most recently released Studio Ghibli film is The Boy and the Heron.",
+            "context_length": 5000,
+            "depth_percent": 75.0,
+            "question": "What is the title of the most recently released Studio Ghibli film?",
+            "frequency": 1,
+            "hallucination_type": "Contradictory Retrieval"
+        }
+    ]
+}
